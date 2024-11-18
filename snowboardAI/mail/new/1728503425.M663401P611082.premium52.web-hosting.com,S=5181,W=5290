@@ -1,0 +1,109 @@
+Return-Path: <>
+Delivered-To: snowqjji@premium52.web-hosting.com
+Received: from premium52.web-hosting.com
+	by premium52.web-hosting.com with LMTP
+	id INW7JoHeBmcKUwkAcR6V3Q
+	(envelope-from <>)
+	for <snowqjji@premium52.web-hosting.com>; Wed, 09 Oct 2024 15:50:25 -0400
+Return-path: <>
+Envelope-to: snowqjji@premium52.web-hosting.com
+Delivery-date: Wed, 09 Oct 2024 15:50:25 -0400
+Received: from mailnull by premium52.web-hosting.com with local (Exim 4.96.2)
+	id 1sychV-002dip-20
+	for snowqjji@premium52.web-hosting.com;
+	Wed, 09 Oct 2024 15:50:25 -0400
+X-Failed-Recipients: admin@snowboard-ai.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@premium52.web-hosting.com>
+To: snowqjji@premium52.web-hosting.com
+References: <jjNanX11Ve8PIiiQUnB2XEehecug3hE8ID1l3f2Y24@snowboard-ai.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1728503425-eximdsn-1540309314
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sychV-002dip-20@premium52.web-hosting.com>
+Date: Wed, 09 Oct 2024 15:50:25 -0400
+
+--1728503425-eximdsn-1540309314
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  admin@snowboard-ai.com
+    No Such User Here
+
+--1728503425-eximdsn-1540309314
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; premium52.web-hosting.com
+
+Action: failed
+Final-Recipient: rfc822;admin@snowboard-ai.com
+Status: 5.0.0
+
+--1728503425-eximdsn-1540309314
+Content-type: message/rfc822
+
+Return-path: <snowqjji@premium52.web-hosting.com>
+Received: from snowqjji by premium52.web-hosting.com with local (Exim 4.96.2)
+	(envelope-from <snowqjji@premium52.web-hosting.com>)
+	id 1sychV-002diY-1P
+	for admin@snowboard-ai.com;
+	Wed, 09 Oct 2024 15:50:25 -0400
+To: admin@snowboard-ai.com
+Subject: [Snowboard AI] Please moderate: "Hello world!"
+Date: Wed, 9 Oct 2024 19:50:25 +0000
+From: WordPress <wordpress@snowboard-ai.com>
+Message-ID: <jjNanX11Ve8PIiiQUnB2XEehecug3hE8ID1l3f2Y24@snowboard-ai.com>
+X-Mailer: PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1=_jjNanX11Ve8PIiiQUnB2XEehecug3hE8ID1l3f2Y24"
+Content-Transfer-Encoding: 8bit
+Sender:  <snowqjji@premium52.web-hosting.com>
+
+--b1=_jjNanX11Ve8PIiiQUnB2XEehecug3hE8ID1l3f2Y24
+Content-Type: text/plain; charset=us-ascii
+
+A new comment on the post "Hello world!" is waiting for your approval
+https://snowboard-ai.com/2024/07/05/hello-world/
+
+Author: Lineage_tjon (IP address: 89.110.87.170, host-89-110-87-170.hosted-by-vdsina.com)
+Email: itnxkvctzon@cryptoexlicense.com
+URL: https://cryptoexlicense.com/
+Comment: 
+Popular Lineage 2 servers with high online 
+LA2 Classic <a href="https://cryptoexlicense.com/chronicle/lineage-2-classic" rel="nofollow ugc">https://cryptoexlicense.com/chronicle/lineage-2-classic</a> .
+
+Approve it: https://snowboard-ai.com/wp-admin/comment.php?action=approve&c=11#wpbody-content
+Trash it: https://snowboard-ai.com/wp-admin/comment.php?action=trash&c=11#wpbody-content
+Spam it: https://snowboard-ai.com/wp-admin/comment.php?action=spam&c=11#wpbody-content
+Currently 4 comments are waiting for approval. Please visit the moderation panel:
+https://snowboard-ai.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content
+
+--b1=_jjNanX11Ve8PIiiQUnB2XEehecug3hE8ID1l3f2Y24
+Content-Type: text/html; charset=us-ascii
+
+A new comment on the post "Hello world!" is waiting for your approval
+<a href="https://snowboard-ai.com/2024/07/05/hello-world/">https://snowboard-ai.com/2024/07/05/hello-world/</a>
+
+Author: Lineage_tjon (IP address: 89.110.87.170, host-89-110-87-170.hosted-by-vdsina.com)
+Email: <a href="mailto:itnxkvctzon@cryptoexlicense.com">itnxkvctzon@cryptoexlicense.com</a>
+URL: <a href="https://cryptoexlicense.com/" rel="nofollow">https://cryptoexlicense.com/</a>
+Comment: 
+Popular Lineage 2 servers with high online 
+LA2 Classic <a href="https://cryptoexlicense.com/chronicle/lineage-2-classic" rel="nofollow ugc">https://cryptoexlicense.com/chronicle/lineage-2-classic</a> .
+
+Approve it: <a href="https://snowboard-ai.com/wp-admin/comment.php?action=approve&#038;c=11#wpbody-content">https://snowboard-ai.com/wp-admin/comment.php?action=approve&#038;c=11#wpbody-content</a>
+Trash it: <a href="https://snowboard-ai.com/wp-admin/comment.php?action=trash&#038;c=11#wpbody-content">https://snowboard-ai.com/wp-admin/comment.php?action=trash&#038;c=11#wpbody-content</a>
+Spam it: <a href="https://snowboard-ai.com/wp-admin/comment.php?action=spam&#038;c=11#wpbody-content">https://snowboard-ai.com/wp-admin/comment.php?action=spam&#038;c=11#wpbody-content</a>
+Currently 4 comments are waiting for approval. Please visit the moderation panel:
+<a href="https://snowboard-ai.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content">https://snowboard-ai.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content</a>
+
+
+--b1=_jjNanX11Ve8PIiiQUnB2XEehecug3hE8ID1l3f2Y24--
+
+
+--1728503425-eximdsn-1540309314--

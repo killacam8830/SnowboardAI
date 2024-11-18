@@ -1,0 +1,123 @@
+Return-Path: <>
+Delivered-To: snowqjji@premium52.web-hosting.com
+Received: from premium52.web-hosting.com
+	by premium52.web-hosting.com with LMTP
+	id 0HljFrq4G2cblyAAcR6V3Q
+	(envelope-from <>)
+	for <snowqjji@premium52.web-hosting.com>; Fri, 25 Oct 2024 11:26:50 -0400
+Return-path: <>
+Envelope-to: snowqjji@premium52.web-hosting.com
+Delivery-date: Fri, 25 Oct 2024 11:26:50 -0400
+Received: from mailnull by premium52.web-hosting.com with local (Exim 4.96.2)
+	id 1t4MDC-009BVD-16
+	for snowqjji@premium52.web-hosting.com;
+	Fri, 25 Oct 2024 11:26:50 -0400
+X-Failed-Recipients: admin@snowboard-ai.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@premium52.web-hosting.com>
+To: snowqjji@premium52.web-hosting.com
+References: <pwwSIroWe5BBupoa54mQ8Ga63X5wDEwl2owJJx7W78@snowboard-ai.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1729870010-eximdsn-1735897150
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1t4MDC-009BVD-16@premium52.web-hosting.com>
+Date: Fri, 25 Oct 2024 11:26:50 -0400
+
+--1729870010-eximdsn-1735897150
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  admin@snowboard-ai.com
+    No Such User Here
+
+--1729870010-eximdsn-1735897150
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; premium52.web-hosting.com
+
+Action: failed
+Final-Recipient: rfc822;admin@snowboard-ai.com
+Status: 5.0.0
+
+--1729870010-eximdsn-1735897150
+Content-type: message/rfc822
+
+Return-path: <snowqjji@premium52.web-hosting.com>
+Received: from snowqjji by premium52.web-hosting.com with local (Exim 4.96.2)
+	(envelope-from <snowqjji@premium52.web-hosting.com>)
+	id 1t4MDC-009BUu-0N
+	for admin@snowboard-ai.com;
+	Fri, 25 Oct 2024 11:26:50 -0400
+To: admin@snowboard-ai.com
+Subject: [Snowboard AI] Please moderate: "Hello world!"
+Date: Fri, 25 Oct 2024 15:26:50 +0000
+From: WordPress <wordpress@snowboard-ai.com>
+Message-ID: <pwwSIroWe5BBupoa54mQ8Ga63X5wDEwl2owJJx7W78@snowboard-ai.com>
+X-Mailer: PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1=_pwwSIroWe5BBupoa54mQ8Ga63X5wDEwl2owJJx7W78"
+Content-Transfer-Encoding: 8bit
+Sender:  <snowqjji@premium52.web-hosting.com>
+
+--b1=_pwwSIroWe5BBupoa54mQ8Ga63X5wDEwl2owJJx7W78
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+A new comment on the post "Hello world!" is waiting for your approval
+https://snowboard-ai.com/2024/07/05/hello-world/
+
+Author: Scottsof (IP address: 185.33.84.46, 185.33.84.46)
+Email: g_f_d_c@trustmailticket.com
+URL: 
+Comment: 
+Small changes lead to big results вЂ“ start now!
+Support your bodyвЂ<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s needs; donвЂ<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t compromise!
+Elevate your immunity, elevate your life!
+Your health transformation starts with the right supplements!
+Every supplement is a boost towards greatness!
+ 
+vtkqj3vk4tuqjhwejhqw  - snowboard-ai.com 
+https://UnuncViospicsig.info
+
+Approve it: https://snowboard-ai.com/wp-admin/comment.php?action=approve&c=23#wpbody-content
+Trash it: https://snowboard-ai.com/wp-admin/comment.php?action=trash&c=23#wpbody-content
+Spam it: https://snowboard-ai.com/wp-admin/comment.php?action=spam&c=23#wpbody-content
+Currently 16 comments are waiting for approval. Please visit the moderation panel:
+https://snowboard-ai.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content
+
+--b1=_pwwSIroWe5BBupoa54mQ8Ga63X5wDEwl2owJJx7W78
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+A new comment on the post "Hello world!" is waiting for your approval
+<a href="https://snowboard-ai.com/2024/07/05/hello-world/">https://snowboard-ai.com/2024/07/05/hello-world/</a>
+
+Author: Scottsof (IP address: 185.33.84.46, 185.33.84.46)
+Email: <a href="mailto:g_f_d_c@trustmailticket.com">g_f_d_c@trustmailticket.com</a>
+URL: 
+Comment: 
+Small changes lead to big results вЂ“ start now!
+Support your bodyвЂ<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s needs; donвЂ<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t compromise!
+Elevate your immunity, elevate your life!
+Your health transformation starts with the right supplements!
+Every supplement is a boost towards greatness!
+ 
+vtkqj3vk4tuqjhwejhqw  - snowboard-ai.com 
+<a href="https://UnuncViospicsig.info" rel="nofollow">https://UnuncViospicsig.info</a>
+
+Approve it: <a href="https://snowboard-ai.com/wp-admin/comment.php?action=approve&#038;c=23#wpbody-content">https://snowboard-ai.com/wp-admin/comment.php?action=approve&#038;c=23#wpbody-content</a>
+Trash it: <a href="https://snowboard-ai.com/wp-admin/comment.php?action=trash&#038;c=23#wpbody-content">https://snowboard-ai.com/wp-admin/comment.php?action=trash&#038;c=23#wpbody-content</a>
+Spam it: <a href="https://snowboard-ai.com/wp-admin/comment.php?action=spam&#038;c=23#wpbody-content">https://snowboard-ai.com/wp-admin/comment.php?action=spam&#038;c=23#wpbody-content</a>
+Currently 16 comments are waiting for approval. Please visit the moderation panel:
+<a href="https://snowboard-ai.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content">https://snowboard-ai.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content</a>
+
+
+--b1=_pwwSIroWe5BBupoa54mQ8Ga63X5wDEwl2owJJx7W78--
+
+
+--1729870010-eximdsn-1735897150--

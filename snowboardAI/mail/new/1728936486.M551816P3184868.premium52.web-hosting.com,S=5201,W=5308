@@ -1,0 +1,107 @@
+Return-Path: <>
+Delivered-To: snowqjji@premium52.web-hosting.com
+Received: from premium52.web-hosting.com
+	by premium52.web-hosting.com with LMTP
+	id KI8oICZ6DWfkmDAAcR6V3Q
+	(envelope-from <>)
+	for <snowqjji@premium52.web-hosting.com>; Mon, 14 Oct 2024 16:08:06 -0400
+Return-path: <>
+Envelope-to: snowqjji@premium52.web-hosting.com
+Delivery-date: Mon, 14 Oct 2024 16:08:06 -0400
+Received: from mailnull by premium52.web-hosting.com with local (Exim 4.96.2)
+	id 1t0RMM-00DMiF-1e
+	for snowqjji@premium52.web-hosting.com;
+	Mon, 14 Oct 2024 16:08:06 -0400
+X-Failed-Recipients: admin@snowboard-ai.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@premium52.web-hosting.com>
+To: snowqjji@premium52.web-hosting.com
+References: <jHgYYd5M5sVxhRMzwWu5EbdIPXTOYMEx4IrppjQ73RY@snowboard-ai.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1728936486-eximdsn-937386288
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1t0RMM-00DMiF-1e@premium52.web-hosting.com>
+Date: Mon, 14 Oct 2024 16:08:06 -0400
+
+--1728936486-eximdsn-937386288
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  admin@snowboard-ai.com
+    No Such User Here
+
+--1728936486-eximdsn-937386288
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; premium52.web-hosting.com
+
+Action: failed
+Final-Recipient: rfc822;admin@snowboard-ai.com
+Status: 5.0.0
+
+--1728936486-eximdsn-937386288
+Content-type: message/rfc822
+
+Return-path: <snowqjji@premium52.web-hosting.com>
+Received: from snowqjji by premium52.web-hosting.com with local (Exim 4.96.2)
+	(envelope-from <snowqjji@premium52.web-hosting.com>)
+	id 1t0RMM-00DMi5-0z
+	for admin@snowboard-ai.com;
+	Mon, 14 Oct 2024 16:08:06 -0400
+To: admin@snowboard-ai.com
+Subject: [Snowboard AI] Please moderate: "Hello world!"
+Date: Mon, 14 Oct 2024 20:08:06 +0000
+From: WordPress <wordpress@snowboard-ai.com>
+Message-ID: <jHgYYd5M5sVxhRMzwWu5EbdIPXTOYMEx4IrppjQ73RY@snowboard-ai.com>
+X-Mailer: PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1=_jHgYYd5M5sVxhRMzwWu5EbdIPXTOYMEx4IrppjQ73RY"
+Content-Transfer-Encoding: 8bit
+Sender:  <snowqjji@premium52.web-hosting.com>
+
+--b1=_jHgYYd5M5sVxhRMzwWu5EbdIPXTOYMEx4IrppjQ73RY
+Content-Type: text/plain; charset=us-ascii
+
+A new comment on the post "Hello world!" is waiting for your approval
+https://snowboard-ai.com/2024/07/05/hello-world/
+
+Author: rent_dkka (IP address: 89.110.87.170, host-89-110-87-170.hosted-by-vdsina.com)
+Email: lsdqculgkka@easyrepair-toronto.com
+URL: https://easyrepair-toronto.com/
+Comment: 
+We offer the best rates on car rentalsnissan serena rental no deposit <a href="https://easyrepair-toronto.com/our-cars/?view=cardetails&carid=14/" / rel="nofollow ugc">nissan serena rental no deposit</a> .
+
+Approve it: https://snowboard-ai.com/wp-admin/comment.php?action=approve&c=14#wpbody-content
+Trash it: https://snowboard-ai.com/wp-admin/comment.php?action=trash&c=14#wpbody-content
+Spam it: https://snowboard-ai.com/wp-admin/comment.php?action=spam&c=14#wpbody-content
+Currently 7 comments are waiting for approval. Please visit the moderation panel:
+https://snowboard-ai.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content
+
+--b1=_jHgYYd5M5sVxhRMzwWu5EbdIPXTOYMEx4IrppjQ73RY
+Content-Type: text/html; charset=us-ascii
+
+A new comment on the post "Hello world!" is waiting for your approval
+<a href="https://snowboard-ai.com/2024/07/05/hello-world/">https://snowboard-ai.com/2024/07/05/hello-world/</a>
+
+Author: rent_dkka (IP address: 89.110.87.170, host-89-110-87-170.hosted-by-vdsina.com)
+Email: <a href="mailto:lsdqculgkka@easyrepair-toronto.com">lsdqculgkka@easyrepair-toronto.com</a>
+URL: <a href="https://easyrepair-toronto.com/" rel="nofollow">https://easyrepair-toronto.com/</a>
+Comment: 
+We offer the best rates on car rentalsnissan serena rental no deposit <a href="https://easyrepair-toronto.com/our-cars/?view=cardetails&carid=14/" / rel="nofollow ugc">nissan serena rental no deposit</a> .
+
+Approve it: <a href="https://snowboard-ai.com/wp-admin/comment.php?action=approve&#038;c=14#wpbody-content">https://snowboard-ai.com/wp-admin/comment.php?action=approve&#038;c=14#wpbody-content</a>
+Trash it: <a href="https://snowboard-ai.com/wp-admin/comment.php?action=trash&#038;c=14#wpbody-content">https://snowboard-ai.com/wp-admin/comment.php?action=trash&#038;c=14#wpbody-content</a>
+Spam it: <a href="https://snowboard-ai.com/wp-admin/comment.php?action=spam&#038;c=14#wpbody-content">https://snowboard-ai.com/wp-admin/comment.php?action=spam&#038;c=14#wpbody-content</a>
+Currently 7 comments are waiting for approval. Please visit the moderation panel:
+<a href="https://snowboard-ai.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content">https://snowboard-ai.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content</a>
+
+
+--b1=_jHgYYd5M5sVxhRMzwWu5EbdIPXTOYMEx4IrppjQ73RY--
+
+
+--1728936486-eximdsn-937386288--

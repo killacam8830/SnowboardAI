@@ -1,0 +1,109 @@
+Return-Path: <>
+Delivered-To: snowqjji@premium52.web-hosting.com
+Received: from premium52.web-hosting.com
+	by premium52.web-hosting.com with LMTP
+	id GFfILNNACGfZKSMAcR6V3Q
+	(envelope-from <>)
+	for <snowqjji@premium52.web-hosting.com>; Thu, 10 Oct 2024 17:02:11 -0400
+Return-path: <>
+Envelope-to: snowqjji@premium52.web-hosting.com
+Delivery-date: Thu, 10 Oct 2024 17:02:11 -0400
+Received: from mailnull by premium52.web-hosting.com with local (Exim 4.96.2)
+	id 1sz0IV-009gNf-2K
+	for snowqjji@premium52.web-hosting.com;
+	Thu, 10 Oct 2024 17:02:11 -0400
+X-Failed-Recipients: admin@snowboard-ai.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@premium52.web-hosting.com>
+To: snowqjji@premium52.web-hosting.com
+References: <HTP4lnqtEN5NaXiW5M3RmcGp8CILeMZx1zrW7a2ONo@snowboard-ai.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1728594131-eximdsn-1180073822
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sz0IV-009gNf-2K@premium52.web-hosting.com>
+Date: Thu, 10 Oct 2024 17:02:11 -0400
+
+--1728594131-eximdsn-1180073822
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  admin@snowboard-ai.com
+    No Such User Here
+
+--1728594131-eximdsn-1180073822
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; premium52.web-hosting.com
+
+Action: failed
+Final-Recipient: rfc822;admin@snowboard-ai.com
+Status: 5.0.0
+
+--1728594131-eximdsn-1180073822
+Content-type: message/rfc822
+
+Return-path: <snowqjji@premium52.web-hosting.com>
+Received: from snowqjji by premium52.web-hosting.com with local (Exim 4.96.2)
+	(envelope-from <snowqjji@premium52.web-hosting.com>)
+	id 1sz0IV-009gNM-1f
+	for admin@snowboard-ai.com;
+	Thu, 10 Oct 2024 17:02:11 -0400
+To: admin@snowboard-ai.com
+Subject: [Snowboard AI] Please moderate: "Hello world!"
+Date: Thu, 10 Oct 2024 21:02:11 +0000
+From: WordPress <wordpress@snowboard-ai.com>
+Message-ID: <HTP4lnqtEN5NaXiW5M3RmcGp8CILeMZx1zrW7a2ONo@snowboard-ai.com>
+X-Mailer: PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1=_HTP4lnqtEN5NaXiW5M3RmcGp8CILeMZx1zrW7a2ONo"
+Content-Transfer-Encoding: 8bit
+Sender:  <snowqjji@premium52.web-hosting.com>
+
+--b1=_HTP4lnqtEN5NaXiW5M3RmcGp8CILeMZx1zrW7a2ONo
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+A new comment on the post "Hello world!" is waiting for your approval
+https://snowboard-ai.com/2024/07/05/hello-world/
+
+Author: klinika_hmKn (IP address: 89.110.87.170, host-89-110-87-170.hosted-by-vdsina.com)
+Email: popnew@popunderinfo.com
+URL: https://popunderinfo.com/
+Comment: 
+Как найти идеальную клинику косметологии?лазерная эпиляция ног цена <a href="http://www.popunderinfo.com/" / rel="nofollow ugc">http://www.popunderinfo.com/</a> .
+
+Approve it: https://snowboard-ai.com/wp-admin/comment.php?action=approve&c=12#wpbody-content
+Trash it: https://snowboard-ai.com/wp-admin/comment.php?action=trash&c=12#wpbody-content
+Spam it: https://snowboard-ai.com/wp-admin/comment.php?action=spam&c=12#wpbody-content
+Currently 5 comments are waiting for approval. Please visit the moderation panel:
+https://snowboard-ai.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content
+
+--b1=_HTP4lnqtEN5NaXiW5M3RmcGp8CILeMZx1zrW7a2ONo
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+A new comment on the post "Hello world!" is waiting for your approval
+<a href="https://snowboard-ai.com/2024/07/05/hello-world/">https://snowboard-ai.com/2024/07/05/hello-world/</a>
+
+Author: klinika_hmKn (IP address: 89.110.87.170, host-89-110-87-170.hosted-by-vdsina.com)
+Email: <a href="mailto:popnew@popunderinfo.com">popnew@popunderinfo.com</a>
+URL: <a href="https://popunderinfo.com/" rel="nofollow">https://popunderinfo.com/</a>
+Comment: 
+Как найти идеальную клинику косметологии?лазерная эпиляция ног цена <a href="http://www.popunderinfo.com/" / rel="nofollow ugc">http://www.popunderinfo.com/</a> .
+
+Approve it: <a href="https://snowboard-ai.com/wp-admin/comment.php?action=approve&#038;c=12#wpbody-content">https://snowboard-ai.com/wp-admin/comment.php?action=approve&#038;c=12#wpbody-content</a>
+Trash it: <a href="https://snowboard-ai.com/wp-admin/comment.php?action=trash&#038;c=12#wpbody-content">https://snowboard-ai.com/wp-admin/comment.php?action=trash&#038;c=12#wpbody-content</a>
+Spam it: <a href="https://snowboard-ai.com/wp-admin/comment.php?action=spam&#038;c=12#wpbody-content">https://snowboard-ai.com/wp-admin/comment.php?action=spam&#038;c=12#wpbody-content</a>
+Currently 5 comments are waiting for approval. Please visit the moderation panel:
+<a href="https://snowboard-ai.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content">https://snowboard-ai.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content</a>
+
+
+--b1=_HTP4lnqtEN5NaXiW5M3RmcGp8CILeMZx1zrW7a2ONo--
+
+
+--1728594131-eximdsn-1180073822--

@@ -1,0 +1,80 @@
+Return-Path: <>
+Delivered-To: snowqjji@premium52.web-hosting.com
+Received: from premium52.web-hosting.com
+	by premium52.web-hosting.com with LMTP
+	id +Mx+Jb77eWbfhSQAcR6V3Q
+	(envelope-from <>)
+	for <snowqjji@premium52.web-hosting.com>; Mon, 24 Jun 2024 19:05:34 -0400
+Return-path: <>
+Envelope-to: snowqjji@premium52.web-hosting.com
+Delivery-date: Mon, 24 Jun 2024 19:05:34 -0400
+Received: from mailnull by premium52.web-hosting.com with local (Exim 4.96.2)
+	id 1sLskg-00AIZf-1t
+	for snowqjji@premium52.web-hosting.com;
+	Mon, 24 Jun 2024 19:05:34 -0400
+X-Failed-Recipients: admin@snowboard-ai.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@premium52.web-hosting.com>
+To: snowqjji@premium52.web-hosting.com
+References: <aljLs8BRR2cPutYNJsi4f3nnbiE0LkPXdxCgLSgDdE@snowboard-ai.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1719270334-eximdsn-526759352
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sLskg-00AIZf-1t@premium52.web-hosting.com>
+Date: Mon, 24 Jun 2024 19:05:34 -0400
+
+--1719270334-eximdsn-526759352
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  admin@snowboard-ai.com
+    No Such User Here
+
+--1719270334-eximdsn-526759352
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; premium52.web-hosting.com
+
+Action: failed
+Final-Recipient: rfc822;admin@snowboard-ai.com
+Status: 5.0.0
+
+--1719270334-eximdsn-526759352
+Content-type: message/rfc822
+
+Return-path: <snowqjji@premium52.web-hosting.com>
+Received: from snowqjji by premium52.web-hosting.com with local (Exim 4.96.2)
+	(envelope-from <snowqjji@premium52.web-hosting.com>)
+	id 1sLskg-00AIZN-0i
+	for admin@snowboard-ai.com;
+	Mon, 24 Jun 2024 19:05:34 -0400
+To: admin@snowboard-ai.com
+Subject: =?us-ascii?Q?[Snowboard-AI]_Your_site_has_updated_to_WordPre?=
+ =?us-ascii?Q?ss_6.5.5?=
+Date: Mon, 24 Jun 2024 23:05:34 +0000
+From: WordPress <wordpress@snowboard-ai.com>
+Message-ID: <aljLs8BRR2cPutYNJsi4f3nnbiE0LkPXdxCgLSgDdE@snowboard-ai.com>
+X-Mailer: PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Sender:  <snowqjji@premium52.web-hosting.com>
+
+Howdy! Your site at https://snowboard-ai.com/home has been updated automatically to WordPress 6.5.5.
+
+No further action is needed on your part. For more on version 6.5.5, see the About WordPress screen:
+https://snowboard-ai.com/home/wp-admin/about.php
+
+If you experience any issues or need support, the volunteers in the WordPress.org support forums may be able to help.
+https://wordpress.org/support/forums/
+
+You also have some plugins or themes with updates available. Update them now:
+https://snowboard-ai.com/home/wp-admin/
+
+The WordPress Team
+
+
+--1719270334-eximdsn-526759352--

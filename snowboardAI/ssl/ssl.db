@@ -1,0 +1,61 @@
+--- 
+files: 
+  certificate: 
+    snowboard_ai_com_c5b3e_a07ef_1737676799_1c1f1d93d77b95a0fd9b259c63d16b40: 
+      created: '1705987493'
+      domains: 
+        - snowboard-ai.com
+        - www.snowboard-ai.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: 25218177
+      id: snowboard_ai_com_c5b3e_a07ef_1737676799_1c1f1d93d77b95a0fd9b259c63d16b40
+      is_self_signed: 0
+      issuer.commonName: Sectigo RSA Domain Validation Secure Server CA
+      issuer.organizationName: Sectigo Limited
+      key_algorithm: rsaEncryption
+      modulus: c5b3ebc82bcd2c884899782dfee57440a8a53a0f0abffa1cc039700c66c655e2bac3844e024ca2ec08ccf377912ca3e3b734ddbbecc4f283f06ed93f77b1cee7edd84962f99e7f8ef3c04fadadcb3e82021a2f78ae12c9083adc725a935ea614939467d2a6a255344daf8404402dd246f0c808c292bc1f39e0d40038c144078b47502bf7d8ba46be12f18f751d14050fc5a3824174208ded810822c745ce1b8f452e4ea1f2e86dc2aa97b8c63ce2bdae44716826073bb33d70221e8f2f5521b6ecd63ee6c84ec08e2983da83a50037d3acf66edd54f1175c31faaca5f1cb71de41668f2e683bc251baba9caf6d5c6bb2d3114801600699477d5fcf1009da07ef
+      modulus_length: 2048
+      not_after: '1737676799'
+      not_before: '1705968000'
+      serial: 369e7cdc6184706c925feae8c376ab75
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: snowboard-ai.com
+      validation_type: dv
+  csr: {}
+
+  key: 
+    c5b3e_a07ef_4488ca8e50016c34af1030036a20c2fe: 
+      created: '1705987023'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: nc_module_key_25218177
+      id: c5b3e_a07ef_4488ca8e50016c34af1030036a20c2fe
+      key_algorithm: rsaEncryption
+      modulus: c5b3ebc82bcd2c884899782dfee57440a8a53a0f0abffa1cc039700c66c655e2bac3844e024ca2ec08ccf377912ca3e3b734ddbbecc4f283f06ed93f77b1cee7edd84962f99e7f8ef3c04fadadcb3e82021a2f78ae12c9083adc725a935ea614939467d2a6a255344daf8404402dd246f0c808c292bc1f39e0d40038c144078b47502bf7d8ba46be12f18f751d14050fc5a3824174208ded810822c745ce1b8f452e4ea1f2e86dc2aa97b8c63ce2bdae44716826073bb33d70221e8f2f5521b6ecd63ee6c84ec08e2983da83a50037d3acf66edd54f1175c31faaca5f1cb71de41668f2e683bc251baba9caf6d5c6bb2d3114801600699477d5fcf1009da07ef
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      c5b3ebc82bcd2c884899782dfee57440a8a53a0f0abffa1cc039700c66c655e2bac3844e024ca2ec08ccf377912ca3e3b734ddbbecc4f283f06ed93f77b1cee7edd84962f99e7f8ef3c04fadadcb3e82021a2f78ae12c9083adc725a935ea614939467d2a6a255344daf8404402dd246f0c808c292bc1f39e0d40038c144078b47502bf7d8ba46be12f18f751d14050fc5a3824174208ded810822c745ce1b8f452e4ea1f2e86dc2aa97b8c63ce2bdae44716826073bb33d70221e8f2f5521b6ecd63ee6c84ec08e2983da83a50037d3acf66edd54f1175c31faaca5f1cb71de41668f2e683bc251baba9caf6d5c6bb2d3114801600699477d5fcf1009da07ef: 
+        snowboard_ai_com_c5b3e_a07ef_1737676799_1c1f1d93d77b95a0fd9b259c63d16b40: ~
+    subject.commonName: 
+      snowboard-ai.com: 
+        snowboard_ai_com_c5b3e_a07ef_1737676799_1c1f1d93d77b95a0fd9b259c63d16b40: ~
+  csr: 
+    commonName: {}
+
+    modulus: {}
+
+uniques: 
+  certificate: 
+    friendly_name: 
+      25218177: snowboard_ai_com_c5b3e_a07ef_1737676799_1c1f1d93d77b95a0fd9b259c63d16b40
+  csr: 
+    friendly_name: {}
+
+  key: 
+    friendly_name: 
+      nc_module_key_25218177: c5b3e_a07ef_4488ca8e50016c34af1030036a20c2fe
+    modulus:ecdsa_curve_name:ecdsa_public: 
+      c5b3ebc82bcd2c884899782dfee57440a8a53a0f0abffa1cc039700c66c655e2bac3844e024ca2ec08ccf377912ca3e3b734ddbbecc4f283f06ed93f77b1cee7edd84962f99e7f8ef3c04fadadcb3e82021a2f78ae12c9083adc725a935ea614939467d2a6a255344daf8404402dd246f0c808c292bc1f39e0d40038c144078b47502bf7d8ba46be12f18f751d14050fc5a3824174208ded810822c745ce1b8f452e4ea1f2e86dc2aa97b8c63ce2bdae44716826073bb33d70221e8f2f5521b6ecd63ee6c84ec08e2983da83a50037d3acf66edd54f1175c31faaca5f1cb71de41668f2e683bc251baba9caf6d5c6bb2d3114801600699477d5fcf1009da07ef: c5b3e_a07ef_4488ca8e50016c34af1030036a20c2fe

@@ -1,0 +1,111 @@
+Return-Path: <>
+Delivered-To: snowqjji@premium52.web-hosting.com
+Received: from premium52.web-hosting.com
+	by premium52.web-hosting.com with LMTP
+	id 2JtsAZpEJWc5hAAAcR6V3Q
+	(envelope-from <>)
+	for <snowqjji@premium52.web-hosting.com>; Fri, 01 Nov 2024 17:14:02 -0400
+Return-path: <>
+Envelope-to: snowqjji@premium52.web-hosting.com
+Delivery-date: Fri, 01 Nov 2024 17:14:02 -0400
+Received: from mailnull by premium52.web-hosting.com with local (Exim 4.96.2)
+	id 1t6yy1-000JAO-3C
+	for snowqjji@premium52.web-hosting.com;
+	Fri, 01 Nov 2024 17:14:01 -0400
+X-Failed-Recipients: admin@snowboard-ai.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@premium52.web-hosting.com>
+To: snowqjji@premium52.web-hosting.com
+References: <AxlvOupiBqY6tCCsmkI8qTScc4USrswdgl5ATMbR1Q@snowboard-ai.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1730495641-eximdsn-317624359
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1t6yy1-000JAO-3C@premium52.web-hosting.com>
+Date: Fri, 01 Nov 2024 17:14:01 -0400
+
+--1730495641-eximdsn-317624359
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  admin@snowboard-ai.com
+    No Such User Here
+
+--1730495641-eximdsn-317624359
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; premium52.web-hosting.com
+
+Action: failed
+Final-Recipient: rfc822;admin@snowboard-ai.com
+Status: 5.0.0
+
+--1730495641-eximdsn-317624359
+Content-type: message/rfc822
+
+Return-path: <snowqjji@premium52.web-hosting.com>
+Received: from snowqjji by premium52.web-hosting.com with local (Exim 4.96.2)
+	(envelope-from <snowqjji@premium52.web-hosting.com>)
+	id 1t6yy1-000J9u-2Q
+	for admin@snowboard-ai.com;
+	Fri, 01 Nov 2024 17:14:01 -0400
+To: admin@snowboard-ai.com
+Subject: [Snowboard AI] Please moderate: "Hello world!"
+Date: Fri, 1 Nov 2024 21:14:01 +0000
+From: WordPress <wordpress@snowboard-ai.com>
+Message-ID: <AxlvOupiBqY6tCCsmkI8qTScc4USrswdgl5ATMbR1Q@snowboard-ai.com>
+X-Mailer: PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1=_AxlvOupiBqY6tCCsmkI8qTScc4USrswdgl5ATMbR1Q"
+Content-Transfer-Encoding: 8bit
+Sender:  <snowqjji@premium52.web-hosting.com>
+
+--b1=_AxlvOupiBqY6tCCsmkI8qTScc4USrswdgl5ATMbR1Q
+Content-Type: text/plain; charset=us-ascii
+
+A new comment on the post "Hello world!" is waiting for your approval
+https://snowboard-ai.com/2024/07/05/hello-world/
+
+Author: luxury_ecsr (IP address: 89.110.87.170, host-89-110-87-170.hosted-by-vdsina.com)
+Email: ssmrbsygwsr@octoclick-info.com
+URL: https://bestwedding-video.com/
+Comment: 
+Luxury on wheels for the most demanding clients, 
+The perfect solution for special moments in life. 
+premium luxury car rental <a href="https://www.bestwedding-video.com" rel="nofollow ugc">https://www.bestwedding-video.com</a> .
+
+Approve it: https://snowboard-ai.com/wp-admin/comment.php?action=approve&c=31#wpbody-content
+Trash it: https://snowboard-ai.com/wp-admin/comment.php?action=trash&c=31#wpbody-content
+Spam it: https://snowboard-ai.com/wp-admin/comment.php?action=spam&c=31#wpbody-content
+Currently 24 comments are waiting for approval. Please visit the moderation panel:
+https://snowboard-ai.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content
+
+--b1=_AxlvOupiBqY6tCCsmkI8qTScc4USrswdgl5ATMbR1Q
+Content-Type: text/html; charset=us-ascii
+
+A new comment on the post "Hello world!" is waiting for your approval
+<a href="https://snowboard-ai.com/2024/07/05/hello-world/">https://snowboard-ai.com/2024/07/05/hello-world/</a>
+
+Author: luxury_ecsr (IP address: 89.110.87.170, host-89-110-87-170.hosted-by-vdsina.com)
+Email: <a href="mailto:ssmrbsygwsr@octoclick-info.com">ssmrbsygwsr@octoclick-info.com</a>
+URL: <a href="https://bestwedding-video.com/" rel="nofollow">https://bestwedding-video.com/</a>
+Comment: 
+Luxury on wheels for the most demanding clients, 
+The perfect solution for special moments in life. 
+premium luxury car rental <a href="https://www.bestwedding-video.com" rel="nofollow ugc">https://www.bestwedding-video.com</a> .
+
+Approve it: <a href="https://snowboard-ai.com/wp-admin/comment.php?action=approve&#038;c=31#wpbody-content">https://snowboard-ai.com/wp-admin/comment.php?action=approve&#038;c=31#wpbody-content</a>
+Trash it: <a href="https://snowboard-ai.com/wp-admin/comment.php?action=trash&#038;c=31#wpbody-content">https://snowboard-ai.com/wp-admin/comment.php?action=trash&#038;c=31#wpbody-content</a>
+Spam it: <a href="https://snowboard-ai.com/wp-admin/comment.php?action=spam&#038;c=31#wpbody-content">https://snowboard-ai.com/wp-admin/comment.php?action=spam&#038;c=31#wpbody-content</a>
+Currently 24 comments are waiting for approval. Please visit the moderation panel:
+<a href="https://snowboard-ai.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content">https://snowboard-ai.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content</a>
+
+
+--b1=_AxlvOupiBqY6tCCsmkI8qTScc4USrswdgl5ATMbR1Q--
+
+
+--1730495641-eximdsn-317624359--

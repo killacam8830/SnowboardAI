@@ -1,0 +1,109 @@
+Return-Path: <>
+Delivered-To: snowqjji@premium52.web-hosting.com
+Received: from premium52.web-hosting.com
+	by premium52.web-hosting.com with LMTP
+	id uBsgFpA7LmehsSoAcR6V3Q
+	(envelope-from <>)
+	for <snowqjji@premium52.web-hosting.com>; Fri, 08 Nov 2024 11:25:52 -0500
+Return-path: <>
+Envelope-to: snowqjji@premium52.web-hosting.com
+Delivery-date: Fri, 08 Nov 2024 11:25:52 -0500
+Received: from mailnull by premium52.web-hosting.com with local (Exim 4.96.2)
+	id 1t9Ro0-00Boc0-15
+	for snowqjji@premium52.web-hosting.com;
+	Fri, 08 Nov 2024 11:25:52 -0500
+X-Failed-Recipients: admin@snowboard-ai.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@premium52.web-hosting.com>
+To: snowqjji@premium52.web-hosting.com
+References: <0KP0h4rZA7d5M043rp6LTxWAaFZJpsJ5QLV4M4Mc4@snowboard-ai.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1731083152-eximdsn-1893543905
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1t9Ro0-00Boc0-15@premium52.web-hosting.com>
+Date: Fri, 08 Nov 2024 11:25:52 -0500
+
+--1731083152-eximdsn-1893543905
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  admin@snowboard-ai.com
+    No Such User Here
+
+--1731083152-eximdsn-1893543905
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; premium52.web-hosting.com
+
+Action: failed
+Final-Recipient: rfc822;admin@snowboard-ai.com
+Status: 5.0.0
+
+--1731083152-eximdsn-1893543905
+Content-type: message/rfc822
+
+Return-path: <snowqjji@premium52.web-hosting.com>
+Received: from snowqjji by premium52.web-hosting.com with local (Exim 4.96.2)
+	(envelope-from <snowqjji@premium52.web-hosting.com>)
+	id 1t9Ro0-00Bobf-0F
+	for admin@snowboard-ai.com;
+	Fri, 08 Nov 2024 11:25:52 -0500
+To: admin@snowboard-ai.com
+Subject: [Snowboard AI] Please moderate: "Hello world!"
+Date: Fri, 8 Nov 2024 16:25:51 +0000
+From: WordPress <wordpress@snowboard-ai.com>
+Message-ID: <0KP0h4rZA7d5M043rp6LTxWAaFZJpsJ5QLV4M4Mc4@snowboard-ai.com>
+X-Mailer: PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1=_0KP0h4rZA7d5M043rp6LTxWAaFZJpsJ5QLV4M4Mc4"
+Content-Transfer-Encoding: 8bit
+Sender:  <snowqjji@premium52.web-hosting.com>
+
+--b1=_0KP0h4rZA7d5M043rp6LTxWAaFZJpsJ5QLV4M4Mc4
+Content-Type: text/plain; charset=us-ascii
+
+A new comment on the post "Hello world!" is waiting for your approval
+https://snowboard-ai.com/2024/07/05/hello-world/
+
+Author: car_nhmn (IP address: 89.110.87.170, host-89-110-87-170.hosted-by-vdsina.com)
+Email: qgcozuzzgmn@best-carrental.com
+URL: https://best-carrental.com/
+Comment: 
+Flexible car rental options near me, Get on the road with a rental car right now, Rent a car without breaking the bank, Conveniently located car rental services nearby, Find reliable car rental near me, Find the lowest prices on rental cars in your area. 
+car hire companies <a href="https://best-carrental.com" rel="nofollow ugc">https://best-carrental.com</a> .
+
+Approve it: https://snowboard-ai.com/wp-admin/comment.php?action=approve&c=34#wpbody-content
+Trash it: https://snowboard-ai.com/wp-admin/comment.php?action=trash&c=34#wpbody-content
+Spam it: https://snowboard-ai.com/wp-admin/comment.php?action=spam&c=34#wpbody-content
+Currently 27 comments are waiting for approval. Please visit the moderation panel:
+https://snowboard-ai.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content
+
+--b1=_0KP0h4rZA7d5M043rp6LTxWAaFZJpsJ5QLV4M4Mc4
+Content-Type: text/html; charset=us-ascii
+
+A new comment on the post "Hello world!" is waiting for your approval
+<a href="https://snowboard-ai.com/2024/07/05/hello-world/">https://snowboard-ai.com/2024/07/05/hello-world/</a>
+
+Author: car_nhmn (IP address: 89.110.87.170, host-89-110-87-170.hosted-by-vdsina.com)
+Email: <a href="mailto:qgcozuzzgmn@best-carrental.com">qgcozuzzgmn@best-carrental.com</a>
+URL: <a href="https://best-carrental.com/" rel="nofollow">https://best-carrental.com/</a>
+Comment: 
+Flexible car rental options near me, Get on the road with a rental car right now, Rent a car without breaking the bank, Conveniently located car rental services nearby, Find reliable car rental near me, Find the lowest prices on rental cars in your area. 
+car hire companies <a href="https://best-carrental.com" rel="nofollow ugc">https://best-carrental.com</a> .
+
+Approve it: <a href="https://snowboard-ai.com/wp-admin/comment.php?action=approve&#038;c=34#wpbody-content">https://snowboard-ai.com/wp-admin/comment.php?action=approve&#038;c=34#wpbody-content</a>
+Trash it: <a href="https://snowboard-ai.com/wp-admin/comment.php?action=trash&#038;c=34#wpbody-content">https://snowboard-ai.com/wp-admin/comment.php?action=trash&#038;c=34#wpbody-content</a>
+Spam it: <a href="https://snowboard-ai.com/wp-admin/comment.php?action=spam&#038;c=34#wpbody-content">https://snowboard-ai.com/wp-admin/comment.php?action=spam&#038;c=34#wpbody-content</a>
+Currently 27 comments are waiting for approval. Please visit the moderation panel:
+<a href="https://snowboard-ai.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content">https://snowboard-ai.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content</a>
+
+
+--b1=_0KP0h4rZA7d5M043rp6LTxWAaFZJpsJ5QLV4M4Mc4--
+
+
+--1731083152-eximdsn-1893543905--

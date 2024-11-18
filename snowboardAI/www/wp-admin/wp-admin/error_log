@@ -1,0 +1,42 @@
+[05-Jul-2024 23:44:46 UTC] PHP Warning:  Undefined array key "dashboard" in /home/snowqjji/public_html/wp-admin/wp-content/plugins/elementor/core/admin/admin.php on line 434
+[05-Jul-2024 23:44:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/snowqjji/public_html/wp-admin/wp-content/plugins/elementor/core/admin/admin.php on line 434
+[05-Jul-2024 23:44:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/snowqjji/public_html/wp-admin/wp-content/plugins/elementor/core/admin/admin.php on line 434
+[05-Jul-2024 23:44:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/snowqjji/public_html/wp-admin/wp-content/plugins/elementor/core/admin/admin.php on line 436
+[05-Jul-2024 23:44:46 UTC] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, null given in /home/snowqjji/public_html/wp-admin/wp-content/plugins/elementor/core/admin/admin.php:439
+Stack trace:
+#0 /home/snowqjji/public_html/wp-admin/wp-content/plugins/elementor/core/admin/admin.php(439): array_merge()
+#1 /home/snowqjji/public_html/wp-admin/wp-includes/class-wp-hook.php(324): Elementor\Core\Admin\Admin->register_dashboard_widgets()
+#2 /home/snowqjji/public_html/wp-admin/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/snowqjji/public_html/wp-admin/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/snowqjji/public_html/wp-admin/wp-admin/includes/dashboard.php(135): do_action()
+#5 /home/snowqjji/public_html/wp-admin/wp-admin/index.php(15): wp_dashboard_setup()
+#6 {main}
+  thrown in /home/snowqjji/public_html/wp-admin/wp-content/plugins/elementor/core/admin/admin.php on line 439
+[05-Jul-2024 23:44:58 UTC] PHP Warning:  Undefined array key "dashboard" in /home/snowqjji/public_html/wp-admin/wp-content/plugins/elementor/core/admin/admin.php on line 434
+[05-Jul-2024 23:44:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/snowqjji/public_html/wp-admin/wp-content/plugins/elementor/core/admin/admin.php on line 434
+[05-Jul-2024 23:44:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/snowqjji/public_html/wp-admin/wp-content/plugins/elementor/core/admin/admin.php on line 434
+[05-Jul-2024 23:44:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/snowqjji/public_html/wp-admin/wp-content/plugins/elementor/core/admin/admin.php on line 436
+[05-Jul-2024 23:44:58 UTC] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, null given in /home/snowqjji/public_html/wp-admin/wp-content/plugins/elementor/core/admin/admin.php:439
+Stack trace:
+#0 /home/snowqjji/public_html/wp-admin/wp-content/plugins/elementor/core/admin/admin.php(439): array_merge()
+#1 /home/snowqjji/public_html/wp-admin/wp-includes/class-wp-hook.php(324): Elementor\Core\Admin\Admin->register_dashboard_widgets()
+#2 /home/snowqjji/public_html/wp-admin/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/snowqjji/public_html/wp-admin/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/snowqjji/public_html/wp-admin/wp-admin/includes/dashboard.php(135): do_action()
+#5 /home/snowqjji/public_html/wp-admin/wp-admin/index.php(15): wp_dashboard_setup()
+#6 {main}
+  thrown in /home/snowqjji/public_html/wp-admin/wp-content/plugins/elementor/core/admin/admin.php on line 439
+[05-Jul-2024 23:45:53 UTC] PHP Warning:  Undefined array key "dashboard" in /home/snowqjji/public_html/wp-admin/wp-content/plugins/elementor/core/admin/admin.php on line 434
+[05-Jul-2024 23:45:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/snowqjji/public_html/wp-admin/wp-content/plugins/elementor/core/admin/admin.php on line 434
+[05-Jul-2024 23:45:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/snowqjji/public_html/wp-admin/wp-content/plugins/elementor/core/admin/admin.php on line 434
+[05-Jul-2024 23:45:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/snowqjji/public_html/wp-admin/wp-content/plugins/elementor/core/admin/admin.php on line 436
+[05-Jul-2024 23:45:53 UTC] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, null given in /home/snowqjji/public_html/wp-admin/wp-content/plugins/elementor/core/admin/admin.php:439
+Stack trace:
+#0 /home/snowqjji/public_html/wp-admin/wp-content/plugins/elementor/core/admin/admin.php(439): array_merge()
+#1 /home/snowqjji/public_html/wp-admin/wp-includes/class-wp-hook.php(324): Elementor\Core\Admin\Admin->register_dashboard_widgets()
+#2 /home/snowqjji/public_html/wp-admin/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/snowqjji/public_html/wp-admin/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/snowqjji/public_html/wp-admin/wp-admin/includes/dashboard.php(135): do_action()
+#5 /home/snowqjji/public_html/wp-admin/wp-admin/index.php(15): wp_dashboard_setup()
+#6 {main}
+  thrown in /home/snowqjji/public_html/wp-admin/wp-content/plugins/elementor/core/admin/admin.php on line 439

@@ -1,0 +1,118 @@
+Return-Path: <>
+Delivered-To: snowqjji@premium52.web-hosting.com
+Received: from premium52.web-hosting.com
+	by premium52.web-hosting.com with LMTP
+	id sJSJLGDKGmeDux0AcR6V3Q
+	(envelope-from <>)
+	for <snowqjji@premium52.web-hosting.com>; Thu, 24 Oct 2024 18:29:52 -0400
+Return-path: <>
+Envelope-to: snowqjji@premium52.web-hosting.com
+Delivery-date: Thu, 24 Oct 2024 18:29:52 -0400
+Received: from mailnull by premium52.web-hosting.com with local (Exim 4.96.2)
+	id 1t46L2-008WNF-2K
+	for snowqjji@premium52.web-hosting.com;
+	Thu, 24 Oct 2024 18:29:52 -0400
+X-Failed-Recipients: admin@snowboard-ai.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@premium52.web-hosting.com>
+To: snowqjji@premium52.web-hosting.com
+References: <l1GCSzH7XQxttc87suALBeBuV8fEE93jP1YHUg2FQ4@snowboard-ai.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1729808992-eximdsn-2047294788
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1t46L2-008WNF-2K@premium52.web-hosting.com>
+Date: Thu, 24 Oct 2024 18:29:52 -0400
+
+--1729808992-eximdsn-2047294788
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  admin@snowboard-ai.com
+    No Such User Here
+
+--1729808992-eximdsn-2047294788
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; premium52.web-hosting.com
+
+Action: failed
+Final-Recipient: rfc822;admin@snowboard-ai.com
+Status: 5.0.0
+
+--1729808992-eximdsn-2047294788
+Content-type: message/rfc822
+
+Return-path: <snowqjji@premium52.web-hosting.com>
+Received: from snowqjji by premium52.web-hosting.com with local (Exim 4.96.2)
+	(envelope-from <snowqjji@premium52.web-hosting.com>)
+	id 1t46L2-008WN0-1k
+	for admin@snowboard-ai.com;
+	Thu, 24 Oct 2024 18:29:52 -0400
+To: admin@snowboard-ai.com
+Subject: [Snowboard AI] Please moderate: "Hello world!"
+Date: Thu, 24 Oct 2024 22:29:52 +0000
+From: WordPress <wordpress@snowboard-ai.com>
+Message-ID: <l1GCSzH7XQxttc87suALBeBuV8fEE93jP1YHUg2FQ4@snowboard-ai.com>
+X-Mailer: PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1=_l1GCSzH7XQxttc87suALBeBuV8fEE93jP1YHUg2FQ4"
+Content-Transfer-Encoding: 8bit
+Sender:  <snowqjji@premium52.web-hosting.com>
+
+--b1=_l1GCSzH7XQxttc87suALBeBuV8fEE93jP1YHUg2FQ4
+Content-Type: text/plain; charset=us-ascii
+
+A new comment on the post "Hello world!" is waiting for your approval
+https://snowboard-ai.com/2024/07/05/hello-world/
+
+Author: Pabloroown (IP address: 185.33.84.46, 185.33.84.46)
+Email: g_f_d_c@trustmailticket.com
+URL: 
+Comment: 
+Fuel your passion with proper nourishment!
+Bright days start with healthy choices!
+Greatness starts with great nutrition!
+Optimize your health, maximize your life!
+Healthy living is a habit worth cultivating!
+ 
+vtkqj3vk4tuqjhwejhqw  - snowboard-ai.com 
+https://UnuncViospicsig.info
+
+Approve it: https://snowboard-ai.com/wp-admin/comment.php?action=approve&c=22#wpbody-content
+Trash it: https://snowboard-ai.com/wp-admin/comment.php?action=trash&c=22#wpbody-content
+Spam it: https://snowboard-ai.com/wp-admin/comment.php?action=spam&c=22#wpbody-content
+Currently 15 comments are waiting for approval. Please visit the moderation panel:
+https://snowboard-ai.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content
+
+--b1=_l1GCSzH7XQxttc87suALBeBuV8fEE93jP1YHUg2FQ4
+Content-Type: text/html; charset=us-ascii
+
+<p>A new comment on the post "Hello world!" is waiting for your approval<br />
+<a href="https://snowboard-ai.com/2024/07/05/hello-world/">https://snowboard-ai.com/2024/07/05/hello-world/</a></p>
+<p>Author: Pabloroown (IP address: 185.33.84.46, 185.33.84.46)<br />
+Email: <a href="mailto:g_f_d_c@trustmailticket.com">g_f_d_c@trustmailticket.com</a><br />
+URL:<br />
+Comment:<br />
+Fuel your passion with proper nourishment!<br />
+Bright days start with healthy choices!<br />
+Greatness starts with great nutrition!<br />
+Optimize your health, maximize your life!<br />
+Healthy living is a habit worth cultivating!</p>
+<p>vtkqj3vk4tuqjhwejhqw  - snowboard-ai.com<br />
+<a href="https://UnuncViospicsig.info" rel="nofollow">https://UnuncViospicsig.info</a></p>
+<p>Approve it: <a href="https://snowboard-ai.com/wp-admin/comment.php?action=approve&#038;c=22#wpbody-content">https://snowboard-ai.com/wp-admin/comment.php?action=approve&#038;c=22#wpbody-content</a><br />
+Trash it: <a href="https://snowboard-ai.com/wp-admin/comment.php?action=trash&#038;c=22#wpbody-content">https://snowboard-ai.com/wp-admin/comment.php?action=trash&#038;c=22#wpbody-content</a><br />
+Spam it: <a href="https://snowboard-ai.com/wp-admin/comment.php?action=spam&#038;c=22#wpbody-content">https://snowboard-ai.com/wp-admin/comment.php?action=spam&#038;c=22#wpbody-content</a><br />
+Currently 15 comments are waiting for approval. Please visit the moderation panel:<br />
+<a href="https://snowboard-ai.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content">https://snowboard-ai.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content</a></p>
+
+
+--b1=_l1GCSzH7XQxttc87suALBeBuV8fEE93jP1YHUg2FQ4--
+
+
+--1729808992-eximdsn-2047294788--

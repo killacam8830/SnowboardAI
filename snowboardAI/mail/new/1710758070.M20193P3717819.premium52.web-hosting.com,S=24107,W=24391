@@ -1,0 +1,284 @@
+Return-Path: <>
+Delivered-To: snowqjji@premium52.web-hosting.com
+Received: from premium52.web-hosting.com
+	by premium52.web-hosting.com with LMTP
+	id sOiJALYY+GW7ujgAcR6V3Q
+	(envelope-from <>)
+	for <snowqjji@premium52.web-hosting.com>; Mon, 18 Mar 2024 06:34:30 -0400
+Return-path: <>
+Envelope-to: snowqjji@premium52.web-hosting.com
+Delivery-date: Mon, 18 Mar 2024 06:34:30 -0400
+Received: from mailnull by premium52.web-hosting.com with local (Exim 4.96.1)
+	id 1rmAK5-00FxKe-3C
+	for snowqjji@premium52.web-hosting.com;
+	Mon, 18 Mar 2024 06:34:29 -0400
+X-Failed-Recipients: admin@snowboard-ai.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@premium52.web-hosting.com>
+To: snowqjji@premium52.web-hosting.com
+References: <OQpgO0pwTvV64gAoXUBN4m3V3qChX40XzmmxrLQ@snowboard-ai.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1710758069-eximdsn-14097653
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rmAK5-00FxKe-3C@premium52.web-hosting.com>
+Date: Mon, 18 Mar 2024 06:34:29 -0400
+
+--1710758069-eximdsn-14097653
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  admin@snowboard-ai.com
+    No Such User Here
+
+--1710758069-eximdsn-14097653
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; premium52.web-hosting.com
+
+Action: failed
+Final-Recipient: rfc822;admin@snowboard-ai.com
+Status: 5.0.0
+
+--1710758069-eximdsn-14097653
+Content-type: message/rfc822
+
+Return-path: <snowqjji@premium52.web-hosting.com>
+Received: from snowqjji by premium52.web-hosting.com with local (Exim 4.96.1)
+	(envelope-from <snowqjji@premium52.web-hosting.com>)
+	id 1rmAK5-00FxKO-2d
+	for admin@snowboard-ai.com;
+	Mon, 18 Mar 2024 06:34:29 -0400
+To: admin@snowboard-ai.com
+Subject: =?us-ascii?Q?[]_PMPro_Activity_for_Last_Week:_March_11,_2024?=
+ =?us-ascii?Q?_-_March_17,_2024?=
+Date: Mon, 18 Mar 2024 10:34:29 +0000
+From: WordPress <wordpress@snowboard-ai.com>
+Message-ID: <OQpgO0pwTvV64gAoXUBN4m3V3qChX40XzmmxrLQ@snowboard-ai.com>
+X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1=_OQpgO0pwTvV64gAoXUBN4m3V3qChX40XzmmxrLQ"
+Content-Transfer-Encoding: 8bit
+Sender:  <snowqjji@premium52.web-hosting.com>
+
+--b1=_OQpgO0pwTvV64gAoXUBN4m3V3qChX40XzmmxrLQ
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<p>Dear ziwbd,</p>		<div style="margin:0;padding:0px 30px 0px 30px;width:100%;background-color:#999999">
+		
+			<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse:collapse;border:0;max-width:600px!important;background-color:#FFFFFF">
+				<tbody>
+										<tr>
+						<td valign="top" style="background:#FFFFFF;font-family:Helvetica,Arial,sans-serif;font-size:16px;line-height:25px;color:#222222;padding:30px;text-align:center">
+							<p style="font-size:20px;line-height:30px;margin:0px;padding:0px">
+								<a href="https://snowboard-ai.com" target="_blank" style="color:#1A688B;font-weight:bold">[]</a><br />
+								Here's a summary of what happened in your Paid Memberships Pro site last week.							</p>
+						</td>
+					</tr>
+					<tr>
+						<td valign="top" style="background:#F1F1F1;font-family:Helvetica,Arial,sans-serif;font-size:20px;line-height:30px;color:#222222;padding:15px;text-align:center">
+							<p style="margin:0px;padding:0px"><strong>March 11, 2024 - March 17, 2024</strong></p>
+						</td>
+					</tr>
+										<tr>
+						<td valign="top" style="background:#FFFFFF;font-family:Helvetica,Arial,sans-serif;font-size:16px;line-height:25px;color:#222222;padding:30px;text-align:center">
+															<h3 style="color:#1A688B;font-size:20px;line-height:30px;margin:0px 0px 15px 0px;padding:0px">Sales and Revenue</h3>
+								<p style="margin:0px 0px 15px 0px;padding:0px">Your membership site made <strong>&#036;3.99</strong> in revenue last week.</p>
+														<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="border:0;background-color:#FFFFFF;text-align:center;font-family:Helvetica,Arial,sans-serif;font-size:16px;line-height:25px;color:#222222">
+								<tr>
+																		<td width="33%"><div style="border:8px solid #dff0d8;color:#3c763d;margin:5px;padding:10px"><a style="color:#3c763d;text-decoration:none" href="https://snowboard-ai.com/wp-admin/admin.php?page=pmpro-memberslist" target="_blank"><div style="font-size:50px;font-weight:900;line-height:65px">0</div>Joined</a></div></td>
+									<td width="33%"><div style="border:8px solid #fcf8e3;color:#8a6d3b;margin:5px;padding:10px"><a style="color:#8a6d3b;text-decoration:none" href="https://snowboard-ai.com/wp-admin/admin.php?page=pmpro-memberslist&l=expired" target="_blank"><div style="font-size:50px;font-weight:900;line-height:65px">0</div>Expired</a></div></td>
+									<td width="33%"><div style="border:8px solid #f2dede;color:#a94442;margin:5px;padding:10px"><a style="color:#a94442;text-decoration:none" href="https://snowboard-ai.com/wp-admin/admin.php?page=pmpro-memberslist&l=cancelled" target="_blank"><div style="font-size:50px;font-weight:900;line-height:65px">0</div>Cancelled</a></div></td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+										<tr>
+						<td valign="top" style="background:#F1F1F1;font-family:Helvetica,Arial,sans-serif;font-size:16px;line-height:25px;color:#222222;padding:30px;text-align:left">
+														<h3 style="color:#1A688B;font-size:20px;line-height:30px;margin:0px 0px 5px 0px;padding:0px"><span style="background:#1A688B;color:#FFFFFF;padding:5px 10px 5px 10px">2</span> Total Members</h3>
+														<ul>
+							<li>Basic: 2</li>							</ul>
+							<p style="margin:0px;padding:0px"><a style="color:#1A688B" href="https://snowboard-ai.com/wp-admin/admin.php?page=pmpro-reports&report=memberships" target="_blank">View Signups and Cancellations Report</a></p>
+						</td>
+					</tr>
+										<tr>
+						<td valign="top" style="background:#FFFFFF;font-family:Helvetica,Arial,sans-serif;font-size:16px;line-height:25px;color:#222222;padding:30px;text-align:left">
+							<div style="border:8px dashed #F1F1F1;padding:30px;margin:0px;text-align:center">
+								<h3 style="color:#1A688B;font-size:20px;line-height:30px;margin:0px 0px 15px 0px;padding:0px">Discount Code Usage</h3>
+																	<p style="margin:0px;padding:0px">No <a style="color:#1A688B" target="_blank" href="https://snowboard-ai.com/wp-admin/admin.php?page=pmpro-discountcodes">Discount Codes</a> were used last week.</p>
+																</div>
+						</td>
+					</tr>
+										<tr>
+						<td valign="top" style="background:#F1F1F1;font-family:Helvetica,Arial,sans-serif;font-size:16px;line-height:25px;color:#222222;padding:30px;text-align:center">
+							<h3 style="color:#1A688B;font-size:20px;line-height:30px;margin:0px 0px 15px 0px;padding:0px">Paid Memberships Pro Add Ons</h3>
+							<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="border:0;background-color:#F1F1F1;text-align:center;font-family:Helvetica,Arial,sans-serif;font-size:16px;line-height:25px;color:#222222">
+								<tr>
+																		<td width="50%"><div style="background:#FFFFFF;margin:5px;padding:10px"><div style="font-size:50px;font-weight:900;line-height:65px">0</div>Active Add Ons</div></td>
+									<td width="500%"><div style="background:#FFFFFF;color:#222222;margin:5px;padding:10px"><a style="color:#222222;text-decoration:none" href="https://snowboard-ai.com/wp-admin/admin.php?page=pmpro-addons&plugin_status=update" target="_blank"><div style="font-size:50px;font-weight:900;line-height:65px">0</div>Required Updates</a></div></td>
+								</tr>
+							</table>
+							<p style="margin:15px 0px 0px 0px;padding:0px">It is important to keep all Add Ons up to date to take advantage of security improvements, bug fixes, and expanded features. Add On updates can be made <a href="https://snowboard-ai.com/wp-admin/update-core.php" style="color:#1A688B" target="_blank">via the WordPress Dashboard</a>.</p>
+						</td>
+					</tr>
+										<tr>
+						<td valign="top" style="background:#FFFFFF;font-family:Helvetica,Arial,sans-serif;font-size:16px;line-height:25px;color:#222222;padding:30px 30px 15px 30px;text-align:left">
+							<h3 style="color:#1A688B;font-size:20px;line-height:30px;margin:0px 0px 15px 0px;padding:0px">Membership Site Administration</h3>
+							<ul>
+								<li>1 Administrators: <a target="_blank" style="color:#1A688B" href="https://snowboard-ai.com/wp-admin/user-edit.php?user_id=1">ziwbd</a>							</ul>
+							<p style="margin:0px;padding:0px">Note: It is important to review users with access to your membership site data since they control settings and can modify member accounts.</p>
+
+														<hr style="background-color:#F1F1F1;border:0;height:4px;margin:30px 0px 30px 0px" />
+							<h3 style="color:#1A688B;font-size:20px;line-height:30px;margin:0px 0px 15px 0px;padding:0px">Premium License Status: None</h3>
+							<p style="margin:0px;padding:0px">...and that is perfectly OK! PMPro is free to use for as long as you want for membership sites of all sizes. Interested in unlimited support, access to over 70 featured-enhancing Add Ons and instant installs and updates? <a style="color:#1A688B" href="https://www.paidmembershipspro.com/pricing/?utm_source=plugin&utm_medium=pmpro-admin-activity-email&utm_campaign=pricing&utm_content=license-section" target="_blank">Check out our paid plans to learn more</a>.</p>
+														</td>
+					</tr>
+										<tr>
+						<td valign="top" style="background-color:#FFFFFF;font-family:Helvetica,Arial,sans-serif;font-size:16px;line-height:25px;color:#222222;padding:0;text-align:left">
+							<table align="center" border="0" cellpadding="0" cellspacing="10" width="100%" style="border:0;background-color:#FFFFFF;text-align:left;font-family:Helvetica,Arial,sans-serif;font-size:16px;line-height:25px;color:#222222">
+								<tr valign="top">
+									<td width="60%" style="background-color:#F1F1F1;padding:15px">
+										<h3 style="color:#1A688B;font-size:20px;line-height:30px;margin:0px;padding:0px">PMPro News and Updates</h3>										
+									<p style="margin:15px 0px 0px 0px;padding:0"><a style="color:#1A688B" href="https://www.paidmembershipspro.com/paid-memberships-pro-vs-easy-digital-downloads/" target="_blank">Paid Memberships Pro  vs. Easy Digital Downloads</a> March 12, 2024</p><p style="margin:15px 0px 0px 0px;padding:0"><a style="color:#1A688B" href="https://www.paidmembershipspro.com/human-design/" target="_blank">How a Membership Site for Human Design Gets a Non-Human Boost with AI</a> March 12, 2024</p><p style="margin:15px 0px 0px 0px;padding:0"><a style="color:#1A688B" href="https://www.paidmembershipspro.com/combined-login-registration/" target="_blank">How to Design a Combined Login and Registration Page for Your Membership Site</a> March 11, 2024</p>									</td>
+									<td width="40%" style="background-color:#F1F1F1;padding:15px">
+										<p style="margin:0px;padding:0px;text-align:center"><a style="color:#1A688B" href="https://www.paidmembershipspro.com" target="_blank" rel="noopener noreferrer"><img style="width:100px;height:100px" src="https://snowboard-ai.com/wp-content/plugins/paid-memberships-pro/images/Paid-Memberships-Pro_icon.png" alt="Paid Memberships Pro" /></a></p>
+										<p style="margin:0px 0px 15px 0px;padding:0px"><a style="color:#1A688B" href="https://www.paidmembershipspro.com/support/" target="_blank" rel="noopener noreferrer">Get Support</a></p>
+										<p style="margin:0px 0px 15px 0px;padding:0px"><a style="color:#1A688B" href="https://twitter.com/pmproplugin" target="_blank" rel="noopener noreferrer">Follow @pmproplugin on Twitter</a></p>
+										<p style="margin:0px 0px 15px 0px;padding:0px"><a style="color:#1A688B" href="https://www.facebook.com/PaidMembershipsPro/" target="_blank" rel="noopener noreferrer">Like us on Facebook</p></p>
+										<p style="margin:0px;padding:0px"><a style="color:#1A688B" href="https://www.youtube.com/user/strangerstudiostv?sub_confirmation=1" target="_blank">Subscribe to our YouTube Channel</a></p>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+										<tr>
+						<td valign="top" style="background:#333333;font-family:Helvetica,Arial,sans-serif;font-size:20px;line-height:30px;color:#FFFFFF;padding:30px;text-align:center">
+							<p style="margin:0px 0px 15px 0px;padding:0px">This email is automatically generated by your WordPress site and sent to your Administration Email Address set under Settings > General in your WordPress dashboard.</p>
+							<p style="margin:0px;padding:0px">To adjust the frequency of this message or disable these emails completely, you can <a style="color:#FFFFFF" href="https://snowboard-ai.com/wp-admin/admin.php?page=pmpro-advancedsettings" target="_blank">update the "Activity Email Frequency" setting here</a>.</p>
+						</td>
+					</tr>
+									</tbody>
+			</table>
+		
+		</div>
+		<p>
+	Respectfully,<br />
+	
+</p>
+
+--b1=_OQpgO0pwTvV64gAoXUBN4m3V3qChX40XzmmxrLQ
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<p>Dear ziwbd,</p>		<div style="margin:0;padding:0px 30px 0px 30px;width:100%;background-color:#999999">
+		
+			<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse:collapse;border:0;max-width:600px!important;background-color:#FFFFFF">
+				<tbody>
+										<tr>
+						<td valign="top" style="background:#FFFFFF;font-family:Helvetica,Arial,sans-serif;font-size:16px;line-height:25px;color:#222222;padding:30px;text-align:center">
+							<p style="font-size:20px;line-height:30px;margin:0px;padding:0px">
+								<a href="https://snowboard-ai.com" target="_blank" style="color:#1A688B;font-weight:bold">[]</a><br />
+								Here's a summary of what happened in your Paid Memberships Pro site last week.							</p>
+						</td>
+					</tr>
+					<tr>
+						<td valign="top" style="background:#F1F1F1;font-family:Helvetica,Arial,sans-serif;font-size:20px;line-height:30px;color:#222222;padding:15px;text-align:center">
+							<p style="margin:0px;padding:0px"><strong>March 11, 2024 - March 17, 2024</strong></p>
+						</td>
+					</tr>
+										<tr>
+						<td valign="top" style="background:#FFFFFF;font-family:Helvetica,Arial,sans-serif;font-size:16px;line-height:25px;color:#222222;padding:30px;text-align:center">
+															<h3 style="color:#1A688B;font-size:20px;line-height:30px;margin:0px 0px 15px 0px;padding:0px">Sales and Revenue</h3>
+								<p style="margin:0px 0px 15px 0px;padding:0px">Your membership site made <strong>&#036;3.99</strong> in revenue last week.</p>
+														<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="border:0;background-color:#FFFFFF;text-align:center;font-family:Helvetica,Arial,sans-serif;font-size:16px;line-height:25px;color:#222222">
+								<tr>
+																		<td width="33%"><div style="border:8px solid #dff0d8;color:#3c763d;margin:5px;padding:10px"><a style="color:#3c763d;text-decoration:none" href="https://snowboard-ai.com/wp-admin/admin.php?page=pmpro-memberslist" target="_blank"><div style="font-size:50px;font-weight:900;line-height:65px">0</div>Joined</a></div></td>
+									<td width="33%"><div style="border:8px solid #fcf8e3;color:#8a6d3b;margin:5px;padding:10px"><a style="color:#8a6d3b;text-decoration:none" href="https://snowboard-ai.com/wp-admin/admin.php?page=pmpro-memberslist&#038;l=expired" target="_blank"><div style="font-size:50px;font-weight:900;line-height:65px">0</div>Expired</a></div></td>
+									<td width="33%"><div style="border:8px solid #f2dede;color:#a94442;margin:5px;padding:10px"><a style="color:#a94442;text-decoration:none" href="https://snowboard-ai.com/wp-admin/admin.php?page=pmpro-memberslist&#038;l=cancelled" target="_blank"><div style="font-size:50px;font-weight:900;line-height:65px">0</div>Cancelled</a></div></td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+										<tr>
+						<td valign="top" style="background:#F1F1F1;font-family:Helvetica,Arial,sans-serif;font-size:16px;line-height:25px;color:#222222;padding:30px;text-align:left">
+														<h3 style="color:#1A688B;font-size:20px;line-height:30px;margin:0px 0px 5px 0px;padding:0px"><span style="background:#1A688B;color:#FFFFFF;padding:5px 10px 5px 10px">2</span> Total Members</h3>
+														<ul>
+							<li>Basic: 2</li>							</ul>
+							<p style="margin:0px;padding:0px"><a style="color:#1A688B" href="https://snowboard-ai.com/wp-admin/admin.php?page=pmpro-reports&#038;report=memberships" target="_blank">View Signups and Cancellations Report</a></p>
+						</td>
+					</tr>
+										<tr>
+						<td valign="top" style="background:#FFFFFF;font-family:Helvetica,Arial,sans-serif;font-size:16px;line-height:25px;color:#222222;padding:30px;text-align:left">
+							<div style="border:8px dashed #F1F1F1;padding:30px;margin:0px;text-align:center">
+								<h3 style="color:#1A688B;font-size:20px;line-height:30px;margin:0px 0px 15px 0px;padding:0px">Discount Code Usage</h3>
+																	<p style="margin:0px;padding:0px">No <a style="color:#1A688B" target="_blank" href="https://snowboard-ai.com/wp-admin/admin.php?page=pmpro-discountcodes">Discount Codes</a> were used last week.</p>
+																</div>
+						</td>
+					</tr>
+										<tr>
+						<td valign="top" style="background:#F1F1F1;font-family:Helvetica,Arial,sans-serif;font-size:16px;line-height:25px;color:#222222;padding:30px;text-align:center">
+							<h3 style="color:#1A688B;font-size:20px;line-height:30px;margin:0px 0px 15px 0px;padding:0px">Paid Memberships Pro Add Ons</h3>
+							<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="border:0;background-color:#F1F1F1;text-align:center;font-family:Helvetica,Arial,sans-serif;font-size:16px;line-height:25px;color:#222222">
+								<tr>
+																		<td width="50%"><div style="background:#FFFFFF;margin:5px;padding:10px"><div style="font-size:50px;font-weight:900;line-height:65px">0</div>Active Add Ons</div></td>
+									<td width="500%"><div style="background:#FFFFFF;color:#222222;margin:5px;padding:10px"><a style="color:#222222;text-decoration:none" href="https://snowboard-ai.com/wp-admin/admin.php?page=pmpro-addons&#038;plugin_status=update" target="_blank"><div style="font-size:50px;font-weight:900;line-height:65px">0</div>Required Updates</a></div></td>
+								</tr>
+							</table>
+							<p style="margin:15px 0px 0px 0px;padding:0px">It is important to keep all Add Ons up to date to take advantage of security improvements, bug fixes, and expanded features. Add On updates can be made <a href="https://snowboard-ai.com/wp-admin/update-core.php" style="color:#1A688B" target="_blank">via the WordPress Dashboard</a>.</p>
+						</td>
+					</tr>
+										<tr>
+						<td valign="top" style="background:#FFFFFF;font-family:Helvetica,Arial,sans-serif;font-size:16px;line-height:25px;color:#222222;padding:30px 30px 15px 30px;text-align:left">
+							<h3 style="color:#1A688B;font-size:20px;line-height:30px;margin:0px 0px 15px 0px;padding:0px">Membership Site Administration</h3>
+							<ul>
+								<li>1 Administrators: <a target="_blank" style="color:#1A688B" href="https://snowboard-ai.com/wp-admin/user-edit.php?user_id=1">ziwbd</a>							</ul>
+							<p style="margin:0px;padding:0px">Note: It is important to review users with access to your membership site data since they control settings and can modify member accounts.</p>
+
+														<hr style="background-color:#F1F1F1;border:0;height:4px;margin:30px 0px 30px 0px" />
+							<h3 style="color:#1A688B;font-size:20px;line-height:30px;margin:0px 0px 15px 0px;padding:0px">Premium License Status: None</h3>
+							<p style="margin:0px;padding:0px">...and that is perfectly OK! PMPro is free to use for as long as you want for membership sites of all sizes. Interested in unlimited support, access to over 70 featured-enhancing Add Ons and instant installs and updates? <a style="color:#1A688B" href="https://www.paidmembershipspro.com/pricing/?utm_source=plugin&amp;utm_medium=pmpro-admin-activity-email&amp;utm_campaign=pricing&amp;utm_content=license-section" target="_blank">Check out our paid plans to learn more</a>.</p>
+														</td>
+					</tr>
+										<tr>
+						<td valign="top" style="background-color:#FFFFFF;font-family:Helvetica,Arial,sans-serif;font-size:16px;line-height:25px;color:#222222;padding:0;text-align:left">
+							<table align="center" border="0" cellpadding="0" cellspacing="10" width="100%" style="border:0;background-color:#FFFFFF;text-align:left;font-family:Helvetica,Arial,sans-serif;font-size:16px;line-height:25px;color:#222222">
+								<tr valign="top">
+									<td width="60%" style="background-color:#F1F1F1;padding:15px">
+										<h3 style="color:#1A688B;font-size:20px;line-height:30px;margin:0px;padding:0px">PMPro News and Updates</h3>										
+									<p style="margin:15px 0px 0px 0px;padding:0"><a style="color:#1A688B" href="https://www.paidmembershipspro.com/paid-memberships-pro-vs-easy-digital-downloads/" target="_blank">Paid Memberships Pro  vs. Easy Digital Downloads</a> March 12, 2024</p><p style="margin:15px 0px 0px 0px;padding:0"><a style="color:#1A688B" href="https://www.paidmembershipspro.com/human-design/" target="_blank">How a Membership Site for Human Design Gets a Non-Human Boost with AI</a> March 12, 2024</p><p style="margin:15px 0px 0px 0px;padding:0"><a style="color:#1A688B" href="https://www.paidmembershipspro.com/combined-login-registration/" target="_blank">How to Design a Combined Login and Registration Page for Your Membership Site</a> March 11, 2024</p>									</td>
+									<td width="40%" style="background-color:#F1F1F1;padding:15px">
+										<p style="margin:0px;padding:0px;text-align:center"><a style="color:#1A688B" href="https://www.paidmembershipspro.com" target="_blank" rel="noopener noreferrer"><img style="width:100px;height:100px" src="https://snowboard-ai.com/wp-content/plugins/paid-memberships-pro/images/Paid-Memberships-Pro_icon.png" alt="Paid Memberships Pro" /></a></p>
+										<p style="margin:0px 0px 15px 0px;padding:0px"><a style="color:#1A688B" href="https://www.paidmembershipspro.com/support/" target="_blank" rel="noopener noreferrer">Get Support</a></p>
+										<p style="margin:0px 0px 15px 0px;padding:0px"><a style="color:#1A688B" href="https://twitter.com/pmproplugin" target="_blank" rel="noopener noreferrer">Follow @pmproplugin on Twitter</a></p>
+										<p style="margin:0px 0px 15px 0px;padding:0px"><a style="color:#1A688B" href="https://www.facebook.com/PaidMembershipsPro/" target="_blank" rel="noopener noreferrer">Like us on Facebook</p></p>
+										<p style="margin:0px;padding:0px"><a style="color:#1A688B" href="https://www.youtube.com/user/strangerstudiostv?sub_confirmation=1" target="_blank">Subscribe to our YouTube Channel</a></p>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+										<tr>
+						<td valign="top" style="background:#333333;font-family:Helvetica,Arial,sans-serif;font-size:20px;line-height:30px;color:#FFFFFF;padding:30px;text-align:center">
+							<p style="margin:0px 0px 15px 0px;padding:0px">This email is automatically generated by your WordPress site and sent to your Administration Email Address set under Settings &gt; General in your WordPress dashboard.</p>
+							<p style="margin:0px;padding:0px">To adjust the frequency of this message or disable these emails completely, you can <a style="color:#FFFFFF" href="https://snowboard-ai.com/wp-admin/admin.php?page=pmpro-advancedsettings" target="_blank">update the "Activity Email Frequency" setting here</a>.</p>
+						</td>
+					</tr>
+									</tbody>
+			</table>
+		
+		</div>
+		<p>
+	Respectfully,<br />
+	
+</p>
+
+
+--b1=_OQpgO0pwTvV64gAoXUBN4m3V3qChX40XzmmxrLQ--
+
+
+--1710758069-eximdsn-14097653--

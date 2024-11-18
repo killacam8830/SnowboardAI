@@ -1,0 +1,12 @@
+[28-Sep-2024 15:25:18 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/snowqjji/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/snowqjji/public_html/wp-includes/blocks/index.php on line 8
+[26-Oct-2024 22:53:06 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/snowqjji/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/snowqjji/public_html/wp-includes/blocks/index.php on line 8
+[29-Oct-2024 11:01:31 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/snowqjji/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/snowqjji/public_html/wp-includes/blocks/index.php on line 8

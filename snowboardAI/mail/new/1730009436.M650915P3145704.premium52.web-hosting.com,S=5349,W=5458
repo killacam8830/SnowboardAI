@@ -1,0 +1,109 @@
+Return-Path: <>
+Delivered-To: snowqjji@premium52.web-hosting.com
+Received: from premium52.web-hosting.com
+	by premium52.web-hosting.com with LMTP
+	id wHm+JVzZHWfo/y8AcR6V3Q
+	(envelope-from <>)
+	for <snowqjji@premium52.web-hosting.com>; Sun, 27 Oct 2024 02:10:36 -0400
+Return-path: <>
+Envelope-to: snowqjji@premium52.web-hosting.com
+Delivery-date: Sun, 27 Oct 2024 02:10:36 -0400
+Received: from mailnull by premium52.web-hosting.com with local (Exim 4.96.2)
+	id 1t4wU0-00DyhR-1w
+	for snowqjji@premium52.web-hosting.com;
+	Sun, 27 Oct 2024 02:10:36 -0400
+X-Failed-Recipients: admin@snowboard-ai.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@premium52.web-hosting.com>
+To: snowqjji@premium52.web-hosting.com
+References: <T9SekP2rWUDFkFgVYGgW5DGxNbEKMl2AXc02EACf0g@snowboard-ai.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1730009436-eximdsn-1779371668
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1t4wU0-00DyhR-1w@premium52.web-hosting.com>
+Date: Sun, 27 Oct 2024 02:10:36 -0400
+
+--1730009436-eximdsn-1779371668
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  admin@snowboard-ai.com
+    No Such User Here
+
+--1730009436-eximdsn-1779371668
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; premium52.web-hosting.com
+
+Action: failed
+Final-Recipient: rfc822;admin@snowboard-ai.com
+Status: 5.0.0
+
+--1730009436-eximdsn-1779371668
+Content-type: message/rfc822
+
+Return-path: <snowqjji@premium52.web-hosting.com>
+Received: from snowqjji by premium52.web-hosting.com with local (Exim 4.96.2)
+	(envelope-from <snowqjji@premium52.web-hosting.com>)
+	id 1t4wU0-00DyhA-1A
+	for admin@snowboard-ai.com;
+	Sun, 27 Oct 2024 02:10:36 -0400
+To: admin@snowboard-ai.com
+Subject: [Snowboard AI] Please moderate: "Hello world!"
+Date: Sun, 27 Oct 2024 06:10:36 +0000
+From: WordPress <wordpress@snowboard-ai.com>
+Message-ID: <T9SekP2rWUDFkFgVYGgW5DGxNbEKMl2AXc02EACf0g@snowboard-ai.com>
+X-Mailer: PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1=_T9SekP2rWUDFkFgVYGgW5DGxNbEKMl2AXc02EACf0g"
+Content-Transfer-Encoding: 8bit
+Sender:  <snowqjji@premium52.web-hosting.com>
+
+--b1=_T9SekP2rWUDFkFgVYGgW5DGxNbEKMl2AXc02EACf0g
+Content-Type: text/plain; charset=us-ascii
+
+A new comment on the post "Hello world!" is waiting for your approval
+https://snowboard-ai.com/2024/07/05/hello-world/
+
+Author: brands_wrpa (IP address: 89.110.87.170, host-89-110-87-170.hosted-by-vdsina.com)
+Email: xqvjqqnippa@easy-repair-toronto.com
+URL: https://exlinecountrystore.com/
+Comment: 
+how global brands shape our style, branded style: important trends, 
+a brand apart <a href="http://exlinecountrystore.com/2024/05/23/high-end-fashion-retailers-a-review/" / rel="nofollow ugc">http://exlinecountrystore.com/2024/05/23/high-end-fashion-retailers-a-review/</a> .
+
+Approve it: https://snowboard-ai.com/wp-admin/comment.php?action=approve&c=25#wpbody-content
+Trash it: https://snowboard-ai.com/wp-admin/comment.php?action=trash&c=25#wpbody-content
+Spam it: https://snowboard-ai.com/wp-admin/comment.php?action=spam&c=25#wpbody-content
+Currently 18 comments are waiting for approval. Please visit the moderation panel:
+https://snowboard-ai.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content
+
+--b1=_T9SekP2rWUDFkFgVYGgW5DGxNbEKMl2AXc02EACf0g
+Content-Type: text/html; charset=us-ascii
+
+A new comment on the post "Hello world!" is waiting for your approval
+<a href="https://snowboard-ai.com/2024/07/05/hello-world/">https://snowboard-ai.com/2024/07/05/hello-world/</a>
+
+Author: brands_wrpa (IP address: 89.110.87.170, host-89-110-87-170.hosted-by-vdsina.com)
+Email: <a href="mailto:xqvjqqnippa@easy-repair-toronto.com">xqvjqqnippa@easy-repair-toronto.com</a>
+URL: <a href="https://exlinecountrystore.com/" rel="nofollow">https://exlinecountrystore.com/</a>
+Comment: 
+how global brands shape our style, branded style: important trends, 
+a brand apart <a href="http://exlinecountrystore.com/2024/05/23/high-end-fashion-retailers-a-review/" / rel="nofollow ugc">http://exlinecountrystore.com/2024/05/23/high-end-fashion-retailers-a-review/</a> .
+
+Approve it: <a href="https://snowboard-ai.com/wp-admin/comment.php?action=approve&#038;c=25#wpbody-content">https://snowboard-ai.com/wp-admin/comment.php?action=approve&#038;c=25#wpbody-content</a>
+Trash it: <a href="https://snowboard-ai.com/wp-admin/comment.php?action=trash&#038;c=25#wpbody-content">https://snowboard-ai.com/wp-admin/comment.php?action=trash&#038;c=25#wpbody-content</a>
+Spam it: <a href="https://snowboard-ai.com/wp-admin/comment.php?action=spam&#038;c=25#wpbody-content">https://snowboard-ai.com/wp-admin/comment.php?action=spam&#038;c=25#wpbody-content</a>
+Currently 18 comments are waiting for approval. Please visit the moderation panel:
+<a href="https://snowboard-ai.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content">https://snowboard-ai.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content</a>
+
+
+--b1=_T9SekP2rWUDFkFgVYGgW5DGxNbEKMl2AXc02EACf0g--
+
+
+--1730009436-eximdsn-1779371668--

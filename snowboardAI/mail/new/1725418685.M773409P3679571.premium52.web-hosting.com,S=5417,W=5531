@@ -1,0 +1,114 @@
+Return-Path: <>
+Delivered-To: snowqjji@premium52.web-hosting.com
+Received: from premium52.web-hosting.com
+	by premium52.web-hosting.com with LMTP
+	id wKtcLb3M12ZTJTgAcR6V3Q
+	(envelope-from <>)
+	for <snowqjji@premium52.web-hosting.com>; Tue, 03 Sep 2024 22:58:05 -0400
+Return-path: <>
+Envelope-to: snowqjji@premium52.web-hosting.com
+Delivery-date: Tue, 03 Sep 2024 22:58:05 -0400
+Received: from mailnull by premium52.web-hosting.com with local (Exim 4.96.2)
+	id 1slgDd-00FVMc-2N
+	for snowqjji@premium52.web-hosting.com;
+	Tue, 03 Sep 2024 22:58:05 -0400
+X-Failed-Recipients: admin@snowboard-ai.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@premium52.web-hosting.com>
+To: snowqjji@premium52.web-hosting.com
+References: <dlctzXpQfR3zB3tuZ1C11ZBneRQtJdLx2nQaK44E@snowboard-ai.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1725418685-eximdsn-1314257993
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1slgDd-00FVMc-2N@premium52.web-hosting.com>
+Date: Tue, 03 Sep 2024 22:58:05 -0400
+
+--1725418685-eximdsn-1314257993
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  admin@snowboard-ai.com
+    No Such User Here
+
+--1725418685-eximdsn-1314257993
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; premium52.web-hosting.com
+
+Action: failed
+Final-Recipient: rfc822;admin@snowboard-ai.com
+Status: 5.0.0
+
+--1725418685-eximdsn-1314257993
+Content-type: message/rfc822
+
+Return-path: <snowqjji@premium52.web-hosting.com>
+Received: from snowqjji by premium52.web-hosting.com with local (Exim 4.96.2)
+	(envelope-from <snowqjji@premium52.web-hosting.com>)
+	id 1slgDd-00FVMQ-1k
+	for admin@snowboard-ai.com;
+	Tue, 03 Sep 2024 22:58:05 -0400
+To: admin@snowboard-ai.com
+Subject: [Snowboard AI] Please moderate: "Hello world!"
+Date: Wed, 4 Sep 2024 02:58:05 +0000
+From: WordPress <wordpress@snowboard-ai.com>
+Message-ID: <dlctzXpQfR3zB3tuZ1C11ZBneRQtJdLx2nQaK44E@snowboard-ai.com>
+X-Mailer: PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1=_dlctzXpQfR3zB3tuZ1C11ZBneRQtJdLx2nQaK44E"
+Content-Transfer-Encoding: 8bit
+Sender:  <snowqjji@premium52.web-hosting.com>
+
+--b1=_dlctzXpQfR3zB3tuZ1C11ZBneRQtJdLx2nQaK44E
+Content-Type: text/plain; charset=us-ascii
+
+A new comment on the post "Hello world!" is waiting for your approval
+https://snowboard-ai.com/2024/07/05/hello-world/
+
+Author: Rickyevets (IP address: 58.187.75.23, 58.187.75.23)
+Email: mjkwgmz85fgkc3i@tempmail.us.com
+URL: 
+Comment: 
+At ToMyAccount.com, we specialize in providing verified PVA accounts that are ready for immediate use. Our accounts are created using different server IPs, ensuring they function smoothly on any platform. Experience fast delivery, great prices, and exceptional service with every purchase. 
+ 
+Open Link: 
+ 
+https://ToMyAccount.com 
+ 
+Much Grateful!
+
+Approve it: https://snowboard-ai.com/wp-admin/comment.php?action=approve&c=4#wpbody-content
+Trash it: https://snowboard-ai.com/wp-admin/comment.php?action=trash&c=4#wpbody-content
+Spam it: https://snowboard-ai.com/wp-admin/comment.php?action=spam&c=4#wpbody-content
+Currently 3 comments are waiting for approval. Please visit the moderation panel:
+https://snowboard-ai.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content
+
+--b1=_dlctzXpQfR3zB3tuZ1C11ZBneRQtJdLx2nQaK44E
+Content-Type: text/html; charset=us-ascii
+
+<p>A new comment on the post "Hello world!" is waiting for your approval<br />
+<a href="https://snowboard-ai.com/2024/07/05/hello-world/">https://snowboard-ai.com/2024/07/05/hello-world/</a></p>
+<p>Author: Rickyevets (IP address: 58.187.75.23, 58.187.75.23)<br />
+Email: <a href="mailto:mjkwgmz85fgkc3i@tempmail.us.com">mjkwgmz85fgkc3i@tempmail.us.com</a><br />
+URL:<br />
+Comment:<br />
+At ToMyAccount.com, we specialize in providing verified PVA accounts that are ready for immediate use. Our accounts are created using different server IPs, ensuring they function smoothly on any platform. Experience fast delivery, great prices, and exceptional service with every purchase. </p>
+<p>Open Link: </p>
+<p><a href="https://ToMyAccount.com" rel="nofollow">https://ToMyAccount.com</a> </p>
+<p>Much Grateful!</p>
+<p>Approve it: <a href="https://snowboard-ai.com/wp-admin/comment.php?action=approve&#038;c=4#wpbody-content">https://snowboard-ai.com/wp-admin/comment.php?action=approve&#038;c=4#wpbody-content</a><br />
+Trash it: <a href="https://snowboard-ai.com/wp-admin/comment.php?action=trash&#038;c=4#wpbody-content">https://snowboard-ai.com/wp-admin/comment.php?action=trash&#038;c=4#wpbody-content</a><br />
+Spam it: <a href="https://snowboard-ai.com/wp-admin/comment.php?action=spam&#038;c=4#wpbody-content">https://snowboard-ai.com/wp-admin/comment.php?action=spam&#038;c=4#wpbody-content</a><br />
+Currently 3 comments are waiting for approval. Please visit the moderation panel:<br />
+<a href="https://snowboard-ai.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content">https://snowboard-ai.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content</a></p>
+
+
+--b1=_dlctzXpQfR3zB3tuZ1C11ZBneRQtJdLx2nQaK44E--
+
+
+--1725418685-eximdsn-1314257993--

@@ -1,0 +1,100 @@
+Return-Path: <>
+Delivered-To: snowqjji@premium52.web-hosting.com
+Received: from premium52.web-hosting.com
+	by premium52.web-hosting.com with LMTP
+	id AEeuIw4Sl2byFB4AcR6V3Q
+	(envelope-from <>)
+	for <snowqjji@premium52.web-hosting.com>; Tue, 16 Jul 2024 20:36:30 -0400
+Return-path: <>
+Envelope-to: snowqjji@premium52.web-hosting.com
+Delivery-date: Tue, 16 Jul 2024 20:36:30 -0400
+Received: from mailnull by premium52.web-hosting.com with local (Exim 4.96.2)
+	id 1sTsek-008I9D-1r
+	for snowqjji@premium52.web-hosting.com;
+	Tue, 16 Jul 2024 20:36:30 -0400
+X-Failed-Recipients: admin@snowboard-ai.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@premium52.web-hosting.com>
+To: snowqjji@premium52.web-hosting.com
+References: <gtWnW3z3msmQXlnG4aoM71IhbbFOBm47d4DXGQI7zY@snowboard-ai.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1721176590-eximdsn-164339012
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sTsek-008I9D-1r@premium52.web-hosting.com>
+Date: Tue, 16 Jul 2024 20:36:30 -0400
+
+--1721176590-eximdsn-164339012
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  admin@snowboard-ai.com
+    No Such User Here
+
+--1721176590-eximdsn-164339012
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; premium52.web-hosting.com
+
+Action: failed
+Final-Recipient: rfc822;admin@snowboard-ai.com
+Status: 5.0.0
+
+--1721176590-eximdsn-164339012
+Content-type: message/rfc822
+
+Return-path: <snowqjji@premium52.web-hosting.com>
+Received: from snowqjji by premium52.web-hosting.com with local (Exim 4.96.2)
+	(envelope-from <snowqjji@premium52.web-hosting.com>)
+	id 1sTsek-008I92-1E
+	for admin@snowboard-ai.com;
+	Tue, 16 Jul 2024 20:36:30 -0400
+To: admin@snowboard-ai.com
+Subject: =?us-ascii?Q?[My_Blog]_Your_site_has_updated_to_WordPress_6.?=
+ =?us-ascii?Q?6?=
+Date: Wed, 17 Jul 2024 00:36:30 +0000
+From: WordPress <wordpress@snowboard-ai.com>
+Message-ID: <gtWnW3z3msmQXlnG4aoM71IhbbFOBm47d4DXGQI7zY@snowboard-ai.com>
+X-Mailer: PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1=_gtWnW3z3msmQXlnG4aoM71IhbbFOBm47d4DXGQI7zY"
+Content-Transfer-Encoding: 8bit
+Sender:  <snowqjji@premium52.web-hosting.com>
+
+--b1=_gtWnW3z3msmQXlnG4aoM71IhbbFOBm47d4DXGQI7zY
+Content-Type: text/plain; charset=us-ascii
+
+Howdy! Your site at https://snowboard-ai.com has been updated automatically to WordPress 6.6.
+
+No further action is needed on your part. For more on version 6.6, see the About WordPress screen:
+https://snowboard-ai.com/wp-admin/about.php
+
+If you experience any issues or need support, the volunteers in the WordPress.org support forums may be able to help.
+https://wordpress.org/support/forums/
+
+You also have some plugins or themes with updates available. Update them now:
+https://snowboard-ai.com/wp-admin/
+
+The WordPress Team
+
+--b1=_gtWnW3z3msmQXlnG4aoM71IhbbFOBm47d4DXGQI7zY
+Content-Type: text/html; charset=us-ascii
+
+<p>Howdy! Your site at <a href="https://snowboard-ai.com">https://snowboard-ai.com</a> has been updated automatically to WordPress 6.6.</p>
+<p>No further action is needed on your part. For more on version 6.6, see the About WordPress screen:<br />
+<a href="https://snowboard-ai.com/wp-admin/about.php">https://snowboard-ai.com/wp-admin/about.php</a></p>
+<p>If you experience any issues or need support, the volunteers in the WordPress.org support forums may be able to help.<br />
+<a href="https://wordpress.org/support/forums/" rel="nofollow">https://wordpress.org/support/forums/</a></p>
+<p>You also have some plugins or themes with updates available. Update them now:<br />
+<a href="https://snowboard-ai.com/wp-admin/">https://snowboard-ai.com/wp-admin/</a></p>
+<p>The WordPress Team</p>
+
+
+--b1=_gtWnW3z3msmQXlnG4aoM71IhbbFOBm47d4DXGQI7zY--
+
+
+--1721176590-eximdsn-164339012--

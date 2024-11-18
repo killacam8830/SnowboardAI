@@ -1,0 +1,111 @@
+Return-Path: <>
+Delivered-To: snowqjji@premium52.web-hosting.com
+Received: from premium52.web-hosting.com
+	by premium52.web-hosting.com with LMTP
+	id aH2rD5ISGGcKHx4AcR6V3Q
+	(envelope-from <>)
+	for <snowqjji@premium52.web-hosting.com>; Tue, 22 Oct 2024 17:01:06 -0400
+Return-path: <>
+Envelope-to: snowqjji@premium52.web-hosting.com
+Delivery-date: Tue, 22 Oct 2024 17:01:06 -0400
+Received: from mailnull by premium52.web-hosting.com with local (Exim 4.96.2)
+	id 1t3M02-008JLN-0k
+	for snowqjji@premium52.web-hosting.com;
+	Tue, 22 Oct 2024 17:01:06 -0400
+X-Failed-Recipients: admin@snowboard-ai.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@premium52.web-hosting.com>
+To: snowqjji@premium52.web-hosting.com
+References: <2vtfDbNcQhcqwiIM91ALMEnTn2n66fBh1wzeuorZzw@snowboard-ai.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1729630866-eximdsn-135944397
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1t3M02-008JLN-0k@premium52.web-hosting.com>
+Date: Tue, 22 Oct 2024 17:01:06 -0400
+
+--1729630866-eximdsn-135944397
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  admin@snowboard-ai.com
+    No Such User Here
+
+--1729630866-eximdsn-135944397
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; premium52.web-hosting.com
+
+Action: failed
+Final-Recipient: rfc822;admin@snowboard-ai.com
+Status: 5.0.0
+
+--1729630866-eximdsn-135944397
+Content-type: message/rfc822
+
+Return-path: <snowqjji@premium52.web-hosting.com>
+Received: from snowqjji by premium52.web-hosting.com with local (Exim 4.96.2)
+	(envelope-from <snowqjji@premium52.web-hosting.com>)
+	id 1t3M02-008JKv-05
+	for admin@snowboard-ai.com;
+	Tue, 22 Oct 2024 17:01:06 -0400
+To: admin@snowboard-ai.com
+Subject: [Snowboard AI] Please moderate: "Hello world!"
+Date: Tue, 22 Oct 2024 21:01:05 +0000
+From: WordPress <wordpress@snowboard-ai.com>
+Message-ID: <2vtfDbNcQhcqwiIM91ALMEnTn2n66fBh1wzeuorZzw@snowboard-ai.com>
+X-Mailer: PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1=_2vtfDbNcQhcqwiIM91ALMEnTn2n66fBh1wzeuorZzw"
+Content-Transfer-Encoding: 8bit
+Sender:  <snowqjji@premium52.web-hosting.com>
+
+--b1=_2vtfDbNcQhcqwiIM91ALMEnTn2n66fBh1wzeuorZzw
+Content-Type: text/plain; charset=us-ascii
+
+A new comment on the post "Hello world!" is waiting for your approval
+https://snowboard-ai.com/2024/07/05/hello-world/
+
+Author: domestic_yySa (IP address: 89.110.87.170, host-89-110-87-170.hosted-by-vdsina.com)
+Email: idqeuqqeqSa@best-aesthetic-clinic.com
+URL: https://petstorepetsupply.com/
+Comment: 
+Why are domestic animals so important, the advantages of pets. 
+tips for choosing a pet, advantages of different pet breeds.How to properly care for pets, how to create a pet's diet.fun facts about pets, why pets are so amazing.tips for training pets, how to teach a parrot to talk. 
+best domestic animals <a href="petstorepetsupply.com/index.php/2024/06/12/gardening-for-mental-health" rel="nofollow ugc">petstorepetsupply.com/index.php/2024/06/12/gardening-for-mental-health</a> .
+
+Approve it: https://snowboard-ai.com/wp-admin/comment.php?action=approve&c=20#wpbody-content
+Trash it: https://snowboard-ai.com/wp-admin/comment.php?action=trash&c=20#wpbody-content
+Spam it: https://snowboard-ai.com/wp-admin/comment.php?action=spam&c=20#wpbody-content
+Currently 13 comments are waiting for approval. Please visit the moderation panel:
+https://snowboard-ai.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content
+
+--b1=_2vtfDbNcQhcqwiIM91ALMEnTn2n66fBh1wzeuorZzw
+Content-Type: text/html; charset=us-ascii
+
+A new comment on the post "Hello world!" is waiting for your approval
+<a href="https://snowboard-ai.com/2024/07/05/hello-world/">https://snowboard-ai.com/2024/07/05/hello-world/</a>
+
+Author: domestic_yySa (IP address: 89.110.87.170, host-89-110-87-170.hosted-by-vdsina.com)
+Email: <a href="mailto:idqeuqqeqSa@best-aesthetic-clinic.com">idqeuqqeqSa@best-aesthetic-clinic.com</a>
+URL: <a href="https://petstorepetsupply.com/" rel="nofollow">https://petstorepetsupply.com/</a>
+Comment: 
+Why are domestic animals so important, the advantages of pets. 
+tips for choosing a pet, advantages of different pet breeds.How to properly care for pets, how to create a pet's diet.fun facts about pets, why pets are so amazing.tips for training pets, how to teach a parrot to talk. 
+best domestic animals <a href="petstorepetsupply.com/index.php/2024/06/12/gardening-for-mental-health" rel="nofollow ugc">petstorepetsupply.com/index.php/2024/06/12/gardening-for-mental-health</a> .
+
+Approve it: <a href="https://snowboard-ai.com/wp-admin/comment.php?action=approve&#038;c=20#wpbody-content">https://snowboard-ai.com/wp-admin/comment.php?action=approve&#038;c=20#wpbody-content</a>
+Trash it: <a href="https://snowboard-ai.com/wp-admin/comment.php?action=trash&#038;c=20#wpbody-content">https://snowboard-ai.com/wp-admin/comment.php?action=trash&#038;c=20#wpbody-content</a>
+Spam it: <a href="https://snowboard-ai.com/wp-admin/comment.php?action=spam&#038;c=20#wpbody-content">https://snowboard-ai.com/wp-admin/comment.php?action=spam&#038;c=20#wpbody-content</a>
+Currently 13 comments are waiting for approval. Please visit the moderation panel:
+<a href="https://snowboard-ai.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content">https://snowboard-ai.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content</a>
+
+
+--b1=_2vtfDbNcQhcqwiIM91ALMEnTn2n66fBh1wzeuorZzw--
+
+
+--1729630866-eximdsn-135944397--

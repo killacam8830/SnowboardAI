@@ -1,0 +1,107 @@
+Return-Path: <>
+Delivered-To: snowqjji@premium52.web-hosting.com
+Received: from premium52.web-hosting.com
+	by premium52.web-hosting.com with LMTP
+	id eBI0GRsSEGcXQCEAcR6V3Q
+	(envelope-from <>)
+	for <snowqjji@premium52.web-hosting.com>; Wed, 16 Oct 2024 15:20:59 -0400
+Return-path: <>
+Envelope-to: snowqjji@premium52.web-hosting.com
+Delivery-date: Wed, 16 Oct 2024 15:20:59 -0400
+Received: from mailnull by premium52.web-hosting.com with local (Exim 4.96.2)
+	id 1t19Zr-009UEZ-1G
+	for snowqjji@premium52.web-hosting.com;
+	Wed, 16 Oct 2024 15:20:59 -0400
+X-Failed-Recipients: admin@snowboard-ai.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@premium52.web-hosting.com>
+To: snowqjji@premium52.web-hosting.com
+References: <S9LDM6IDAVEHWPu3rpvJ8gwt4r7JGYg64IKFEKZtk@snowboard-ai.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1729106459-eximdsn-825196473
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1t19Zr-009UEZ-1G@premium52.web-hosting.com>
+Date: Wed, 16 Oct 2024 15:20:59 -0400
+
+--1729106459-eximdsn-825196473
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  admin@snowboard-ai.com
+    No Such User Here
+
+--1729106459-eximdsn-825196473
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; premium52.web-hosting.com
+
+Action: failed
+Final-Recipient: rfc822;admin@snowboard-ai.com
+Status: 5.0.0
+
+--1729106459-eximdsn-825196473
+Content-type: message/rfc822
+
+Return-path: <snowqjji@premium52.web-hosting.com>
+Received: from snowqjji by premium52.web-hosting.com with local (Exim 4.96.2)
+	(envelope-from <snowqjji@premium52.web-hosting.com>)
+	id 1t19Zr-009UE8-0U
+	for admin@snowboard-ai.com;
+	Wed, 16 Oct 2024 15:20:59 -0400
+To: admin@snowboard-ai.com
+Subject: [Snowboard AI] Please moderate: "Hello world!"
+Date: Wed, 16 Oct 2024 19:20:59 +0000
+From: WordPress <wordpress@snowboard-ai.com>
+Message-ID: <S9LDM6IDAVEHWPu3rpvJ8gwt4r7JGYg64IKFEKZtk@snowboard-ai.com>
+X-Mailer: PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1=_S9LDM6IDAVEHWPu3rpvJ8gwt4r7JGYg64IKFEKZtk"
+Content-Transfer-Encoding: 8bit
+Sender:  <snowqjji@premium52.web-hosting.com>
+
+--b1=_S9LDM6IDAVEHWPu3rpvJ8gwt4r7JGYg64IKFEKZtk
+Content-Type: text/plain; charset=us-ascii
+
+A new comment on the post "Hello world!" is waiting for your approval
+https://snowboard-ai.com/2024/07/05/hello-world/
+
+Author: windows_elet (IP address: 89.110.87.170, host-89-110-87-170.hosted-by-vdsina.com)
+Email: ybvaycultet@finexmolicense.com
+URL: https://finexmolicense.com/
+Comment: 
+Trust in experience and quality triple glazed windows cost <a href="https://best-exchange-wallet.com/triple-glazed-melbourne" rel="nofollow ugc">https://best-exchange-wallet.com/triple-glazed-melbourne</a> .
+
+Approve it: https://snowboard-ai.com/wp-admin/comment.php?action=approve&c=16#wpbody-content
+Trash it: https://snowboard-ai.com/wp-admin/comment.php?action=trash&c=16#wpbody-content
+Spam it: https://snowboard-ai.com/wp-admin/comment.php?action=spam&c=16#wpbody-content
+Currently 9 comments are waiting for approval. Please visit the moderation panel:
+https://snowboard-ai.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content
+
+--b1=_S9LDM6IDAVEHWPu3rpvJ8gwt4r7JGYg64IKFEKZtk
+Content-Type: text/html; charset=us-ascii
+
+A new comment on the post "Hello world!" is waiting for your approval
+<a href="https://snowboard-ai.com/2024/07/05/hello-world/">https://snowboard-ai.com/2024/07/05/hello-world/</a>
+
+Author: windows_elet (IP address: 89.110.87.170, host-89-110-87-170.hosted-by-vdsina.com)
+Email: <a href="mailto:ybvaycultet@finexmolicense.com">ybvaycultet@finexmolicense.com</a>
+URL: <a href="https://finexmolicense.com/" rel="nofollow">https://finexmolicense.com/</a>
+Comment: 
+Trust in experience and quality triple glazed windows cost <a href="https://best-exchange-wallet.com/triple-glazed-melbourne" rel="nofollow ugc">https://best-exchange-wallet.com/triple-glazed-melbourne</a> .
+
+Approve it: <a href="https://snowboard-ai.com/wp-admin/comment.php?action=approve&#038;c=16#wpbody-content">https://snowboard-ai.com/wp-admin/comment.php?action=approve&#038;c=16#wpbody-content</a>
+Trash it: <a href="https://snowboard-ai.com/wp-admin/comment.php?action=trash&#038;c=16#wpbody-content">https://snowboard-ai.com/wp-admin/comment.php?action=trash&#038;c=16#wpbody-content</a>
+Spam it: <a href="https://snowboard-ai.com/wp-admin/comment.php?action=spam&#038;c=16#wpbody-content">https://snowboard-ai.com/wp-admin/comment.php?action=spam&#038;c=16#wpbody-content</a>
+Currently 9 comments are waiting for approval. Please visit the moderation panel:
+<a href="https://snowboard-ai.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content">https://snowboard-ai.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content</a>
+
+
+--b1=_S9LDM6IDAVEHWPu3rpvJ8gwt4r7JGYg64IKFEKZtk--
+
+
+--1729106459-eximdsn-825196473--

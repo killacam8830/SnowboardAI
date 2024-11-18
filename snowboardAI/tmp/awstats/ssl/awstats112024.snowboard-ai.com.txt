@@ -1,0 +1,1550 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202411 will be lost/reset.
+# Last config file used to build this data file was /home/snowqjji/tmp/awstats/ssl/awstats.snowboard-ai.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2699                
+POS_VISITOR 32358               
+POS_DAY 55235               
+POS_DOMAIN 3534                
+POS_LOGIN 4484                
+POS_ROBOT 4639                
+POS_WORMS 5263                
+POS_EMAILSENDER 5394                
+POS_EMAILRECEIVER 5537                
+POS_SESSION 55732               
+POS_SIDER 55945               
+POS_FILETYPES 5672                
+POS_DOWNLOADS 5885                
+POS_OS 6097                
+POS_BROWSER 6433                
+POS_SCREENSIZE 8759                
+POS_UNKNOWNREFERER 8833                
+POS_UNKNOWNREFERERBROWSER 9895                
+POS_ORIGIN 10707               
+POS_SEREFERRALS 10847               
+POS_PAGEREFS 11036               
+POS_SEARCHWORDS 11184               
+POS_KEYWORDS 11336               
+POS_MISC 2363                
+POS_ERRORS 11395               
+POS_CLUSTER 4340                
+POS_SIDER_404 11567               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20241117090501 149 27404 12671221158780
+FirstTime 20241101011832
+LastTime 20241117090501
+LastUpdate 20241117095514 149 0 143 6 0
+TotalVisits 749                 
+TotalUnique 592                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 602                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 97 121 1031544 234 241 1959075
+1 30 31 94069 21 32 104501
+2 56 57 345483 120 125 791717
+3 59 60 150503 101 104 811217
+4 46 47 198934 23 26 175747
+5 59 59 348848 335 353 9836207
+6 36 36 205926 45 64 1258801
+7 41 48 264474 36 49 1039095
+8 24 25 292449 19 22 234304
+9 37 37 173389 12 20 57460
+10 76 76 1170482 19 23 218599
+11 75 76 464991 64 69 798401
+12 44 44 415515 11 29 363591
+13 68 68 141472 9 21 454054
+14 574 574 441244 334 341 9756060
+15 206 206 306256 15 17 131648
+16 38 38 113589 37 45 251097
+17 68 87 1044621 31 56 802123
+18 83 84 1098287 17 21 287516
+19 30 30 301458 10 11 76306
+20 32 33 289561 94 117 555267
+21 98 99 1495907 15 27 62038
+22 30 30 668441 36 42 262995
+23 73 112 1133960 11 15 16510
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 56
+us 1227 1279 4995848
+ru 145 145 2049919
+in 92 132 1054984
+gb 56 56 244680
+lt 48 48 964694
+jp 37 37 298451
+vn 34 34 6970
+de 32 32 46011
+cn 30 30 324253
+fr 24 24 5375
+ca 23 29 368593
+ua 17 17 477979
+bg 16 16 200307
+nl 15 15 154561
+it 13 13 164431
+br 12 12 93910
+gr 12 12 87594
+pl 10 10 3776
+th 9 9 1845
+eu 9 9 75993
+pk 9 9 93251
+au 8 8 5227
+se 7 7 57372
+ke 6 6 92674
+cm 6 6 92674
+dk 3 3 4233
+id 4 4 820
+tw 1 1 205
+es 2 2 806
+zw 2 2 410
+vg 1 1 2067
+mx 1 1 205
+sg 1 1 205
+be 5 5 36320
+sc 1 1 53876
+eg 5 5 18088
+hu 2 2 417
+sa 1 1 53855
+ie 1 1 205
+hk 4 4 820
+ma 2 2 22788
+kr 5 5 1025
+nz 3 3 615
+ir 5 5 22164
+ro 1 1 212
+kg 1 1 2068
+cl 2 2 410
+no 2 2 410
+tr 3 3 813
+at 1 1 2067
+ar 5 5 1025
+il 3 3 615
+pt 6 6 1230
+bd 2 2 410
+my 4 4 827
+lk 4 4 820
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+no_user_agent 157 1420318 20241117060618 0
+bingbot/ 142 106250 20241117062429 16
+Googlebot/ 81 580946 20241116160904 9
+Go\-http\-client/ 73 404508 20241117044214 0
+AhrefsBot/ 52 414492 20241115041012 5
+nbot 20 135781 20241112161004 1
+SemrushBot/ 18 93796 20241115072910 6
+unknown 13 1486 20241115130938 13
+bot[\s_+:,\.\;\/\\-] 8 46031 20241113103815 4
+facebookexternalhit/ 6 702 20241115233054 6
+crawl 3 108623 20241116152427 1
+survey 2 107710 20241105222744 0
+curl 1 11393 20241109052805 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+Unknown 5 437151 0 0
+woff2 89 2052056 0 0
+xml 4 1157 0 0
+txt 6 72770 0 0
+html 412 8632298 0 0
+css 58 315751 0 0
+js 34 339042 0 0
+php 1470 341178 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 3
+/wp-content/themes/memberlite/readme.txt 2 0 23446
+/wp-content/plugins/elementor/readme.txt 2 0 23982
+/wp-content/plugins/paid-memberships-pro/readme.txt 2 0 25342
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 20
+ios_iphone 76 57
+win8.1 7 7
+winlong 3 3
+ios_ipad 1 1
+macosx15 21 21
+macosx10 11 1
+macosx 45 45
+linuxubuntu 53 53
+win8 2 2
+winnt 1 1
+Unknown 882 864
+androidnougat 6 6
+win10 886 846
+winxp 6 6
+android 17 6
+macosx7 3 3
+androidkitkat 3 3
+linux 25 25
+android10 2 2
+win7 28 28
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 112
+chrome51.0.2704.103 3 3
+firefox47.0 1 1
+chrome33.0.1750.149 2 2
+firefox70.0 1 1
+chrome103.0.0.0 6 6
+chrome61.0.3163.100 1 1
+firefox123.0 6 6
+chrome66.0.3359.117 3 3
+chrome46.0.2490.86 2 2
+firefox128.0 3 3
+chrome110.0.0.0 1 1
+chrome60.0.3112.107 6 6
+firefox58.0 1 1
+firefox93.0 1 1
+firefox33.0 1 1
+chrome52.0.2743.116 1 1
+safari 1 1
+edge17 1 1
+firefox64.0 1 1
+chrome129.0.0.0 19 19
+chrome121.0.0.0 18 18
+firefox106.0 1 1
+chrome56.0.2924.87 1 1
+chrome122.0.0.0 4 4
+chrome242.02.8301.120 1 1
+chrome30.0.1599.103 3 3
+chrome76.0.1761.88 1 1
+chrome124.0.0.0 20 20
+firefox85.0 1 1
+chrome91.0.4472.124 1 1
+chrome79.0.3945.130 2 2
+firefox62.0 1 1
+mozilla 36 24
+chrome124.0.6367.63 1 1
+Unknown 846 840
+chrome47.0.2526.106 1 1
+firefox89.0 1 1
+chrome77.0.3865.90 2 2
+chrome63.0.3239.132 3 3
+chrome59.0.3071.115 1 1
+chrome74.0.3729.169 3 3
+chrome126.0.0.0 564 564
+chrome124.0.6367.92 1 1
+opera102.0.0.0 3 3
+chrome125.0.0.0 1 1
+safari13.0.3 45 45
+chrome117.0.0.0 1 1
+chrome118.0.0.0 1 1
+chrome91.0.4472.114 3 3
+chrome80.0.3987.149 2 2
+msie11.0 1 1
+chrome60.0.3112.90 3 3
+safari17.4.1 1 1
+chrome130.0.6723.70 1 1
+firefox95.0 1 1
+chrome65.0.3325.181 1 1
+chrome105.0.0.0 2 2
+chrome130.0.0.0 56 16
+firefox131.0 3 3
+firefox114.0 45 45
+chrome62.0.3202.89 2 2
+firefox78.0 2 2
+chrome103.0.5060.66 1 1
+chrome108.0.0.0 1 1
+firefox67.0 1 1
+chrome70.0.3538.102 1 1
+safari17.6 27 8
+chrome124.0.6367.78 2 2
+firefox54.0 1 1
+chrome115.0.0.0 3 3
+chrome127.0.0.0 4 4
+firefox59.0 1 1
+chrome116.0.0.0 3 3
+chrome73.0.3683.86 2 2
+firefox98.0 1 1
+firefox44.0 3 3
+chrome92.0.4515.107 1 1
+safari17.0.1 1 1
+firefox24.0 2 2
+chrome58.0.3029.110 1 1
+chrome124.0.6367.93 1 1
+chrome78.0.3904.70 1 1
+chrome124.0.6367.119 1 1
+chrome128.0.0.0 3 3
+chrome80.0.3987.162 1 1
+chrome84.0.4147.105 1 1
+chrome103.0.5060.114 2 2
+firefox42.0 1 1
+firefox29.0 1 1
+firefox130.0 2 2
+chrome32.0.1700.107 1 1
+chrome57.0.2987.133 2 2
+firefox129.0 4 4
+firefox122.0 17 17
+firefox45.0 1 1
+chrome17.0.963.56 3 3
+chrome63.0.3239.84 5 5
+firefox46.0 1 1
+chrome60.0.3112.113 2 2
+firefox126.0 3 3
+chrome120.0.0.0 134 134
+chrome58.0.1145.75 3 3
+chrome100.0.4896.60 4 4
+chrome62.0.3202.94 2 2
+safari17.0 3 3
+chrome88.0.4324.190 1 1
+firefox18.0 1 1
+chrome87.0.4280.88 1 1
+firefox73.0 1 1
+chrome114.0.0.0 60 49
+chrome39.0.2171.95 10 0
+firefox105.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 13
+Mozilla/5.0_(compatible;_Dataprovider.com) 20241107172231
+WordPress/6.6.2;_https://snowboard-ai.com/wp-admin 20241111172602
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20241109142103
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20241115021325
+node-fetch/1.0_(_https://github.com/bitinn/node-fetch) 20241114195801
+WordPress/6.5.5;_https://snowboard-ai.com/wp-admin 20241110003218
+WordPress/6.7;_https://snowboard-ai.com 20241117090058
+python-requests/2.25.1 20241106174834
+python-requests/2.31.0 20241108072502
+axios/1.7.7 20241109092658
+Softaculous 20241113210351
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20241116021634
+WordPress/6.6.2;_https://snowboard-ai.com 20241112190819
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 10
+python-requests/2.31.0 20241108072502
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20241115021325
+Softaculous 20241113210351
+axios/1.7.7 20241109092658
+WordPress/6.6.2;_https://snowboard-ai.com 20241112190819
+node-fetch/1.0_(_https://github.com/bitinn/node-fetch) 20241114195801
+WordPress/6.5.5;_https://snowboard-ai.com/wp-admin 20241110003218
+WordPress/6.6.2;_https://snowboard-ai.com/wp-admin 20241111172602
+python-requests/2.25.1 20241106174834
+WordPress/6.7;_https://snowboard-ai.com 20241117090058
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1752 1769
+From1 6 6
+From2 4 4
+From3 0 0
+From4 218 299
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+www_google_com 2 2
+search 1 1
+google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+409 3 7976
+302 201 0
+500 12 22776
+301 167 1590
+404 822 26792604
+400 2 42
+403 38 47079
+405 5 226
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 398
+/ads.txt 1 https://www.snowboard-ai.com/ads.txt
+/wp-content/mah.php 1 http://snowboard-ai.com/wp-content/mah.php
+/wp-includes/ID3/moon.php 1 http://snowboard-ai.com//wp-includes/ID3/moon.php
+/about/function.php 2 -
+/lock360.php 1 http://snowboard-ai.com/lock360.php
+/new 2 -
+/a.php 1 http://snowboard-ai.com/a.php
+/rc.php 1 http://snowboard-ai.com/rc.php
+/cgi-bin/cgi-bin/about.php7 2 https://www.snowboard-ai.com/cgi-bin/cgi-bin/about.php7
+/Wordpress/wp-content/ 1 http://snowboard-ai.com/Wordpress/wp-content/
+/wp-includes/style-engine/about.php 5 -
+/defaults.php 3 https://www.snowboard-ai.com/defaults.php
+/s.php 1 http://snowboard-ai.com/s.php
+/wp-content/plugins/not/includes/about.php 4 -
+/wp-includes/rest-api/fields/cache/ 1 https://snowboard-ai.com/wp-includes/rest-api/fields/cache/index.php
+/wp-content/plugins/install.php 2 https://www.snowboard-ai.com/wp-content/plugins/install.php
+/wp-content/shell.php 1 http://snowboard-ai.com/wp-content/shell.php
+/b.php 1 http://snowboard-ai.com/b.php
+/link.php 1 http://snowboard-ai.com/link.php
+/wp-content/themes/twentytwentythree/patterns/hidden-404.php 1 -
+/lv.php 1 http://snowboard-ai.com/lv.php
+/cms 2 -
+/sitemap.xml.gz 2 -
+/wp-2019.php 1 http://snowboard-ai.com/wp-2019.php
+/dev 2 -
+/wp-content/plugins/wp-help/admin/wp-fclass.php 2 http://snowboard-ai.com//wp-content/plugins/wp-help/admin/wp-fclass.php
+/wp-content/languages/themes/atomlib.php 1 http://snowboard-ai.com//wp-content/languages/themes/atomlib.php
+/.well-known/acme-challenge/mariju.php 1 http://snowboard-ai.com//.well-known/acme-challenge/mariju.php
+/atomlib.php 1 http://snowboard-ai.com/atomlib.php
+/main 3 -
+/wp-content/plugins/linkpreview/db.php 4 -
+/site 3 -
+/.well-known/pki-validation/xmrlpc.php 5 -
+/wp-includes/IXR/class_api.php 1 http://snowboard-ai.com//wp-includes/IXR/class_api.php
+/wp.php 3 -
+/wp-apxupx.php 1 http://snowboard-ai.com//wp-apxupx.php
+/wp-content/plugins/wp-conflg.php 4 -
+/mar.php 1 http://snowboard-ai.com/mar.php
+/wp-includes/Requests/Text/admin.php 4 -
+/wp-content/plugins/seoo/wsoyanz1.php 4 -
+/ 4 https://snowboard-ai.com/
+/en/ 1 https://snowboard-ai.com/en/index.php
+/doc.php 1 http://snowboard-ai.com/doc.php
+/tmp 4 -
+/phpmailer.lang-sv.php 2 http://snowboard-ai.com//phpmailer.lang-sv.php
+/wp-content/about.php 5 -
+/wp-includes/pomo/autoload_classmap.php 1 -
+/images/cloud.php 4 -
+/alfa-rex.php8 1 http://snowboard-ai.com/alfa-rex.php8
+/worker.html 1 -
+/wp-content/backups-dup-lite/ 2 -
+/.well-known/acme-challenge/xmrlpc.php 4 -
+/wp-includes/wso.php 1 http://snowboard-ai.com//wp-includes/wso.php#UEjlZcWL%23UEjlZcWL
+/lufix.php 1 http://snowboard-ai.com/lufix.php
+/wp-includes/SimplePie/autoload_classmap.php 1 -
+/inc.php 1 http://snowboard-ai.com/inc.php
+/wp-content/plugins/google-auto-sitemaps/include.php 1 -
+/wp-updater.php 1 -
+/alfa-rex.php56 1 http://snowboard-ai.com/alfa-rex.php56
+/wp-includes/block-patterns/about.php 4 -
+/wp-includes/SimplePie/about.php 5 -
+/.well-known/pki-validation/file.php 1 http://snowboard-ai.com/.well-known/pki-validation/file.php
+/wp-includes/images/about.php 4 -
+/as.php 1 http://snowboard-ai.com/as.php
+/1337.php 1 http://snowboard-ai.com/1337.php
+/assets/class_api.php 1 http://snowboard-ai.com//assets/class_api.php
+/wp-includes/IXR/moon.php 1 http://snowboard-ai.com//wp-includes/IXR/moon.php
+/config.json 1 -
+/editor.php 1 http://snowboard-ai.com/editor.php
+/yanz.php 4 -
+/ee.php 3 https://www.snowboard-ai.com/ee.php
+/web 2 -
+/wp-includes.bak/html-api/about.php 4 -
+/alfanew.php7 4 -
+/packed.php 1 http://snowboard-ai.com/packed.php
+/wp-includes/Requests/class_api.php 1 http://snowboard-ai.com//wp-includes/Requests/class_api.php
+/moon.php 2 http://snowboard-ai.com/moon.php
+/.tmb/moon.php 1 http://snowboard-ai.com//.tmb/moon.php
+/wsoyanz.php 4 -
+/css.php 1 http://snowboard-ai.com/css.php
+/wp-p.php7 4 -
+/copypaths.php 1 http://snowboard-ai.com/copypaths.php
+/wp-includes/widgets/about.php 4 -
+/mah.php 2 https://www.snowboard-ai.com/mah.php
+/wp-content/languages/themes/class_api.php 1 http://snowboard-ai.com//wp-content/languages/themes/class_api.php
+/wp-content/plugins/latepoint/readme.txt 1 -
+/wp-content/ice.php 1 http://snowboard-ai.com/wp-content/ice.php
+/my-account/ 1 -
+/wp-content/plugins/seoplugins/db.php 4 -
+/xt/ 1 https://snowboard-ai.com/xt/index.php
+/.well-known/acme-challenge/class_api.php 1 http://snowboard-ai.com//.well-known/acme-challenge/class_api.php
+/wp-includes/css/dist/niil.php 1 http://snowboard-ai.com/wp-includes/css/dist/niil.php
+/admin-post.php 4 -
+/wp-content/themes/atomlib.php 1 http://snowboard-ai.com//wp-content/themes/atomlib.php
+/wp-content/plugins/yyobang/mar.php 1 http://snowboard-ai.com/wp-content/plugins/yyobang/mar.php
+/woh.php 2 http://snowboard-ai.com//woh.php
+/wp-includes/install.php 2 https://www.snowboard-ai.com/wp-includes/install.php
+/file/function.php 1 http://snowboard-ai.com/file/function.php
+/wp-content/plugins/simple/simple.php 5 -
+/wp-content/themes/memberlite/assets/fonts/pt-sans/pt-sans-bold.woff2 2 https://snowboard-ai.com/
+/wp-content/themes/sketch/404.php 2 http://snowboard-ai.com//wp-content/themes/sketch/404.php#admin
+/newsite 2 -
+/wp-includes/certificates/moon.php 1 http://snowboard-ai.com//wp-includes/certificates/moon.php
+/.tmb/cloud.php 1 http://snowboard-ai.com/.tmb/cloud.php
+/wp-content/plugins/Cache/Cache.php 4 -
+/xmrlpc.php 4 -
+/shell20211028.php 3 https://www.snowboard-ai.com/shell20211028.php
+/common/css/class_api.php 1 http://snowboard-ai.com//common/css/class_api.php
+/.well-known/acme-challenge/install.php 2 https://www.snowboard-ai.com/.well-known/acme-challenge/install.php
+/fr/priv8.php 1 http://snowboard-ai.com/fr/priv8.php
+/admin/function.php 1 http://snowboard-ai.com/admin/function.php
+/wp-content/plugins/ubh/up.php 1 http://snowboard-ai.com/wp-content/plugins/ubh/up.php
+/jindex.php 1 http://snowboard-ai.com/jindex.php
+/wp-content/plugins/hellopress/wp_filemanager.php 2 -
+/ws.php7 4 -
+/wp-includes/widgets/include.php 1 http://snowboard-ai.com/wp-includes/widgets/include.php
+/.well-known/pki-validation/atomlib.php 2 http://snowboard-ai.com//.well-known/pki-validation/atomlib.php
+/mariju.php 1 http://snowboard-ai.com/mariju.php
+/user.php 1 http://snowboard-ai.com/user.php
+/adminer.php 1 -
+/classfuns.php 1 http://snowboard-ai.com//classfuns.php
+/wp-includes/fonts/wp-login.php 1 http://snowboard-ai.com/wp-includes/fonts/wp-login.php
+/wp-includes/images/wp-login.php 1 http://snowboard-ai.com/wp-includes/images/wp-login.php
+/wp-content/radio.php 1 http://snowboard-ai.com/wp-content/radio.php
+/wp-includes/js/jcrop/Jcrop.php 1 http://snowboard-ai.com/wp-includes/js/jcrop/Jcrop.php
+/portal 2 -
+/wp-content/plugins/wp-automatic/css/wp-automatic.css 1 -
+/hshs.php 1 http://snowboard-ai.com/hshs.php
+/cgi-bin/cloud.php 4 -
+/customize.php 1 http://snowboard-ai.com/customize.php
+/function.php 1 http://snowboard-ai.com/function.php
+/wp-includes/IXR/autoload_classmap.php 1 -
+/img/xmrlpc.php 4 -
+/favicon.svg 1 -
+/wp-includes/js/themes.php 1 http://snowboard-ai.com/wp-includes/js/themes.php
+/class_api.php 3 http://snowboard-ai.com//class_api.php
+/wp-content/upgrade/class_api.php 1 http://snowboard-ai.com//wp-content/upgrade/class_api.php
+/cgi-bin/sgd.php 1 http://snowboard-ai.com//cgi-bin/sgd.php
+/author/sucuri/ 1 -
+/wp-consar.php 4 -
+/index/function.php 1 http://snowboard-ai.com/index/function.php
+/indosec.php 1 http://snowboard-ai.com/indosec.php
+/nf_tracking.php 1 http://snowboard-ai.com//nf_tracking.php#password
+/wp-content/blogs.dir/about.php 4 -
+/wp-includes/admin.php 1 http://snowboard-ai.com/wp-includes/admin.php
+/css/ 2 https://www.snowboard-ai.com/css/index.php
+/wp-content/plugins/book-form/lndex.php 1 http://snowboard-ai.com/wp-content/plugins/book-form/lndex.php
+/version.php 1 http://snowboard-ai.com/version.php
+/ajax-actions.php 4 -
+/author/stender/ 1 -
+/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/Core32.php 1 www.google.com
+/images/xmrlpc.php 4 -
+/cgi-bin/class_api.php 2 http://snowboard-ai.com//cgi-bin/class_api.php#888xyz999
+/c.php 1 http://snowboard-ai.com/c.php
+/wp-content/plugins/really-simple-ssl/assets/css/rsssl-plugin.css 1 -
+/cgi-bin/install.php 2 https://www.snowboard-ai.com/cgi-bin/install.php
+/jp.php 1 http://snowboard-ai.com/jp.php
+/images/about.php 4 -
+/wp-includes/pomo/wp-login.php 1 http://snowboard-ai.com/wp-includes/pomo/wp-login.php
+/author/w-padmine/ 1 -
+/wp-content/uploads/wp-apxupx.php 1 http://snowboard-ai.com//wp-content/uploads/wp-apxupx.php
+/geju.php 1 -
+/wp-cXjq2.php 1 http://snowboard-ai.com/wp-cXjq2.php
+/.well-known/pki-validation/class_api.php 2 http://snowboard-ai.com//.well-known/pki-validation/class_api.php#888xyz999
+/wp-blog-header.php 1 http://snowboard-ai.com/wp-blog-header.php
+/wp-content/themes/wp-pridmag/up.php 2 http://snowboard-ai.com//wp-content/themes/wp-pridmag/up.php
+/css/cloud.php 4 -
+/wp-includes/mah.php 1 http://snowboard-ai.com/wp-includes/mah.php
+/wp-includes/about.php 4 -
+/wp-includes/blocks/about.php 4 -
+/plugins.php 1 http://snowboard-ai.com/plugins.php
+/assets/dropdown.php 1 http://snowboard-ai.com/assets/dropdown.php
+/.tmb/mariju.php 1 http://snowboard-ai.com//.tmb/mariju.php
+/wp-includes/item.php 1 http://snowboard-ai.com/wp-includes/item.php
+/wordpress 2 -
+/cgi-bin/wp-login.php 1 http://snowboard-ai.com/cgi-bin/wp-login.php
+/.well-known/acme-challenge/upfile.php 1 http://snowboard-ai.com/.well-known/acme-challenge/upfile.php
+/wp-HbJxZ2.php 1 http://snowboard-ai.com/wp-HbJxZ2.php
+/404.php 1 http://snowboard-ai.com/404.php
+/wp-includes/rest-api/about.php 6 https://www.snowboard-ai.com/wp-includes/rest-api/about.php
+/dropdown.php 7 https://www.snowboard-ai.com/dropdown.php
+/up.php 1 http://snowboard-ai.com/up.php
+/web.php 1 http://snowboard-ai.com/web.php
+/randkeyword.php 1 http://snowboard-ai.com/randkeyword.php
+/defaul1.php 1 http://snowboard-ai.com/defaul1.php
+/wp-content/plugins/google-seo-rank/module.php 1 -
+/adminfuns.php 1 http://snowboard-ai.com//adminfuns.php
+/wp-admin.php 1 http://snowboard-ai.com/wp-admin.php
+/about 1 -
+/radio.php 3 https://www.snowboard-ai.com/radio.php
+/bs1.php 1 http://snowboard-ai.com/bs1.php
+/wp-head.php 2 https://www.snowboard-ai.com/wp-head.php
+/testing 3 -
+/wp-content/languages/about.php 4 -
+/wp-content/themes/twentyfive/include.php 1 http://snowboard-ai.com/wp-content/themes/twentyfive/include.php
+/ebs.php7 4 -
+/ioxi-rex3.php7 1 http://snowboard-ai.com/ioxi-rex3.php7
+/wp-content/themes/tflow/up.php 2 http://snowboard-ai.com//wp-content/themes/tflow/up.php
+/author/admim/ 2 -
+/wp-conflg.php 1 http://snowboard-ai.com/wp-conflg.php
+/wp-content/dropdown.php 2 https://www.snowboard-ai.com/wp-content/dropdown.php
+/wp-content/updraft/about.php 4 -
+/libraries/legacy/updates.php 4 -
+/wp-includes/ID3/about.php 5 -
+/403.php 5 -
+/img/about.php 4 -
+/sitemap_index.xml 3 -
+/repeater.php 4 -
+/assets/library.php 1 http://snowboard-ai.com/assets/library.php
+/504.php 1 http://snowboard-ai.com/504.php
+/wp-content/themes/sahifa/ 2 -
+/wp-content/themes/travel/issue.php 2 http://snowboard-ai.com//wp-content/themes/travel/issue.php
+/wp-content/repeater.php 4 -
+/css/xmrlpc.php 4 -
+/text.php 1 http://snowboard-ai.com/text.php
+/.well-known/security.txt 1 https://www.snowboard-ai.com/.well-known/security.txt
+/edrutd 1 -
+/.well-known/acme-challenge/atomlib.php 2 http://snowboard-ai.com//.well-known/acme-challenge/atomlib.php
+/class.api.php 4 http://snowboard-ai.com//class.api.php#888xyz999
+/wp-includes/IXR/about.php 4 -
+/test 2 -
+/wp-content/plugins/seoplugins/mar.php 4 -
+/ova-tools.php 1 http://snowboard-ai.com/ova-tools.php
+/author-sitemap.xml 2 -
+/plugins/function.php 1 http://snowboard-ai.com/plugins/function.php
+/wp-confiq.php 2 -
+/wp-content/themes/extol/settings.php 1 http://snowboard-ai.com/wp-content/themes/extol/settings.php
+/backup 3 -
+/wp-includes/widgets/autoload_classmap.php 1 -
+/wp-content/themes/travelscape/json.php 1 http://snowboard-ai.com/wp-content/themes/travelscape/json.php
+/wp-content/backups-dup-pro/ 2 -
+/doors-test-article 1 -
+/libraries/phpmailer/updates.php 4 -
+/wp-includes/Text/wp-login.php 1 http://snowboard-ai.com/wp-includes/Text/wp-login.php
+/updates.php 4 -
+/wp-content/gallery/about.php 4 -
+/bless.php 2 https://www.snowboard-ai.com/bless.php
+/cgi-bin/xmrlpc.php 4 -
+/as/function 1 http://snowboard-ai.com/as/function
+/wso.php 2 http://snowboard-ai.com//wso.php#UEjlZcWL
+/wp-includes/sitemaps/autoload_classmap.php 1 -
+/wp-includes/pomo/about.php 4 -
+/wp-content/cong.php 1 http://snowboard-ai.com/wp-content/cong.php
+/blog 3 -
+/wp-content/plugins/core/include.php 1 http://snowboard-ai.com/wp-content/plugins/core/include.php
+/wp-content/plugins/wp-wc-affiliate-program/languages/rtwwwap-wp-wc-affiliate-program.pot 2 -
+/alfa-rex.php 1 http://snowboard-ai.com/alfa-rex.php
+/mah/function.php 2 -
+/old 2 -
+/wp-includes/repeater.php 4 -
+/.tmb/class_api.php 1 http://snowboard-ai.com//.tmb/class_api.php
+/log.php 1 http://snowboard-ai.com/log.php
+/about.php7 4 -
+/plugin.php 1 http://snowboard-ai.com/plugin.php
+/content.php 5 -
+/wp-content/plugins/wp-help/ 2 https://snowboard-ai.com/wp-content/plugins/wp-help/index.php
+/about.php 6 https://www.snowboard-ai.com/about.php
+/wp-content/mu-plugins/test-mu-plugin.php 3 snowboard-ai.com
+/ioxi-rex4.php7 1 http://snowboard-ai.com/ioxi-rex4.php7
+/init.php 1 http://snowboard-ai.com/init.php
+/wp-content/upgrade-temp-backup/about.php 4 -
+/wp-includes/js/autoload_classmap.php 1 -
+/wp-content/plugins/wp-time-capsule/ 1 -
+/wp-content/plugins/about.php 1 -
+/assets/images/accesson.php 1 -
+/wp-content/themes/twenty/twenty.php 2 https://www.snowboard-ai.com/wp-content/themes/twenty/twenty.php
+/bk/ 1 -
+/doc/function.php 2 -
+/blog/ 1 https://snowboard-ai.com/blog/index.php
+/avaa.php 4 -
+/wp-includes/IXR/class.api.php 1 http://snowboard-ai.com//wp-includes/IXR/class.api.php
+/common/img/class_api.php 1 http://snowboard-ai.com//common/img/class_api.php
+/archivarix.cms.php 1 https://snowboard-ai.com/archivarix.cms.php
+/wp-includes/IXR/wp-login.php 1 http://snowboard-ai.com/wp-includes/IXR/wp-login.php
+/alfanew.php 4 -
+/fw.php 1 http://snowboard-ai.com/fw.php
+/author/specialsystemuser/ 1 -
+/css/install.php 2 https://www.snowboard-ai.com/css/install.php
+/wp-content/themes/wplms/style.css 1 -
+/wp-content/plugins/Cache/dropdown.php 2 https://www.snowboard-ai.com/wp-content/plugins/Cache/dropdown.php
+/.well-known/acme-challenge/ 1 https://snowboard-ai.com/.well-known/acme-challenge/index.php
+/okaoka.php 1 http://snowboard-ai.com/okaoka.php
+/wp-content/themes/hideo/network.php 1 http://snowboard-ai.com/wp-content/themes/hideo/network.php
+/3m/wp-admin/css/colors/blue/ 1 http://snowboard-ai.com/3m/wp-admin/css/colors/blue/
+/wp-includes/wp-class.php 1 http://snowboard-ai.com/wp-includes/wp-class.php
+/wp-aa.php 1 www.google.com
+/data.php 1 http://snowboard-ai.com/data.php
+/wp-content/plugins/awesome-coming-soon/come.php 4 -
+/wp-content/updates.php 4 -
+/cjfuns.php 4 http://snowboard-ai.com//cjfuns.php
+/wp-includes/wp-login.php 1 http://snowboard-ai.com/wp-includes/wp-login.php
+/wp-content/plugins/include.php 2 http://snowboard-ai.com//wp-content/plugins/include.php#admin
+/wp-content/themes/aahana/json.php 4 -
+/wp-content/install.php 2 https://www.snowboard-ai.com/wp-content/install.php
+/.well-known/acme-challenge/cloud.php 9 -
+/cgi-bin/about.php 4 -
+/berlin.php 4 -
+/author/expander/ 1 -
+/libraries/vendor/updates.php 4 -
+/.well-known/acme-challenge/moon.php 1 http://snowboard-ai.com//.well-known/acme-challenge/moon.php
+/wso.PHP 1 http://snowboard-ai.com/wso.PHP
+/.well-known/about.php 4 -
+/cgi-bin/moon.php 1 http://snowboard-ai.com//cgi-bin/moon.php
+/wp-includes/block-patterns/autoload_classmap.php 1 -
+/img/cloud.php 4 -
+/wp-content/themes/seotheme/mar.php 4 -
+/wp-content/themes/twentytwentytwo/well-known.php 1 -
+/wp-content/plugins/seoo/wsoyanz.php 4 -
+/wp-content/themes.php 1 http://snowboard-ai.com/wp-content/themes.php
+/upgrade.php 1 http://snowboard-ai.com/upgrade.php
+/wp-content/patior/ 2 https://www.snowboard-ai.com/wp-content/patior/
+/wp-content/themes/seotheme/db.php 4 -
+/wp-content/themes/memberlite/assets/fonts/gentium-book-basic/gentium-book-basic-regular.woff2 2 https://snowboard-ai.com/
+/wp-content/themes/about.php 4 -
+/wp-content/item.php 1 http://snowboard-ai.com/wp-content/item.php
+/wp-content/batm.php 1 http://snowboard-ai.com/wp-content/batm.php
+/wp-info.php 1 http://snowboard-ai.com/wp-info.php
+/wp-content/plugins/wp-theme-editor/include.php 4 -
+/WSOEnigma.php 1 http://snowboard-ai.com/WSOEnigma.php
+/alfanew2.php7 4 -
+/cache-compat.php 4 -
+/wp-content/plugins/wp-jobsearch/admin/css/admin.css 2 -
+/goat.php 1 http://snowboard-ai.com/goat.php
+/.well-known/pki-validation/cloud.php 4 -
+/chosen.php 5 https://www.snowboard-ai.com/chosen.php
+/contact 1 https://snowboard-ai.com/contact
+/wp-content/themes/twentytwentyfour/patterns/hidden-404.php 1 -
+/wp 3 -
+/small.php 1 http://snowboard-ai.com/small.php
+/wp-includes/customize/about.php 4 -
+/author/wordfence/ 1 -
+/ws.php 1 http://snowboard-ai.com/ws.php
+/wp-content/tmpls.php 1 http://snowboard-ai.com/wp-content/tmpls.php
+/wp-content/languages/class_api.php 1 http://snowboard-ai.com//wp-content/languages/class_api.php
+/byp.php 1 http://snowboard-ai.com/byp.php
+/wp-includes/Requests/network.php 1 http://snowboard-ai.com/wp-includes/Requests/network.php
+/author/wamdaines/ 1 -
+/bypass.php 1 http://snowboard-ai.com/bypass.php
+/wp-includes/random_compat/class_api.php 1 http://snowboard-ai.com//wp-includes/random_compat/class_api.php
+/.well-known/pki-validation/about.php 5 -
+/wp-content/plugins/Ultimate_AI/assets/css/style.css 2 -
+/xml.php 1 http://snowboard-ai.com/xml.php
+/.well-known/pki-validation/admin.php 1 http://snowboard-ai.com/.well-known/pki-validation/admin.php
+/m.php 1 http://snowboard-ai.com/m.php
+/simple.php 5 http://snowboard-ai.com//simple.php
+/h.php 1 http://snowboard-ai.com/h.php
+/wp-l0gin.php 1 http://snowboard-ai.com/wp-l0gin.php
+/demo 3 -
+/wp-content/themes/pridmag/db.php 4 -
+/fm.php 1 http://snowboard-ai.com/fm.php
+/admin.php 11 https://www.snowboard-ai.com/admin.php
+/1.php 1 http://snowboard-ai.com/1.php
+/wp-content/themes/include.php 1 http://snowboard-ai.com/wp-content/themes/include.php
+/security.txt 1 https://www.snowboard-ai.com/security.txt
+/images/atomlib.php 2 http://snowboard-ai.com//images/atomlib.php
+/app/ 1 -
+/home 2 -
+/doors-test-article/ 1 -
+/alfa-rex.php7 4 -
+/cgi-bin/cgi-bin/about.php 2 https://www.snowboard-ai.com/cgi-bin/cgi-bin/about.php
+/cloud.php 4 -
+/cong.php 3 https://www.snowboard-ai.com/cong.php
+/wp-content/upgrade/moon.php 1 http://snowboard-ai.com//wp-content/upgrade/moon.php
+/mini.php 1 http://snowboard-ai.com/mini.php
+/adminfuns.php7 4 -
+/classwithtostring.php 4 http://snowboard-ai.com//classwithtostring.php
+/wp-content/classwithtostring.php 1 http://snowboard-ai.com/wp-content/classwithtostring.php
+/tempfuns.php 1 http://snowboard-ai.com//tempfuns.php
+/wp-content/json.php 2 http://snowboard-ai.com/wp-content/json.php
+/author/crander/ 1 -
+/wp-content/ai1wm-backups/ 2 -
+/wp-includes/product.php 1 http://snowboard-ai.com/wp-includes/product.php
+/alfa-rex2.php7 4 -
+/wp-content/plugins/Core-Econ/upH.php 1 http://snowboard-ai.com/wp-content/plugins/Core-Econ/upH.php
+/class.php 1 http://snowboard-ai.com/class.php
+/ini.php 1 http://snowboard-ai.com/ini.php
+/wp-content/banners/about.php 4 -
+/st.php 2 https://www.snowboard-ai.com/st.php
+/.well-known/radio.php 1 http://snowboard-ai.com/.well-known/radio.php
+/zero.php 2 http://snowboard-ai.com//zero.php
+/wp-content/content.php 1 http://snowboard-ai.com/wp-content/content.php
+/xx.php 3 https://www.snowboard-ai.com/xx.php
+/hehehehe.php 3 -
+/w.php 1 http://snowboard-ai.com/w.php
+/wp-content/uploads/autoload_classmap.php 1 -
+/wp-content/themes/hello-element/footer.php 1 http://snowboard-ai.com//wp-content/themes/hello-element/footer.php
+/humans.txt 1 https://www.snowboard-ai.com/humans.txt
+/wp-content/plugins/download-plugin/wp-access.php 1 -
+/sidwsi.PhP7 1 http://snowboard-ai.com/sidwsi.PhP7
+/wp-includes/Requests/about.php 5 -
+/install.php 3 https://www.snowboard-ai.com/install.php
+/tiny.php 1 http://snowboard-ai.com/tiny.php
+/menu.php 1 http://snowboard-ai.com/menu.php
+/media/system/js/core.js 1 http://snowboard-ai.com/media/system/js/core.js
+/x.php 2 http://snowboard-ai.com/x.php
+/wp-includes/SimplePie/plugins.php 1 http://snowboard-ai.com/wp-includes/SimplePie/plugins.php
+/wp-content/wso.php 2 http://snowboard-ai.com//wp-content/wso.php#UEjlZcWL%23UEjlZcWL
+/wp-includes/Text/about.php 7 https://www.snowboard-ai.com/wp-includes/Text/about.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 602
+198.54.120.79 851 851 1502203 20241117090058 20241117090058 /wp-cron.php
+84.32.41.136 45 45 964079 20241110212416
+149.56.150.167 13 13 447062 20241107172204
+80.85.245.250 12 12 143107 20241113204259
+185.94.88.60 12 12 164226 20241106115106
+212.118.53.218 12 12 143109 20241112231639
+77.238.225.41 12 12 143086 20241112002040
+64.64.117.9 10 10 345504 20241115103117
+115.242.186.250 10 38 450667 20241108001300
+34.136.193.83 10 10 113920 20241111145512
+64.64.117.4 10 10 194411 20241115103116
+64.64.117.7 10 10 143758 20241115103115
+89.110.87.170 8 8 476134 20241108112552
+103.75.180.130 8 8 1640 20241110144106
+64.64.117.5 8 8 140959 20241115103117
+192.249.121.108 7 7 1435 20241110151014
+83.222.7.238 7 7 480786 20241110223600
+178.62.82.141 7 7 64401 20241116112842
+203.99.184.107 6 6 92636 20241109004136
+185.239.146.248 6 6 92681 20241108020416
+177.37.99.195 6 6 92680 20241114180050
+87.120.113.29 6 6 133397 20241117041212
+5.188.62.174 6 6 10022 20241114184835
+185.145.184.213 6 6 92685 20241112231643
+61.246.128.218 6 18 226865 20241108001121
+185.234.216.201 1 1 53855 20241106150947
+192.36.109.90 1 1 11393 20241108145736
+62.113.100.210 1 1 205 20241110145225
+129.226.147.7 1 1 11401 20241117090059 20241117090059 /
+103.27.236.23 2 2 410 20241110151239
+92.113.21.214 2 2 410 20241110142329
+103.116.9.169 1 1 205 20241110150904
+69.163.254.104 1 1 205 20241110145455
+43.159.141.180 1 1 11388 20241111044052
+195.88.87.110 2 2 410 20241110143154
+113.36.242.232 3 3 615 20241110151050
+49.51.47.100 1 1 11401 20241114142231
+188.143.169.41 3 3 119124 20241113215755
+61.246.38.5 1 1 205 20241110143749
+52.48.38.139 1 1 53855 20241110140014
+104.131.57.93 1 1 205 20241110145342
+199.45.155.81 1 1 11401 20241116021634
+64.227.110.7 1 1 1115 20241114172233
+43.159.128.237 1 1 11388 20241110180801
+93.174.93.127 2 2 22780 20241109053353
+34.238.59.98 1 1 205 20241110145259
+167.94.138.53 1 1 11393 20241101183604
+109.176.207.4 3 3 615 20241110144445
+178.33.40.189 1 1 212 20241113215931
+13.52.217.93 1 1 11401 20241115125948
+103.231.40.216 2 2 410 20241110150324
+205.210.31.56 1 1 53855 20241104221253
+106.227.49.113 1 1 11388 20241112110225
+188.245.124.237 1 1 205 20241110135801
+67.205.54.253 4 4 820 20241110150709
+160.251.148.25 1 1 205 20241110150856
+43.135.166.178 1 1 11393 20241101052130
+49.50.96.59 2 2 410 20241110144338
+46.101.208.72 1 1 205 20241110140721
+138.68.100.147 1 1 11517 20241114015229
+92.204.135.241 1 1 205 20241110144618
+20.197.226.217 1 1 205 20241110145427
+159.65.54.196 1 1 1979 20241114181220
+185.28.22.84 2 2 410 20241110144952
+97.74.83.27 2 2 410 20241110143733
+178.128.254.151 1 1 11401 20241113072826
+157.245.98.129 1 1 11401 20241116013452
+93.188.162.102 1 1 205 20241110141156
+142.93.61.0 1 1 205 20241110145310
+164.92.113.215 2 2 410 20241110150430
+195.54.171.212 4 4 820 20241110145740
+54.38.85.104 1 1 212 20241112080409
+54.37.50.199 1 1 1929 20241112144755
+176.9.53.18 2 2 410 20241110143437
+43.159.148.221 1 1 11387 20241106061027
+34.73.252.104 0 1 0 
+51.68.191.184 1 1 205 20241110150315
+20.57.70.53 1 1 0 20241114195801
+198.12.228.149 3 3 615 20241110145157
+139.59.43.165 1 1 2068 20241112211942
+52.171.217.147 1 1 205 20241110144601
+85.128.143.66 3 3 615 20241110140933
+74.208.26.95 1 1 205 20241110141244
+40.233.85.157 1 1 2068 20241113112330
+27.254.148.246 2 2 410 20241110142947
+64.90.56.78 1 1 205 20241110143346
+171.22.25.146 2 2 410 20241110142713
+77.68.115.72 1 1 212 20241110191215
+212.237.127.54 2 2 4028 20241113041255
+159.223.75.174 1 1 205 20241110141949
+128.199.164.76 1 1 205 20241110135604
+112.196.81.54 5 5 77120 20241109184103
+202.92.5.145 3 3 615 20241110143511
+5.188.118.241 1 1 205 20241110151324
+43.130.53.252 1 1 11393 20241109202149
+47.88.93.237 3 3 615 20241110145250
+35.205.109.248 2 2 410 20241110151200
+61.246.6.91 1 1 205 20241110135952
+188.166.72.63 1 1 205 20241110143013
+47.100.42.39 1 1 403 20241117062007
+54.215.239.108 1 1 11387 20241106105459
+203.159.92.34 2 2 410 20241110140044
+64.226.78.155 1 1 1987 20241115172313
+54.88.179.33 4 4 215420 20241107083907
+194.164.127.114 1 1 205 20241110145142
+3.227.104.9 1 1 205 20241110144940
+43.135.134.127 1 1 11393 20241102224448
+164.153.35.120 1 1 205 20241110144114
+159.89.224.247 2 2 410 20241110151140
+58.49.233.126 1 1 11393 20241104212307
+64.227.119.204 2 2 410 20241110145405
+159.89.164.177 1 1 205 20241110145317
+69.163.255.119 1 1 205 20241110140116
+92.205.64.24 1 1 205 20241110141247
+200.58.127.65 2 2 410 20241110142033
+165.232.117.148 1 1 205 20241110151338
+43.135.145.117 2 2 22786 20241109090037
+52.66.185.8 1 1 205 20241110142728
+85.10.158.216 1 1 205 20241110141646
+51.195.88.32 2 2 122362 20241111172602
+167.172.167.245 1 1 11423 20241115001705
+34.127.43.254 3 3 615 20241110151036
+206.189.81.127 1 1 1970 20241114161615
+188.165.239.173 2 2 410 20241110145742
+46.38.251.18 1 1 205 20241110145904
+192.169.177.46 3 3 615 20241110151422
+162.43.118.116 1 1 205 20241110150957
+92.53.96.165 3 3 615 20241110151225
+102.219.189.67 1 1 205 20241110151110
+45.114.213.198 5 5 1025 20241110145333
+31.220.95.112 2 2 806 20241115131052
+180.102.134.69 1 1 11401 20241113074542
+46.228.199.158 1 1 11401 20241113230515
+167.99.40.147 1 1 11387 20241107090603
+174.204.138.44 3 10 88000 20241110174858
+51.159.36.119 1 1 1929 20241112165839
+103.221.223.201 2 2 410 20241110151032
+45.76.197.176 1 1 205 20241110150513
+64.227.180.29 2 2 410 20241110140850
+20.231.250.227 1 1 205 20241110150833
+119.28.111.115 4 4 117452 20241114122420
+159.89.176.50 1 1 205 20241110145100
+14.225.216.240 3 3 615 20241110150334
+89.168.23.201 1 1 205 20241110143809
+211.35.70.34 2 2 410 20241110151446
+97.107.136.190 1 1 53855 20241106003824
+156.228.89.117 2 2 3307 20241105140449
+191.237.206.16 2 2 410 20241110151417
+68.183.118.120 2 2 410 20241110143158
+51.68.224.123 1 1 2067 20241113231725
+104.198.248.243 1 1 205 20241110150757
+82.146.46.156 1 1 9963 20241109092658
+87.236.176.141 1 1 11393 20241109142103
+156.253.179.198 3 3 14781 20241112094809
+45.117.171.134 1 1 205 20241110151142
+116.118.104.42 4 4 820 20241110150228
+213.176.67.2 1 1 11387 20241106174834
+31.135.241.21 1 1 2068 20241113014310
+193.107.238.95 2 2 410 20241110141837
+92.53.96.146 1 1 205 20241110144718
+148.72.214.245 2 2 410 20241110144623
+208.113.147.106 1 1 205 20241110135713
+92.53.96.101 1 1 205 20241110144714
+15.235.163.229 3 3 615 20241110145353
+43.156.98.190 2 2 410 20241110144154
+192.211.59.26 2 2 410 20241110135641
+143.198.202.82 1 1 205 20241110151340
+5.188.62.21 3 3 14016 20241114100838
+77.37.40.165 1 1 205 20241110141622
+138.128.245.84 1 1 2067 20241117055547
+125.25.45.47 1 1 205 20241110135648
+93.159.230.28 1 1 11388 20241112075556
+92.205.212.82 1 1 205 20241110142057
+92.53.123.166 3 3 615 20241110141835
+134.122.127.142 1 1 11388 20241110214055
+103.141.97.45 1 1 205 20241110150807
+206.189.64.135 1 1 205 20241110143007
+149.202.121.116 1 1 205 20241110140642
+15.235.212.14 1 1 1929 20241111180627
+159.203.30.74 1 1 205 20241110151431
+194.163.158.21 2 2 410 20241110151343
+188.134.80.97 1 1 11393 20241108071129
+51.79.177.70 1 1 205 20241110143303
+13.74.158.85 1 1 205 20241110144744
+87.236.176.138 1 1 11393 20241108052233
+45.120.137.249 1 1 205 20241110145206
+5.23.51.23 3 3 615 20241110150911
+91.218.64.199 1 1 1931 20241112190800
+167.71.229.214 3 3 615 20241110142845
+80.78.244.36 3 3 6064 20241116104451
+185.199.223.76 1 1 205 20241110144309
+43.163.8.148 1 1 11388 20241112034312
+185.147.125.24 1 1 53855 20241112032317
+5.188.62.76 2 2 1962 20241114162744
+185.147.125.16 1 1 53876 20241115224738
+43.133.72.69 1 1 11393 20241102110335
+62.116.200.98 1 1 205 20241110142928
+121.183.168.192 2 2 410 20241110151301
+34.75.65.218 1 1 2068 20241116170824
+14.248.94.219 2 2 410 20241110142105
+103.106.116.37 2 2 410 20241110150848
+178.178.237.225 1 1 212 20241111155054
+206.189.99.207 1 1 205 20241110144947
+89.252.138.152 1 1 205 20241110141033
+46.101.226.154 1 1 53855 20241111184313
+132.148.75.149 1 1 205 20241110143011
+92.53.96.222 3 3 615 20241110145737
+44.198.60.67 1 1 11401 20241113032851
+134.119.244.251 1 1 205 20241110140421
+162.43.101.75 5 5 1025 20241110145232
+69.163.254.39 2 2 410 20241110145020
+153.123.7.151 1 1 205 20241110151022
+203.205.6.17 1 1 205 20241110142340
+51.178.146.199 2 2 410 20241110144610
+92.205.20.105 1 1 205 20241110144655
+200.129.85.6 1 1 205 20241110141115
+15.207.241.107 1 1 205 20241110143835
+167.71.255.221 1 1 11410 20241101011832
+100.26.192.101 1 1 11393 20241109225141
+91.134.248.253 2 2 410 20241110140759
+152.53.33.144 1 1 205 20241110150836
+173.231.220.123 5 5 1025 20241110143258
+136.144.207.191 1 1 205 20241110140134
+112.78.1.150 1 1 205 20241110135924
+91.121.36.122 2 2 410 20241110142953
+103.90.232.58 1 1 205 20241110141357
+34.75.172.34 0 1 0 
+49.232.145.205 1 1 2068 20241116180310
+118.179.82.100 2 2 410 20241110144552
+43.134.170.46 1 1 11387 20241105201545
+101.100.194.71 1 1 205 20241110150418
+34.29.132.163 1 1 205 20241110142840
+193.164.17.45 1 1 2067 20241114061931
+208.97.187.201 2 2 410 20241110143226
+124.70.203.191 1 1 11401 20241113211202
+185.147.125.18 1 1 53855 20241108130949
+162.0.232.28 2 2 806 20241116132107
+18.221.218.92 1 1 205 20241110142046
+35.196.181.160 0 1 102492 
+67.205.17.233 1 1 205 20241110151356
+91.237.248.234 1 1 212 20241117072926
+185.180.231.194 6 6 1230 20241110144546
+52.215.53.78 2 2 410 20241110150406
+165.231.182.9 1 1 53876 20241113113351
+64.23.197.3 1 1 205 20241110145215
+198.235.24.145 1 1 53855 20241101102032
+184.94.212.90 2 2 410 20241110145527
+188.226.140.5 1 1 205 20241110142519
+143.198.14.130 1 1 11388 20241111072614
+57.128.85.41 1 1 1929 20241112180318
+20.226.164.12 1 1 205 20241110145328
+51.91.239.11 1 1 205 20241110150220
+188.246.233.180 1 1 212 20241111151518
+95.217.113.121 2 2 410 20241110142739
+173.236.202.240 1 1 205 20241110145821
+103.254.194.94 1 1 205 20241110151410
+163.172.130.141 1 1 205 20241110140239
+89.248.172.92 4 4 42712 20241105093454
+198.145.172.8 1 1 11393 20241101124434
+177.247.7.3 1 1 205 20241110140556
+97.74.82.93 1 1 205 20241110150933
+152.53.67.47 1 1 205 20241110143253
+165.154.136.218 4 10 138472 20241108072457
+173.236.215.86 1 1 205 20241110135758
+47.116.55.124 1 1 2068 20241113091756
+49.12.64.14 1 1 205 20241110141714
+141.94.99.65 3 3 615 20241110151503
+209.38.164.180 1 1 12976 20241115140006
+103.118.47.225 6 6 92590 20241113204303
+91.121.209.146 1 1 205 20241110144628
+51.159.14.105 1 1 205 20241110142002
+87.233.223.180 1 1 205 20241110135819
+143.198.147.117 1 1 205 20241110150206
+79.142.46.98 1 1 205 20241110141829
+45.55.41.148 1 1 11518 20241114032737
+89.248.174.11 2 2 22788 20241113031942
+174.138.75.119 1 1 11401 20241115071158
+164.90.154.67 1 1 205 20241110150643
+85.128.143.188 2 2 410 20241110143359
+5.23.51.100 2 2 410 20241110150549
+199.250.215.104 1 1 205 20241110150243
+104.248.172.238 1 1 53855 20241111185034
+167.99.229.202 2 2 410 20241110142015
+162.55.172.140 1 1 205 20241110140037
+94.23.108.164 1 1 205 20241110140844
+37.142.124.194 2 2 410 20241110144833
+159.203.129.163 1 1 1958 20241114064954
+95.217.165.152 2 2 410 20241110151349
+217.160.63.171 1 1 205 20241110141733
+136.243.59.121 4 4 820 20241110150001
+65.108.206.249 1 1 205 20241110135909
+178.62.50.66 1 1 11387 20241105080042
+129.226.213.145 1 1 11387 20241105092722
+15.235.166.179 1 1 205 20241110141135
+167.172.115.176 1 1 205 20241110141359
+208.97.158.19 1 1 205 20241110150803
+185.202.113.117 1 1 205 20241110150353
+147.185.132.114 1 1 53876 20241115021325
+208.97.159.179 2 2 410 20241110142007
+103.216.116.141 1 1 205 20241110145612
+5.188.62.140 2 2 1962 20241114163537
+171.244.61.154 2 2 410 20241110145102
+49.128.184.179 1 1 205 20241110150259
+54.36.174.111 1 1 205 20241110143602
+165.227.124.11 1 1 1971 20241115043226
+45.151.99.142 1 1 161 20241106035622
+197.254.102.90 6 6 92674 20241110122224
+68.183.235.191 1 1 205 20241110141023
+34.87.169.93 0 1 0 
+35.223.162.145 3 3 13404 20241117064837
+159.146.105.50 1 1 205 20241110145410
+173.236.208.250 2 2 410 20241110144717
+47.244.50.243 2 2 410 20241110150124
+18.139.169.243 2 2 410 20241110145545
+172.233.186.237 2 2 410 20241110145917
+182.44.67.97 1 1 11401 20241114035646
+110.164.163.17 1 1 205 20241110145324
+45.32.118.62 1 1 205 20241110150215
+142.93.8.206 1 1 53869 20241109084908
+146.70.189.48 1 1 11393 20241101111338
+94.103.87.196 6 6 71543 20241115152945
+92.112.177.25 1 1 205 20241110144302
+78.40.35.245 1 1 205 20241110151336
+91.184.248.233 6 6 131898 20241108051112
+36.89.251.105 2 2 410 20241110142619
+92.205.52.231 2 2 410 20241110145119
+144.126.128.115 1 1 205 20241110150830
+208.113.151.190 1 1 205 20241110140801
+85.128.143.194 1 1 205 20241110145907
+103.239.138.184 1 1 205 20241110144239
+151.80.151.125 1 1 205 20241110150410
+199.184.157.200 1 1 212 20241112022549
+187.102.16.15 1 1 205 20241110140926
+103.102.128.112 1 1 205 20241110145018
+15.235.140.141 1 1 205 20241110150727
+162.19.77.8 1 1 205 20241110144411
+49.51.233.95 1 1 11393 20241101145847
+93.89.225.66 1 1 403 20241116050014
+141.94.247.170 1 1 2068 20241113050104
+67.225.164.216 1 1 212 20241112111401
+103.253.14.90 1 1 212 20241110213111
+122.114.61.125 2 2 4134 20241116041624
+5.181.188.149 2 2 17483 20241111151650
+82.119.79.11 2 2 410 20241110144752
+172.188.18.87 1 1 205 20241110142915
+173.249.37.40 1 1 205 20241110144949
+43.131.44.218 1 1 11393 20241107142103
+125.212.214.104 1 1 205 20241110135634
+103.28.52.66 1 1 1929 20241112092458
+67.205.48.96 1 1 205 20241110144943
+34.56.211.168 0 1 0 
+51.178.42.213 1 1 212 20241106093543
+107.155.122.222 1 1 212 20241113052658
+143.198.91.127 1 1 621 20241105111238
+103.190.242.160 1 1 1929 20241112134317
+51.145.159.13 1 1 205 20241110144514
+43.130.40.120 1 1 11387 20241105003434
+125.212.243.105 1 1 205 20241110140339
+173.239.218.107 2 2 3750 20241111155008
+188.68.47.250 2 2 410 20241110145254
+103.142.26.163 2 2 410 20241110151153
+41.211.122.100 6 6 92674 20241112002044
+45.76.121.194 3 3 615 20241110143825
+157.245.14.175 1 1 205 20241110150909
+43.133.66.151 1 1 11393 20241108234048
+212.193.52.194 1 1 205 20241110151453
+184.154.4.187 1 1 205 20241110150700
+34.143.184.231 0 1 0 
+143.198.130.5 1 1 11393 20241109081513
+113.176.100.135 2 2 410 20241110150320
+94.158.246.236 2 2 410 20241110151531
+42.83.147.54 2 2 22802 20241116015034
+93.107.1.136 1 1 205 20241110140413
+64.64.117.6 2 2 35680 20241115103111
+43.156.228.27 1 1 11387 20241106172506
+103.69.98.45 1 1 205 20241110143145
+74.208.81.154 1 1 205 20241110143203
+175.117.144.122 1 1 205 20241110142011
+178.33.43.96 3 3 615 20241110150035
+204.12.245.219 2 2 410 20241110150742
+156.67.104.120 1 1 205 20241110150635
+49.51.233.46 1 1 11393 20241103174356
+158.69.25.39 1 1 11393 20241103211121
+186.232.181.92 1 1 205 20241110141007
+208.109.244.174 1 1 205 20241110150733
+87.236.176.150 1 1 11393 20241108212243
+8.219.147.213 1 1 205 20241110142305
+141.94.87.67 2 2 410 20241110151357
+202.5.17.26 1 1 205 20241110151027
+181.214.142.66 2 2 410 20241110150952
+148.72.206.41 2 2 410 20241110150518
+143.198.133.64 1 1 11393 20241101095649
+65.108.210.26 4 4 820 20241110142251
+155.133.142.67 1 1 205 20241110145708
+104.131.102.214 2 2 410 20241110150202
+85.10.157.22 1 1 205 20241110140403
+8.209.108.62 1 1 212 20241109032457
+113.62.169.130 1 1 11401 20241114222157
+172.105.242.31 2 2 410 20241110150916
+115.187.59.230 2 2 410 20241110143904
+110.224.119.139 1 1 9938 20241114014757
+68.183.190.245 1 1 205 20241110144905
+3.13.169.166 1 1 205 20241110142543
+203.162.166.162 3 3 615 20241110150240
+103.226.249.42 1 1 205 20241110143618
+78.24.186.120 1 1 212 20241116000257
+43.163.8.36 1 1 11393 20241104035132
+68.183.84.5 1 1 11393 20241103071022
+178.128.161.88 1 1 2067 20241114191835
+69.57.163.229 4 4 820 20241110144101
+172.105.219.43 1 1 205 20241110144736
+195.200.19.116 6 6 71543 20241114180031
+89.248.172.183 1 1 11401 20241115020438
+52.183.85.212 1 1 205 20241110143646
+209.126.10.25 2 2 410 20241110144838
+104.36.229.125 2 2 410 20241110151251
+93.127.163.58 1 1 205 20241110140457
+178.128.235.205 1 1 1962 20241115101124
+92.119.129.240 1 1 205 20241110144322
+167.99.217.136 1 1 12939 20241113180240
+43.224.124.253 4 4 820 20241110144248
+208.97.153.121 1 1 205 20241110140739
+103.158.22.22 1 1 205 20241110140111
+122.201.124.65 1 1 205 20241110150824
+133.18.67.232 1 1 205 20241110143945
+182.42.111.156 1 1 11393 20241104020221
+151.106.41.95 1 1 205 20241110141344
+51.158.252.84 1 1 212 20241113041331
+203.113.148.4 2 2 410 20241110143243
+176.9.174.197 1 1 205 20241110145001
+113.192.8.160 2 2 410 20241110145208
+4.249.224.25 1 1 403 20241115113649
+121.229.185.160 1 1 11393 20241107122329
+51.81.29.157 1 1 205 20241110151424
+43.135.182.95 1 1 11388 20241112152804
+193.136.19.30 2 2 410 20241110144404
+139.99.35.248 1 1 205 20241110141557
+185.114.247.170 1 1 653 20241114093543
+92.205.209.203 1 1 205 20241110151542
+54.36.182.232 2 2 3996 20241114022050
+87.98.128.22 2 2 410 20241110151328
+92.53.96.105 2 2 410 20241110144900
+5.161.201.45 1 1 205 20241110150810
+5.133.192.166 1 1 11387 20241105225301
+51.15.16.222 2 2 410 20241110150339
+82.146.60.26 4 4 215420 20241102213737
+165.232.141.224 1 1 11401 20241117090501 20241117090501 /
+67.205.24.182 5 5 1025 20241110145229
+51.38.235.150 1 1 2068 20241114101106
+188.166.191.1 1 1 205 20241110150603
+199.45.155.101 1 1 11387 20241106164936
+46.41.140.40 1 1 205 20241110145138
+103.69.98.51 1 1 205 20241110143406
+15.235.184.242 1 1 205 20241110140027
+154.60.32.217 1 1 212 20241111100541
+139.99.102.79 1 1 205 20241110142020
+92.205.51.88 1 1 205 20241110140108
+110.235.249.34 6 6 92583 20241115152949
+208.109.232.99 1 1 205 20241110140614
+164.92.174.157 1 1 2068 20241113162434
+80.85.246.144 6 6 71547 20241109184048
+173.236.199.220 1 1 205 20241110140422
+93.158.91.245 1 1 11393 20241102165949
+51.68.11.207 1 1 205 20241110140818
+103.42.206.187 1 1 205 20241110150308
+54.241.103.189 1 1 11393 20241108164813
+43.163.6.124 1 1 11388 20241110064713
+91.134.248.192 1 1 205 20241110140719
+87.120.125.113 1 1 11401 20241115134509
+142.93.15.2 2 2 410 20241110151439
+77.68.114.109 1 1 205 20241110140744
+185.15.121.108 1 1 205 20241110145421
+62.141.44.236 1 1 11387 20241106140036
+64.64.117.8 5 5 105289 20241115103113
+92.255.85.164 1 1 53855 20241103145630
+164.92.80.194 1 1 1929 20241111215326
+170.64.132.32 2 2 410 20241110142249
+129.211.124.173 1 1 403 20241116132453
+162.0.213.18 1 1 205 20241110142224
+64.227.102.24 1 1 11388 20241112075736
+185.106.130.251 3 3 615 20241110151514
+202.233.67.48 1 1 205 20241110140021
+203.161.46.116 3 3 615 20241110145547
+189.22.68.177 1 1 205 20241110150554
+198.71.48.216 1 1 205 20241110143021
+48.218.201.139 3 3 19745 20241114025712
+69.163.186.184 1 1 205 20241110151134
+168.138.150.46 1 1 205 20241110140139
+188.225.40.140 1 1 205 20241110140104
+170.106.159.160 2 2 22780 20241108113735
+62.100.206.181 1 1 11401 20241116123618
+149.202.75.21 1 1 205 20241110150919
+91.134.248.249 1 1 205 20241110150314
+47.105.43.240 1 1 2068 20241113035454
+148.113.1.176 1 1 205 20241110141217
+62.171.188.147 1 1 205 20241110150907
+170.106.192.208 1 1 11401 20241113151740
+41.57.124.54 2 2 410 20241110143233
+119.28.78.54 3 3 2339 20241112015807
+43.156.156.96 2 2 22786 20241108015547
+172.105.171.38 1 1 403 20241116031850
+209.142.65.194 2 2 410 20241110141036
+77.245.141.51 1 1 205 20241110144852
+164.92.190.162 1 1 205 20241110135639
+150.107.200.30 2 2 410 20241110144635
+92.53.96.168 1 1 205 20241110144015
+112.213.91.118 1 1 205 20241110150351
+103.47.113.106 2 2 410 20241110141310
+104.236.5.222 1 1 205 20241110140000
+45.61.55.132 1 1 53876 20241113020056
+185.70.249.220 1 1 205 20241110151046
+148.72.214.194 1 1 2068 20241113003706
+72.47.238.247 2 2 410 20241110145840
+157.245.201.151 5 5 1025 20241110150232
+103.190.242.121 3 3 615 20241110143611
+45.67.59.248 1 1 205 20241110150310
+216.55.146.55 1 1 205 20241110143931
+217.160.201.241 1 1 205 20241110141539
+43.155.138.79 1 1 11401 20241114025507
+89.215.17.39 1 1 53869 20241109175928
+91.134.248.235 2 2 410 20241110145457
+44.234.71.3 4 15 309320 20241116231238
+43.204.119.87 1 1 205 20241110135629
+192.249.122.71 1 1 205 20241110145450
+149.56.160.188 4 16 216902 20241107172231
+103.101.161.220 1 1 205 20241110150144
+103.157.218.151 1 1 205 20241110145854
+138.121.228.47 3 3 615 20241110150737
+36.41.75.167 1 1 11387 20241105180740
+91.121.66.223 1 1 205 20241110140445
+103.177.95.19 1 1 403 20241115153800
+43.134.37.211 1 1 11388 20241111162032
+67.205.45.106 1 1 205 20241110145440
+103.141.97.44 1 1 205 20241110142817
+125.212.214.217 2 2 410 20241110145834
+47.236.3.186 1 1 212 20241116131116
+103.154.184.15 1 1 205 20241110150052
+72.167.141.38 3 3 615 20241110150621
+54.94.24.56 1 1 212 20241108172509
+128.199.248.146 5 5 1025 20241110145404
+8.218.163.254 1 1 205 20241110151555
+199.45.154.131 1 1 11387 20241106170036
+51.255.119.44 4 4 820 20241110144930
+34.29.102.116 0 1 0 
+74.120.221.170 1 1 205 20241110151311
+34.55.215.126 0 1 0 
+136.143.176.60 4 4 37856 20241115230730
+80.248.227.19 1 1 11401 20241114124540
+104.196.102.233 0 1 0 
+62.30.47.109 1 1 205 20241110141701
+45.227.254.34 2 2 22788 20241112220938
+5.133.192.136 1 1 11388 20241112043706
+57.129.43.206 1 1 212 20241112140124
+153.123.7.68 1 1 205 20241110142937
+160.153.250.168 4 4 820 20241110145515
+95.170.74.51 1 1 205 20241110150133
+67.205.50.163 1 1 205 20241110144805
+43.155.160.173 1 1 11401 20241116221738
+104.207.38.30 2 2 9944 20241110140125
+128.199.254.201 1 1 205 20241110141615
+92.53.96.211 1 1 205 20241110141554
+98.15.226.105 5 17 226325 20241111113224
+34.75.78.49 2 2 410 20241110141219
+143.110.243.85 1 1 11401 20241116013442
+210.1.222.146 3 3 615 20241110151210
+92.204.239.164 1 1 205 20241110142527
+43.135.185.59 1 1 11401 20241115060354
+178.32.110.89 1 1 653 20241114213729
+85.209.11.117 1 1 53855 20241105101738
+199.45.154.122 1 1 11393 20241101191556
+178.128.184.226 2 2 410 20241110150007
+43.133.38.182 1 1 11401 20241113032312
+43.153.93.68 1 1 11393 20241102020656
+23.26.248.248 1 1 205 20241110145117
+217.76.52.126 1 1 205 20241110135932
+50.17.35.156 1 1 53876 20241114161612
+49.13.27.44 2 2 410 20241110143702
+31.46.27.10 1 1 205 20241110150609
+188.165.38.203 1 1 205 20241110142654
+171.244.129.243 1 1 205 20241110141933
+42.83.147.56 1 1 11393 20241107181357
+20.238.219.14 1 1 205 20241110150626
+134.236.250.160 1 1 205 20241110141826
+182.44.10.67 1 1 11393 20241109044944
+34.71.88.195 0 1 0 
+170.106.197.109 1 1 11401 20241115202916
+208.109.34.85 1 1 205 20241110144754
+182.43.70.143 1 1 11388 20241110195544
+94.74.82.50 2 2 410 20241110145628
+162.43.94.51 1 1 205 20241110151604
+146.59.136.90 1 1 205 20241110150841
+88.218.62.29 6 6 71549 20241111053729
+34.139.96.157 4 4 820 20241110141813
+5.161.251.224 1 1 9964 20241110142852
+202.142.184.234 3 3 615 20241110142932
+87.107.73.4 1 1 403 20241117061927
+212.42.58.120 1 1 205 20241110145105
+103.93.65.66 1 1 205 20241110150940
+122.155.21.144 2 2 410 20241110145828
+116.118.50.186 1 1 205 20241110144722
+203.115.104.107 6 6 92676 20241111053733
+45.149.204.28 1 1 212 20241115075727
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 17
+20241101 55 85 866775 20
+20241102 36 36 406180 15
+20241103 25 28 272532 12
+20241104 17 17 174722 9
+20241105 47 47 301069 20
+20241106 53 54 567711 19
+20241107 54 66 1143499 19
+20241108 81 100 1005875 29
+20241109 74 74 655828 25
+20241110 868 886 2301912 377
+20241111 77 79 471394 28
+20241112 132 132 505514 30
+20241113 103 105 727262 35
+20241114 131 131 540141 35
+20241115 126 126 1446139 38
+20241116 69 80 631994 26
+20241117 32 32 172856 12
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 13
+1h+ 25
+0s-30s 552
+2mn-5mn 16
+5mn-15mn 31
+15mn-30mn 38
+30mn-1h 71
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 63
+/xmlrpc.php 594 128454 382 382
+/wp-cron.php 395 0 84 19
+/wp-admin/admin-ajax.php 384 7875 23 76
+/ 243 5075503 180 161
+/checkout/ 101 1715852 10 21
+/wp-login.php 81 204702 48 53
+/levels/ 18 374037 1 1
+/comments/feed/ 14 10459 1 0
+/2024/07/05/hello-world/ 11 514988 6 6
+/wp-content/themes/memberlite/assets/fonts/lato/lato.woff2 8 188640 0 0
+/wp-content/themes/memberlite/assets/fonts/lato/lato-bold.woff2 8 184320 0 1
+/wp-admin/wp-cron.php 8 0 1 1
+/wp-admin/ 7 163256 1 1
+/wp-admin/wp-admin/admin-ajax.php 5 105 0 1
+/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2 5 385800 0 3
+/category/uncategorized/ 4 43123 2 1
+/author/killacam/ 4 43124 2 1
+/wp-sitemap.xml 3 996 0 1
+/wp-json/ 3 655944 0 1
+/feed/ 3 2088 0 0
+/wp-json/wp/v2/users 3 1927 3 3
+/wp-content/themes/memberlite/assets/fonts/figtree/figtree.woff2 2 22304 0 0
+/wp-content/themes/memberlite/assets/fonts/merriweather/merriweather-bold.woff2 2 39480 0 0
+/wp-content/themes/memberlite/assets/fonts/noto-sans/noto-sans.woff2 2 25720 0 1
+/wp-content/themes/memberlite/assets/fonts/playfair-display/playfair-display.woff2 2 39720 0 2
+/wp-content/themes/memberlite/assets/fonts/fjalla-one/fjalla-one.woff2 2 33176 0 0
+/wp-content/themes/memberlite/assets/fonts/pt-mono/pt-mono.woff2 2 54792 0 0
+/wp-admin/upgrade.php 1 21 0 0
+/wp-content/themes/memberlite/assets/fonts/source-sans-pro/source-sans-pro-bold.woff2 2 25848 0 0
+/wp-content/themes/memberlite/assets/fonts/noto-sans/noto-sans-bold.woff2 2 25368 0 0
+/wp-content/themes/memberlite/assets/fonts/roboto-slab/roboto-slab.woff2 2 25216 0 0
+/wp-content/themes/memberlite/assets/fonts/ubuntu/ubuntu-bold.woff2 2 59504 0 0
+/wp-admin/wp-admin/upgrade.php 1 21 0 0
+/wp-content/themes/memberlite/assets/fonts/roboto-slab/roboto-slab-bold.woff2 2 25640 0 0
+/wp-content/themes/memberlite/assets/fonts/oswald/oswald-bold.woff2 2 20344 0 0
+/wp-content/themes/memberlite/assets/fonts/pathway-gothic-one/pathway-gothic-one.woff2 2 15328 0 1
+/wp-content/themes/memberlite/assets/fonts/inter/inter-bold.woff2 2 35568 0 0
+/wp-content/themes/memberlite/assets/fonts/source-sans-pro/source-sans-pro.woff2 2 26072 0 0
+/wp-content/themes/memberlite/assets/fonts/pt-serif/pt-serif.woff2 2 65800 0 0
+/wp-content/themes/memberlite/assets/fonts/pt-serif/pt-serif-bold.woff2 2 58984 0 0
+/wp-content/themes/memberlite/assets/fonts/poppins/poppins.woff2 2 15768 0 0
+/feed/atom/ 1 1695 1 1
+/wp-content/themes/memberlite/assets/fonts/ubuntu/ubuntu.woff2 2 69704 0 0
+/wp-json/wp/v2/users/ 1 653 0 1
+/wp-content/themes/memberlite/assets/fonts/playfair-display/playfair-display-bold.woff2 2 41936 0 0
+/wp-content/themes/memberlite/assets/fonts/pt-sans/pt-sans.woff2 2 90600 0 1
+/wp-content/themes/memberlite/assets/fonts/roboto/roboto-bold.woff2 2 31720 0 0
+/wp-content/themes/memberlite/assets/fonts/poppins/poppins-bold.woff2 2 15632 0 1
+/wp-content/themes/memberlite/assets/fonts/open-sans/open-sans.woff2 2 33440 0 0
+/wp-sitemap-users-1.xml 1 161 1 1
+/wp-admin/includes/nav.php/ 2 31576 2 2
+/wp-content/themes/memberlite/assets/fonts/merriweather/merriweather.woff2 2 40056 0 0
+/wp-content/plugins/litespeed-cache/litespeed-cache.php 1 0 0 1
+/wp-content/themes/memberlite/assets/fonts/quattrocento/quattrocento.woff2 2 71744 0 0
+/wp-json 2 435224 0 0
+/wp-content/themes/memberlite/assets/fonts/roboto/roboto.woff2 2 31488 0 0
+/wp-content/themes/memberlite/assets/fonts/inter/inter.woff2 2 33416 0 0
+/wp-content/themes/memberlite/assets/fonts/gentium-book-basic/gentium-book-basic-bold.woff2 2 45640 1 0
+/wp-content/themes/memberlite/assets/fonts/abril-fatface/abril-fatface.woff2 2 26352 0 0
+/wp-content/themes/memberlite/assets/fonts/figtree/figtree-bold.woff2 2 22632 0 0
+/wp-content/themes/memberlite/assets/fonts/quattrocento/quattrocento-bold.woff2 2 71904 0 0
+/wp-content/themes/memberlite/assets/fonts/oswald/oswald.woff2 2 19680 0 1
+/wp-content/themes/memberlite/assets/fonts/open-sans/open-sans-bold.woff2 2 32720 0 0
+END_SIDER

@@ -1,0 +1,166 @@
+[15-Apr-2024 17:14:12 UTC] Cron reschedule event error for hook: elementor_1_elementor_updater_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"elementor_1_elementor_updater_cron_interval","args":[],"interval":300}
+[16-Apr-2024 14:27:14 UTC] PHP Fatal error:  Uncaught Error: Class "ElementorPro\Core\Modules_Manager" not found in /home/snowqjji/public_html/wp-content/plugins/elementor-pro/plugin.php:375
+Stack trace:
+#0 /home/snowqjji/public_html/wp-includes/class-wp-hook.php(324): ElementorPro\Plugin->on_elementor_init()
+#1 /home/snowqjji/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 /home/snowqjji/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /home/snowqjji/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action()
+#4 /home/snowqjji/public_html/wp-includes/class-wp-hook.php(324): Elementor\Plugin->init()
+#5 /home/snowqjji/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#6 /home/snowqjji/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/snowqjji/public_html/wp-settings.php(695): do_action()
+#8 /home/snowqjji/public_html/wp-config.php(116): require_once('/home/snowqjji/...')
+#9 /home/snowqjji/public_html/wp-load.php(50): require_once('/home/snowqjji/...')
+#10 /home/snowqjji/public_html/wp-blog-header.php(13): require_once('/home/snowqjji/...')
+#11 /home/snowqjji/public_html/index.php(17): require('/home/snowqjji/...')
+#12 {main}
+  thrown in /home/snowqjji/public_html/wp-content/plugins/elementor-pro/plugin.php on line 375
+[25-Apr-2024 08:28:33 UTC] Cron reschedule event error for hook: elementor_1_elementor_pro_updater_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"elementor_1_elementor_pro_updater_cron_interval","args":[],"interval":300}
+[28-May-2024 17:54:40 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[28-May-2024 17:55:16 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[30-May-2024 13:04:41 UTC] PHP Warning:  fileperms(): stat failed for /home/snowqjji/public_html/index.php in /home/snowqjji/public_html/wp-admin/includes/file.php on line 2235
+[15-Jul-2024 23:16:43 UTC] Cron reschedule event error for hook: elementor_1_elementor_updater_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"elementor_1_elementor_updater_cron_interval","args":[],"interval":300}
+[24-Jul-2024 02:18:14 UTC] Cron reschedule event error for hook: elementor_1_elementor_updater_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"elementor_1_elementor_updater_cron_interval","args":[],"interval":300}
+[26-Jul-2024 00:41:24 UTC] Cron reschedule event error for hook: elementor_1_elementor_updater_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"elementor_1_elementor_updater_cron_interval","args":[],"interval":300}
+[30-Jul-2024 21:37:52 UTC] Cron reschedule event error for hook: elementor_1_elementor_pro_updater_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"elementor_1_elementor_pro_updater_cron_interval","args":[],"interval":300}
+[30-Jul-2024 22:25:07 UTC] PHP Warning:  Undefined array key "background_color" in /home/snowqjji/public_html/wp-content/plugins/elementor/includes/conditions.php on line 87
+[30-Jul-2024 22:25:07 UTC] PHP Warning:  Undefined array key "background_color" in /home/snowqjji/public_html/wp-content/plugins/elementor/includes/conditions.php on line 87
+[30-Jul-2024 22:25:07 UTC] PHP Warning:  Undefined array key "background_color" in /home/snowqjji/public_html/wp-content/plugins/elementor/includes/conditions.php on line 87
+[30-Jul-2024 22:25:07 UTC] PHP Warning:  Undefined array key "background_color" in /home/snowqjji/public_html/wp-content/plugins/elementor/includes/conditions.php on line 87
+[30-Jul-2024 22:25:07 UTC] PHP Warning:  Undefined array key "background_color" in /home/snowqjji/public_html/wp-content/plugins/elementor/includes/conditions.php on line 87
+[30-Jul-2024 22:25:07 UTC] PHP Warning:  Undefined array key "background_color" in /home/snowqjji/public_html/wp-content/plugins/elementor/includes/conditions.php on line 87
+[30-Jul-2024 22:25:07 UTC] PHP Warning:  Undefined array key "background_color" in /home/snowqjji/public_html/wp-content/plugins/elementor/includes/conditions.php on line 87
+[30-Jul-2024 22:25:07 UTC] PHP Warning:  Undefined array key "background_color" in /home/snowqjji/public_html/wp-content/plugins/elementor/includes/conditions.php on line 87
+[31-Jul-2024 00:35:25 UTC] PHP Warning:  Undefined variable $pmpro_msg in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 3
+[31-Jul-2024 00:35:25 UTC] PHP Warning:  Undefined variable $level_groups in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 12
+[31-Jul-2024 00:35:25 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 12
+[31-Jul-2024 00:35:38 UTC] PHP Warning:  Undefined variable $pmpro_msg in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 3
+[31-Jul-2024 00:35:38 UTC] PHP Warning:  Undefined variable $level_groups in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 12
+[31-Jul-2024 00:35:38 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 12
+[31-Jul-2024 00:35:48 UTC] PHP Warning:  Undefined variable $pmpro_msg in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 3
+[31-Jul-2024 00:35:48 UTC] PHP Warning:  Undefined variable $level_groups in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 12
+[31-Jul-2024 00:35:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 12
+[31-Jul-2024 00:37:13 UTC] PHP Warning:  Undefined variable $pmpro_msg in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 3
+[31-Jul-2024 00:37:13 UTC] PHP Warning:  Undefined variable $level_groups in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 12
+[31-Jul-2024 00:37:13 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 12
+[31-Jul-2024 00:41:45 UTC] PHP Warning:  Undefined variable $pmpro_msg in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 3
+[31-Jul-2024 00:41:45 UTC] PHP Warning:  Undefined variable $level_groups in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 14
+[31-Jul-2024 00:41:45 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 14
+[31-Jul-2024 00:56:33 UTC] PHP Warning:  Undefined variable $pmpro_msg in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 3
+[31-Jul-2024 00:56:33 UTC] PHP Warning:  Undefined variable $level_groups in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 14
+[31-Jul-2024 00:56:33 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 14
+[31-Jul-2024 01:06:25 UTC] PHP Warning:  Undefined variable $pmpro_msg in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 3
+[31-Jul-2024 01:06:25 UTC] PHP Warning:  Undefined variable $level_groups in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 14
+[31-Jul-2024 01:06:25 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 14
+[31-Jul-2024 01:41:38 UTC] PHP Warning:  Undefined variable $level_groups in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 3
+[31-Jul-2024 01:41:38 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 3
+[31-Jul-2024 01:42:11 UTC] PHP Warning:  Undefined variable $level_groups in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 3
+[31-Jul-2024 01:42:11 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 3
+[31-Jul-2024 01:43:01 UTC] PHP Warning:  Undefined variable $level_groups in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 3
+[31-Jul-2024 01:43:01 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 3
+[31-Jul-2024 01:43:20 UTC] PHP Warning:  Undefined variable $level_groups in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 3
+[31-Jul-2024 01:43:20 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 3
+[31-Jul-2024 01:44:24 UTC] PHP Warning:  Undefined variable $level_groups in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 3
+[31-Jul-2024 01:44:24 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 3
+[31-Jul-2024 01:45:25 UTC] PHP Warning:  Undefined variable $level_groups in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 3
+[31-Jul-2024 01:45:25 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 3
+[31-Jul-2024 01:55:33 UTC] PHP Warning:  Undefined variable $level_groups in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 10
+[31-Jul-2024 01:55:33 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 10
+[31-Jul-2024 01:55:42 UTC] PHP Warning:  Undefined variable $level_groups in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 10
+[31-Jul-2024 01:55:42 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 10
+[31-Jul-2024 01:57:34 UTC] PHP Warning:  Undefined variable $pmpro_levels in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 6
+[31-Jul-2024 01:57:34 UTC] PHP Warning:  Undefined variable $level_groups in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 9
+[31-Jul-2024 01:57:34 UTC] PHP Warning:  Undefined variable $level_groups in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 12
+[31-Jul-2024 01:57:34 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 12
+[31-Jul-2024 01:57:44 UTC] PHP Warning:  Undefined variable $pmpro_levels in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 6
+[31-Jul-2024 01:57:44 UTC] PHP Warning:  Undefined variable $level_groups in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 9
+[31-Jul-2024 01:57:44 UTC] PHP Warning:  Undefined variable $level_groups in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 12
+[31-Jul-2024 01:57:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 12
+[31-Jul-2024 02:03:14 UTC] PHP Warning:  Undefined variable $pmpro_levels in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 9
+[31-Jul-2024 02:03:14 UTC] PHP Warning:  Undefined variable $level_groups in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 12
+[31-Jul-2024 02:03:14 UTC] PHP Warning:  Undefined variable $level_groups in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 15
+[31-Jul-2024 02:03:14 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 15
+[31-Jul-2024 02:08:51 UTC] PHP Warning:  Undefined variable $pmpro_levels in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 9
+[31-Jul-2024 02:08:51 UTC] PHP Warning:  Undefined variable $level_groups in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 12
+[31-Jul-2024 02:13:38 UTC] PHP Warning:  Undefined variable $pmpro_levels in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 9
+[31-Jul-2024 02:13:38 UTC] PHP Warning:  Undefined variable $level_groups in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 12
+[31-Jul-2024 02:15:09 UTC] PHP Warning:  Undefined variable $pmpro_levels in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 9
+[31-Jul-2024 02:15:09 UTC] PHP Warning:  Undefined variable $level_groups in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 12
+[31-Jul-2024 02:15:12 UTC] PHP Warning:  Undefined variable $pmpro_levels in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 9
+[31-Jul-2024 02:15:12 UTC] PHP Warning:  Undefined variable $level_groups in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 12
+[31-Jul-2024 02:21:26 UTC] PHP Warning:  Undefined variable $pmpro_levels in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 17
+[31-Jul-2024 02:21:26 UTC] PHP Warning:  Undefined variable $level_groups in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 19
+[31-Jul-2024 02:23:26 UTC] PHP Warning:  Undefined variable $pmpro_levels in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 17
+[31-Jul-2024 02:23:26 UTC] PHP Warning:  Undefined variable $level_groups in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 19
+[31-Jul-2024 02:24:50 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 9
+[31-Jul-2024 02:25:39 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 9
+[31-Jul-2024 02:25:43 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 9
+[31-Jul-2024 02:25:49 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 9
+[31-Jul-2024 02:25:49 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 9
+[31-Jul-2024 02:25:53 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/snowqjji/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 9
+[17-Aug-2024 04:39:53 UTC] WordPress database error Duplicate entry '185.156.175.35' for key 'ip' for query INSERT INTO `wpxv_loginizer_logs` (`username`, `time`, `count`, `ip`, `lockout`, `url`) VALUES ('killacam', 1723869593, 1, '185.156.175.35', 0, 'https://snowboard-ai.com/xmlrpc.php') made by wp_xmlrpc_server->serve_request, IXR_Server->IXR_Server, IXR_Server->__construct, IXR_Server->serve, IXR_Server->call, wp_xmlrpc_server->wp_getUsersBlogs, wp_xmlrpc_server->blogger_getUsersBlogs, wp_xmlrpc_server->login, wp_authenticate, do_action('wp_login_failed'), WP_Hook->do_action, WP_Hook->apply_filters, loginizer_login_failed
+[28-Aug-2024 09:48:18 UTC] Cron reschedule event error for hook: litespeed_task_lqip, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
+[19-Sep-2024 09:17:23 UTC] Cron reschedule event error for hook: elementor_1_elementor_updater_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"elementor_1_elementor_updater_cron_interval","args":[],"interval":300}
+[24-Sep-2024 04:44:27 UTC] Cron reschedule event error for hook: elementor_1_elementor_updater_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"elementor_1_elementor_updater_cron_interval","args":[],"interval":300}
+[02-Oct-2024 04:12:40 UTC] Cron reschedule event error for hook: elementor_1_elementor_updater_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"elementor_1_elementor_updater_cron_interval","args":[],"interval":300}
+[06-Oct-2024 00:08:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Elementor\Core\get_plugins() in /home/snowqjji/public_html/wp-content/plugins/elementor/core/wp-api.php:26
+Stack trace:
+#0 /home/snowqjji/public_html/wp-content/plugins/elementor/modules/compatibility-tag/base-module.php(96): Elementor\Core\Wp_Api->get_plugins()
+#1 /home/snowqjji/public_html/wp-content/plugins/elementor/modules/compatibility-tag/base-module.php(58): Elementor\Modules\CompatibilityTag\Base_Module->get_plugins_with_header()
+#2 /home/snowqjji/public_html/wp-content/plugins/elementor/modules/compatibility-tag/module.php(57): Elementor\Modules\CompatibilityTag\Base_Module->get_plugins_to_check()
+#3 /home/snowqjji/public_html/wp-content/plugins/elementor/modules/compatibility-tag/base-module.php(148): Elementor\Modules\CompatibilityTag\Module->get_plugins_to_check()
+#4 /home/snowqjji/public_html/wp-includes/class-wp-hook.php(324): Elementor\Modules\CompatibilityTag\Base_Module->Elementor\Modules\CompatibilityTag\{closure}()
+#5 /home/snowqjji/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#6 /home/snowqjji/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/snowqjji/public_html/wp-content/plugins/elementor/modules/system-info/module.php(338): do_action()
+#8 /home/snowqjji/public_html/wp-content/plugins/elementor/includes/tracker.php(241): Elementor\Modules\System_Info\Module::get_allowed_reports()
+#9 /home/snowqjji/public_html/wp-content/plugins/elementor/includes/tracker.php(540): Elementor\Tracker::get_system_reports_data()
+#10 /home/snowqjji/public_html/wp-content/plugins/elementor/includes/tracker.php(141): Elementor\Tracker::get_tracking_data()
+#11 /home/snowqjji/public_html/wp-includes/class-wp-hook.php(324): Elementor\Tracker::send_tracking_data()
+#12 /home/snowqjji/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#13 /home/snowqjji/public_html/wp-includes/plugin.php(565): WP_Hook->do_action()
+#14 /home/snowqjji/public_html/wp-cron.php(191): do_action_ref_array()
+#15 {main}
+  thrown in /home/snowqjji/public_html/wp-content/plugins/elementor/core/wp-api.php on line 26
+[07-Oct-2024 03:43:57 UTC] Cron reschedule event error for hook: elementor_1_elementor_pro_updater_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"elementor_1_elementor_pro_updater_cron_interval","args":[],"interval":300}
+[10-Oct-2024 05:41:01 UTC] Cron reschedule event error for hook: elementor_1_elementor_updater_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"elementor_1_elementor_updater_cron_interval","args":[],"interval":300}
+[16-Oct-2024 04:50:12 UTC] Cron reschedule event error for hook: elementor_1_elementor_updater_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"elementor_1_elementor_updater_cron_interval","args":[],"interval":300}
+[16-Oct-2024 22:48:53 UTC] WordPress database error Duplicate entry '18.207.171.85' for key 'ip' for query INSERT INTO `wpxv_loginizer_logs` (`username`, `time`, `count`, `ip`, `lockout`, `url`) VALUES ('killacam', 1729118933, 1, '18.207.171.85', 0, 'https://snowboard-ai.com/xmlrpc.php') made by wp_xmlrpc_server->serve_request, IXR_Server->IXR_Server, IXR_Server->__construct, IXR_Server->serve, IXR_Server->call, wp_xmlrpc_server->wp_getUsersBlogs, wp_xmlrpc_server->blogger_getUsersBlogs, wp_xmlrpc_server->login, wp_authenticate, do_action('wp_login_failed'), WP_Hook->do_action, WP_Hook->apply_filters, loginizer_login_failed
+[22-Oct-2024 00:54:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Elementor\Core\get_plugins() in /home/snowqjji/public_html/wp-content/plugins/elementor/core/wp-api.php:26
+Stack trace:
+#0 /home/snowqjji/public_html/wp-content/plugins/elementor/modules/compatibility-tag/base-module.php(96): Elementor\Core\Wp_Api->get_plugins()
+#1 /home/snowqjji/public_html/wp-content/plugins/elementor/modules/compatibility-tag/base-module.php(58): Elementor\Modules\CompatibilityTag\Base_Module->get_plugins_with_header()
+#2 /home/snowqjji/public_html/wp-content/plugins/elementor/modules/compatibility-tag/module.php(57): Elementor\Modules\CompatibilityTag\Base_Module->get_plugins_to_check()
+#3 /home/snowqjji/public_html/wp-content/plugins/elementor/modules/compatibility-tag/base-module.php(148): Elementor\Modules\CompatibilityTag\Module->get_plugins_to_check()
+#4 /home/snowqjji/public_html/wp-includes/class-wp-hook.php(324): Elementor\Modules\CompatibilityTag\Base_Module->Elementor\Modules\CompatibilityTag\{closure}()
+#5 /home/snowqjji/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#6 /home/snowqjji/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/snowqjji/public_html/wp-content/plugins/elementor/modules/system-info/module.php(338): do_action()
+#8 /home/snowqjji/public_html/wp-content/plugins/elementor/includes/tracker.php(241): Elementor\Modules\System_Info\Module::get_allowed_reports()
+#9 /home/snowqjji/public_html/wp-content/plugins/elementor/includes/tracker.php(540): Elementor\Tracker::get_system_reports_data()
+#10 /home/snowqjji/public_html/wp-content/plugins/elementor/includes/tracker.php(141): Elementor\Tracker::get_tracking_data()
+#11 /home/snowqjji/public_html/wp-includes/class-wp-hook.php(324): Elementor\Tracker::send_tracking_data()
+#12 /home/snowqjji/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#13 /home/snowqjji/public_html/wp-includes/plugin.php(565): WP_Hook->do_action()
+#14 /home/snowqjji/public_html/wp-cron.php(191): do_action_ref_array()
+#15 {main}
+  thrown in /home/snowqjji/public_html/wp-content/plugins/elementor/core/wp-api.php on line 26
+[29-Oct-2024 02:41:17 UTC] Cron reschedule event error for hook: elementor_1_elementor_updater_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"elementor_1_elementor_updater_cron_interval","args":[],"interval":300}
+[29-Oct-2024 07:34:33 UTC] WordPress database error Duplicate entry '140.83.86.187' for key 'ip' for query INSERT INTO `wpxv_loginizer_logs` (`username`, `time`, `count`, `ip`, `lockout`, `url`) VALUES ('killacam', 1730187273, 1, '140.83.86.187', 0, 'https://snowboard-ai.com/xmlrpc.php') made by wp_xmlrpc_server->serve_request, IXR_Server->IXR_Server, IXR_Server->__construct, IXR_Server->serve, IXR_Server->call, wp_xmlrpc_server->wp_getUsersBlogs, wp_xmlrpc_server->blogger_getUsersBlogs, wp_xmlrpc_server->login, wp_authenticate, do_action('wp_login_failed'), WP_Hook->do_action, WP_Hook->apply_filters, loginizer_login_failed
+[04-Nov-2024 09:05:19 UTC] Cron reschedule event error for hook: elementor_1_elementor_updater_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"elementor_1_elementor_updater_cron_interval","args":[],"interval":300}
+[13-Nov-2024 00:08:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_get_wp_version() in /home/snowqjji/public_html/wp-admin/includes/plugin-install.php:116
+Stack trace:
+#0 /home/snowqjji/public_html/wp-content/plugins/elementor/includes/settings/tools.php(216): plugins_api()
+#1 /home/snowqjji/public_html/wp-content/plugins/elementor/includes/settings/tools.php(283): Elementor\Tools->get_rollback_versions()
+#2 /home/snowqjji/public_html/wp-content/plugins/elementor/includes/settings/settings-page.php(423): Elementor\Tools->create_tabs()
+#3 /home/snowqjji/public_html/wp-content/plugins/elementor/includes/settings/settings-page.php(121): Elementor\Settings_Page->ensure_tabs()
+#4 /home/snowqjji/public_html/wp-content/plugins/elementor/includes/tracker.php(595): Elementor\Settings_Page->get_tabs()
+#5 /home/snowqjji/public_html/wp-content/plugins/elementor/includes/tracker.php(446): Elementor\Tracker::get_tracking_data_from_tools()
+#6 /home/snowqjji/public_html/wp-content/plugins/elementor/includes/tracker.php(553): Elementor\Tracker::get_tools_general_usage()
+#7 /home/snowqjji/public_html/wp-content/plugins/elementor/includes/tracker.php(141): Elementor\Tracker::get_tracking_data()
+#8 /home/snowqjji/public_html/wp-includes/class-wp-hook.php(324): Elementor\Tracker::send_tracking_data()
+#9 /home/snowqjji/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/snowqjji/public_html/wp-includes/plugin.php(565): WP_Hook->do_action()
+#11 /home/snowqjji/public_html/wp-cron.php(191): do_action_ref_array()
+#12 {main}
+  thrown in /home/snowqjji/public_html/wp-admin/includes/plugin-install.php on line 116

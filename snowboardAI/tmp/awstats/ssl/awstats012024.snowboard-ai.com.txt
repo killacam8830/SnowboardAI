@@ -1,0 +1,1276 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202401 will be lost/reset.
+# Last config file used to build this data file was /home/snowqjji/tmp/awstats/ssl/awstats.snowboard-ai.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2688                
+POS_VISITOR 21560               
+POS_DAY 34907               
+POS_DOMAIN 3479                
+POS_LOGIN 4125                
+POS_ROBOT 4280                
+POS_WORMS 4999                
+POS_EMAILSENDER 5130                
+POS_EMAILRECEIVER 5273                
+POS_SESSION 35201               
+POS_SIDER 35410               
+POS_FILETYPES 5408                
+POS_DOWNLOADS 5760                
+POS_OS 5808                
+POS_BROWSER 6323                
+POS_SCREENSIZE 9450                
+POS_UNKNOWNREFERER 9524                
+POS_UNKNOWNREFERERBROWSER 10338               
+POS_ORIGIN 10779               
+POS_SEREFERRALS 10919               
+POS_PAGEREFS 11125               
+POS_SEARCHWORDS 11440               
+POS_KEYWORDS 11592               
+POS_MISC 2352                
+POS_ERRORS 11651               
+POS_CLUSTER 3981                
+POS_SIDER_404 11803               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240201025030 1 0 9904350636907
+FirstTime 20240123002238
+LastTime 20240131222854
+LastUpdate 20240202015454 1 0 0 0 0
+TotalVisits 461                 
+TotalUnique 347                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 351                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 69 199 1594058 68 85 77810
+1 175 289 5613734 46 55 47989
+2 140 180 2332343 27 82 76347
+3 23 39 33538 34 45 41653
+4 124 161 139887 51 68 52834
+5 17 21 19820 34 51 66375
+6 45 51 42571 13 27 21222
+7 22 40 292648 8 8 6444
+8 70 84 67932 13 20 16216
+9 55 67 70331 28 38 34667
+10 88 134 2033032 21 29 105899
+11 74 88 24996 5 6 4303
+12 75 79 97459 13 15 20216
+13 257 553 11182289 17 33 808681
+14 200 363 5011709 27 55 64028
+15 171 246 2477625 163 264 305453
+16 290 601 15993096 77 89 1024395
+17 8 8 4737 2 9 10515
+18 28 66 573599 6 15 8577
+19 20 25 15668 11 30 15769
+20 39 46 76889 17 48 23326
+21 38 45 32115 26 32 30239
+22 11 17 14570 4 13 3812
+23 8 13 268234 1 2 1163
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 32
+us 848 1241 14087992
+in 769 1611 31809483
+jp 94 98 102072
+gb 72 90 84011
+be 60 66 63131
+ru 47 47 74024
+cn 45 57 47805
+de 20 20 56003
+ro 11 31 29575
+ca 9 21 21666
+au 7 15 11664
+hu 6 19 1270780
+cl 6 7 4107
+it 6 6 7206
+id 6 6 8742
+eu 5 5 5281
+se 4 4 4188
+bg 4 6 6942
+gr 4 4 6784
+nl 4 12 10209
+fr 3 7 5887
+bd 3 12 269926
+ar 3 3 1966
+ir 2 10 9030
+br 2 2 1396
+dk 1 1 698
+iq 1 5 4515
+zz 1 1 1218
+kr 1 1 698
+za 1 1 668
+at 1 1 698
+ua 1 5 4515
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 16
+AhrefsBot/ 53 30369 20240131031136 1
+Googlebot/ 41 123496 20240131055449 1
+Go\-http\-client/ 30 20199 20240131072033 0
+link 21 13326 20240126051849 0
+no_user_agent 13 31390 20240129120231 0
+Apache\-HttpClient/ 12 8120 20240130023642 0
+facebookexternalhit/ 8 803260 20240130131119 1
+spider 7 8189 20240127170811 0
+bingbot/ 6 5260 20240125145407 0
+curl 6 7741 20240128054157 0
+(firefox/)([0-9]\.|[0-1][0]\.) 5 24524 20240130151549 0
+scanner 3 1932 20240124215631 0
+Applebot/ 3 2097 20240126161014 0
+crawl 1 698 20240126011004 0
+java 1 1696 20240127071007 0
+survey 1 1902 20240131085317 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 15
+html 728 1822121 0 0
+js 757 8823945 0 0
+woff2 32 4498668 0 0
+png 159 8611137 0 0
+php 1177 14411769 0 0
+jpg 50 2413523 0 0
+json 2 2170312 0 0
+ttf 2 41592 0 0
+woff 1 18824 0 0
+css 274 1272185 0 0
+Unknown 103 1438826 0 0
+svg 103 59496 0 0
+webp 18 2354700 0 0
+gif 7 71978 0 0
+xml 2 3804 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 31
+macosx7 2 2
+macosx15 55 47
+win8.1 6 1
+androidnougat 1 1
+ios_iphone 295 206
+macosx10 1 1
+android10 211 45
+macosx11 1 1
+macosx 4 1
+winxp 4 3
+win7 32 14
+androidkitkat 4 4
+win8 1 1
+androidpie 23 10
+androidfroyo 1 1
+bsdfreebsd 1 0
+macosx9 5 5
+androidlollipop 1 1
+bsdopenbsd 1 0
+androidmarshmallow 11 11
+androidoreo 17 5
+win10 2119 1188
+android 2 2
+winvista 2 2
+linux 161 64
+macosx14 4 3
+linuxubuntu 10 2
+Unknown 428 416
+win2000 2 2
+macosx6 3 3
+winnt 7 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 150
+chrome77.0.2597.88 1 1
+edge12 69 57
+msie10.0 1 1
+chrome14.0.803.0 1 1
+firefox109.0 10 2
+firefox36.0 1 0
+firefox52.9 1 1
+chrome112.0.0.0 6 6
+safari11.1.2 1 1
+chrome62.0.3202.84 1 1
+chrome114.0.0.0 2 2
+chrome81.0.4044.138 11 11
+firefox28.0 1 0
+chrome119.0.0.0 21 13
+chrome118.0.0.0 1 1
+chrome60.0.3112.90 10 2
+firefox119.0 1 1
+chrome19.0.1084.9 1 1
+chrome71.0.3401.88 1 1
+msie6.0 1 1
+chrome79.0.3945.130 1 1
+chrome58.0.3029.110 1 1
+chrome79.0.3142.88 1 1
+chrome109.0.5414.46 10 2
+chrome110.0.5481.100 10 2
+chrome119.0.6045.199 15 3
+chrome19.0.1055.1 1 1
+safari16.6 33 33
+firefox120.0 12 12
+chrome86.0.4240.111 4 1
+chrome117.0.0.0 8 8
+chrome76.0.3809.132 1 1
+chrome97.0.4692.71 1 1
+firefox98.0 1 1
+firefox65.0 1 1
+chrome30.0.1599.103 3 3
+chrome84.0.2895 1 1
+firefox118.0 4 4
+chrome120.0.6099.224 5 1
+chrome35.0.1916.47 2 2
+chrome101.0.4951.67 5 1
+chrome97.0.2771 1 0
+chrome63.0.3239.132 24 24
+chrome55.0.1829 1 0
+chrome111.0.0.0 1 1
+firefox83.0 2 2
+android 1 1
+chrome50.0.1326 1 1
+mozilla 40 31
+chrome74.0.3729.169 30 30
+firefox26.0 1 1
+chrome55.0.2883.87 1 1
+chrome116.0.0.0 12 10
+safari13.1.1 1 1
+chrome110.0.0.0 7 3
+chrome11.0.696.71 2 2
+chrome84.0.4147.89 3 3
+chrome94.0.4606.61 7 7
+chrome104.0.5112.101 5 1
+chrome91.0.4472.114 1 1
+chrome6.0.428.0 1 1
+chrome78.0.1946.88 1 1
+safari10.0 30 6
+chrome117.0.5938.132 37 8
+chrome87.0.2472 1 1
+chrome73.0.1492.88 1 1
+chrome76.0.3665.88 1 1
+chrome78.0.1541 1 0
+opera11.1 1 0
+firefox122.0 10 2
+chrome83.0.4103.97 6 6
+chrome98.0.4758.102 7 3
+chrome72.0.164 1 0
+firefox82.0 1 1
+firefox103.0 1 1
+chrome80.0.3987.162 2 2
+netscape5.0 9 9
+chrome79.0.3945.136 2 2
+chrome89.0.4389.114 24 24
+firefox88.0 6 6
+chrome33.0.1750.152 2 2
+chrome85.0.4183.81 1 1
+firefox115.0 370 203
+chrome85.0.4183.121 1 1
+safari12.1.2 1 1
+chrome91.0.4472.77 5 1
+chrome52.0.3325.98 1 1
+safari13.0.3 106 106
+chrome103.0.5060.66 5 1
+chrome71.0.3851.88 1 1
+safari17.2 12 12
+chrome79.0.3945.79 27 6
+galeon 1 0
+chrome67.0.2096 1 0
+chrome88.0.4240.193 5 5
+chrome115.0.0.0 1 1
+chrome78.0.3904.108 21 21
+safari14.0 2 2
+chrome34.0.1847.131 1 1
+chrome28.0.1478.0 1 1
+firefox25.0 1 0
+firefox33.0 3 3
+chrome104.0.0.0 5 1
+chrome120.0.0.0 1443 753
+opera64.2.3282.60128 1 1
+chrome87.0.4280.141 6 2
+chrome92.0.4515.107 9 5
+chrome51.0.2463.145 1 1
+safari17.3 9 9
+chrome89.0.4389.128 1 1
+chrome108.0.0.0 10 8
+chrome76.0.2094 1 0
+chrome109.0.0.0 7 1
+iphone 5 1
+chrome109.0.5414.119 24 8
+safari16.1 37 13
+safari 52 17
+Unknown 378 374
+chrome6.0.464.0 1 1
+chrome82.0.1003 1 1
+chrome121.0.6167.101 19 6
+safari16.3 18 18
+chrome44.0.2403.128 1 1
+chrome76.0.3809.100 1 0
+firefox35.0 2 2
+chrome103.0.5060.114 1 1
+firefox77.0 2 2
+chrome113.0.0.0 1 1
+chrome90.0.4430.210 1 1
+chrome100.0.4896.60 2 2
+chrome41.0.2226.0 5 1
+firefox62.0 1 1
+safari12.0 8 2
+edge17 2 2
+opera12.0 1 0
+chrome121.0.0.0 206 40
+chrome45.0.2454.84 1 1
+chrome14.0.834.0 1 1
+chrome5.0.357.0 1 1
+chrome107.0.0.0 2 2
+chrome15.0.861.0 1 1
+chrome88.0.1050 1 0
+chrome83.0.4103.61 14 6
+chrome87.0.4280.88 11 3
+firefox54.0 1 1
+firefox52.0 1 1
+chrome76.0.3819.88 1 1
+chrome71.0.2737.88 1 1
+chrome84.0.4147.125 1 1
+chrome98.0.328 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 16
+Mozilla/5.0_zgrab/0.x 20240123044440
+Mozilla/5.0_Firefox/33.0 20240125211933
+Mozilla/5.0_(compatible;_ips-agent) 20240130033535
+python-requests/2.28.2 20240126144351
+WordPress/6.4.3;_https://snowboard-ai.com 20240131222855
+WordPress/6.4.2;_https://snowboard-ai.com 20240130162832
+python-requests/2.21.0 20240130033920
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240124220525
+Softaculous 20240130120856
+okhttp/4.9.2 20240123005522
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240125103330
+python-requests/2.28.1 20240130182022
+python-requests/2.27.1 20240126014044
+python-requests/2.25.1 20240125131623
+Mozilla/5.0_Firefox/26.0 20240129041429
+Mozilla/5.0_Firefox/35.0 20240126202340
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 9
+python-requests/2.28.2 20240126144351
+python-requests/2.27.1 20240126014044
+python-requests/2.25.1 20240125131623
+python-requests/2.28.1 20240130182022
+Softaculous 20240130120856
+okhttp/4.9.2 20240123005522
+WordPress/6.4.2;_https://snowboard-ai.com 20240130162832
+python-requests/2.21.0 20240130033920
+WordPress/6.4.3;_https://snowboard-ai.com 20240131222855
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 824 864
+From1 0 0
+From2 6 6
+From3 7 7
+From4 1210 2538
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+baidu 2 2
+www_google_com 2 2
+duckduckgo 1 1
+www_google_it 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+https://premium52.web-hosting.com:2083 4 4
+http://m.facebook.com 2 2
+https://premium52.web-hosting.com:2083/cpsess9965404390/frontend/jupiter/ncssl/index.live.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 70 78472
+206 4 698316
+301 24 707
+500 4 3844
+404 567 979024
+302 56 23371
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 317
+//wordpress/wp-includes/wlwmanifest.xml 6 -
+/api/exclude/siteConfig/webSiteConfig 1 -
+/s/9373e2032313e24353e2839313/_/ 2 -
+/assets/js/daik/hm.js 1 -
+/images/adminlo.png 1 -
+/common/scrollreveal.min.js 1 -
+/User/Reg/ 1 -
+/admin/login/look.html 1 -
+//media/wp-includes/wlwmanifest.xml 1 -
+/static/js/chart.js 1 -
+//wp-includes/wlwmanifest.xml 6 -
+/api/vue/transaction/config 1 -
+/%22https:/snowboard-ai.com/wp-content/uploads/2022/03/megagym-6.jpg/ 4 https://snowboard-ai.com/
+/photo/index.asp 1 -
+/Pc/tools/outpwd_smsverify 1 -
+/%22https:/maps.google.com/maps 4 https://snowboard-ai.com/
+/dist/images/mask/colsed.png 1 -
+/config.js 1 -
+//xmlrpc.php 5 -
+/static/js/main.js 1 -
+/wp-json/wp/v2/posts 1 -
+/v1/management/tenant/getTenantConfig 1 -
+/meta.json 2 -
+/static/common/icon/zhuanzhang.png 1 -
+/api/trendData 1 -
+/account/login 1 -
+/Six/Js/class_12.js 1 -
+/configstatic/h5/control/control.js 1 -
+/Public/m/js/yxMobileSlider.js 1 -
+/checkusername 1 -
+/templates/hyacinth/js/common.js 1 -
+/user/regok.php 1 -
+/User/login.html 1 -
+/public/static/js/main.js 1 -
+//wp2/wp-includes/wlwmanifest.xml 6 -
+/old/wp-admin/install.php 2 www.google.com
+/static/config.js 1 -
+/phpcms/modules/member/touzi.php 1 -
+/api/v1/tea/investment-project/list 1 -
+/index.php 3 -
+/api/v1/member/home 1 -
+/static/images/themeWZCP/tzjl.png 1 -
+/prod-api/api/mine/sys/sysConfig 1 -
+/backup/wp-admin/install.php 2 www.google.com
+/platform/passport/login.html 1 -
+/api/shop/product 1 -
+/index/login/smsRand 1 -
+/star.php 1 -
+//2019/wp-includes/wlwmanifest.xml 6 -
+/static/img/cs/cs-bg-big.jpg 1 -
+/static/tabbar/trade.png 1 -
+/app/get_shares_index 1 -
+/Apps/gold/Tpl/Admin/Mt4Server/index.html 1 -
+/robots.txt 36 -
+/api/site/getInfo.do 1 -
+/Publics/getWebInitInfo 1 -
+/api/index/webconfig 1 -
+/Public/Wchat/js/cvphp.js 1 -
+/upload_json/ 1 -
+/1.jpg 1 -
+/api/sms 1 -
+/nyyh/ac_runactivecontent.js 1 -
+/api/index/logincode 1 -
+/server-status 1 -
+//news/wp-includes/wlwmanifest.xml 6 -
+/ws/index/weblogo/app 1 -
+/Ajax/allcoin_a 1 -
+/Site/configH5 1 -
+/static/new/js/shangchuan.js 1 -
+/login.action 1 -
+/favicon.png 18 -
+/cms/wp-admin/install.php 1 -
+/api/index/indexconfig 1 -
+//web/wp-includes/wlwmanifest.xml 6 -
+/images/defaultpic.gif 1 -
+/api/service 1 -
+/static/js/news.js 1 -
+//site/wp-includes/wlwmanifest.xml 6 -
+/v1/app/market/home/queryKlineRiseList 1 -
+//2018/wp-includes/wlwmanifest.xml 1 -
+/active 1 -
+/%22https:/snowboard-ai.com/wp-content/uploads/2022/03/megagym-8.jpg/ 4 https://snowboard-ai.com/
+/api/link 1 -
+/wp-json/elementor/v1/kit-elements-defaults 1 https://snowboard-ai.com/wp-admin/post.php
+/Web/JS/michat.js 1 -
+/index.php/games/red 1 -
+/Plus/AboutUs/Images/Style.css 1 -
+/home/login/login_index.html 1 -
+/.DS_Store 6 -
+/%22https:/megagym.oceanwp.org/wp-content/uploads/2016/10/avatar.jpg/ 4 https://snowboard-ai.com/
+/public/home/js/func.js 1 -
+/api/index/userdded.html 1 -
+/index/login/getWays 1 -
+/old/wp-admin/setup-config.php 2 www.google.com
+/api/user/drawList 1 -
+/static/index/js/lk/order.js 1 -
+/api/baseConfig 1 -
+/wordpress/wp-admin/install.php 1 www.google.com
+/_xingcai_buffer/systemSettings 1 -
+/Public/Home/statics/web/js/style.js 1 -
+/index/user/main.html 1 -
+/index/newapi/api 1 -
+/text_config.js 1 -
+/3ds.php 10 -
+/index/chat/init 1 -
+/mobile/v3/js/lotterys.js 1 -
+/js/preload/example.txt 1 -
+/h5/static/icon/icon_hetong.png 1 -
+/_all_dbs 2 -
+/member/css/bindmobile.js 1 -
+/backend 1 -
+/Public/Home/css/revise.css 1 -
+/main.js 1 -
+/%22https:/snowboard-ai.com/wp-content/uploads/2022/03/megagym-7.jpg/ 4 https://snowboard-ai.com/
+/en 10 -
+/pczs/js/trendChart.js 1 -
+/Loading.png 1 -
+/api/product/list/index 1 -
+/Mg0a4/app/data.js 1 -
+/web/im/js/register.js 1 -
+/api/pc/helper/terms 1 -
+/live/getRealIP 1 -
+/.env 2 -
+/index/user/register.html 1 -
+/assets/yibao/Nweshebao/img/logo.png 1 -
+/api/link/platform 1 -
+/-/x/hbg/daq/user-event/info/plain 1 -
+/wap/api/exchangerateuserconfig!get.action 1 -
+/mobile/user/getImgCodeCal 1 -
+/post.asp 1 -
+/waplogin.php 1 -
+/pc/serverConfig.js 1 -
+/acquireSession 1 -
+/backup/wp-admin/setup-config.php 1 www.google.com
+/li/user/loginck 1 -
+/public/message/findByType 1 -
+/img/default/gaba.png 1 -
+/api/home/country/list 1 -
+/site/info 1 127.0.0.1
+/site/wp-admin/install.php 1 -
+/new/wp-admin/install.php 1 -
+/dist/js/regist.js 1 -
+/static/images/config/common/green_down.png 1 -
+/static/picture/imTokenLogo.svg 1 -
+/app/public/config/index.php 1 -
+/Public/Wap/jinrong/Mobile/Public/js/drawsvg.js 1 -
+/template/mb/lang/text-zh.json 1 -
+/api/shares/systemStyle 1 -
+/OLD/wp-admin/setup-config.php 2 www.google.com
+/api/uploads/getappconfig 1 -
+/Ajax/checkpwd.js 1 -
+/member/showSign 1 -
+//shop/wp-includes/wlwmanifest.xml 6 -
+/dianjianniu.js 1 -
+/template/mobile_user/ask_list.html 1 -
+/serveapi/tx/open/session/fffff 1 -
+/doLogin 1 -
+/static/img_m/login-bg.a7550e9.png 1 -
+/index.php/index/login/logincl 1 -
+//test/wp-includes/wlwmanifest.xml 6 -
+/.vscode/sftp.json 1 -
+/Public/home/common/js/index.js 1 -
+/public/js/json/code_BF_ix.json 1 -
+/api/user/switchWeb 1 -
+/resource/home/js/config.js 1 -
+/jsonpublic/selectAddtion.asp 1 -
+/api/Index/down 1 -
+/home/index/getkdata/intval/1day/type/btcusdt 1 -
+/api/nimcc/recv 1 -
+/config.json 2 -
+/api/submitCard.html 1 -
+/miningpool/index 1 -
+/conversationormessage/ourcustomerservice/customerlist/app/chat_boxs.jsp 1 -
+/api/common/getVersion 1 -
+/api/message/webInfo 1 -
+/Tencent/GetGuarantee 1 -
+/default_drawnotice.shtml 1 -
+/static/wallet.png 1 -
+/home/main/getConfig.do 1 -
+/_data/config/config/get 1 -
+/static/index/sign.js 1 -
+/static/splash.png 1 -
+/chatroomgame 1 -
+/market/index/market_bat 1 -
+/index/lotteryHall.do 1 -
+/picture/imtokenlogo.svg 1 -
+/user/ajax_tm 1 -
+/Scripts/Chat 1 -
+/phalapi/public/ 1 -
+/static/icon.png 1 -
+/tp/ 1 -
+/loop/fiveData 1 -
+/api/market/currency_matches 1 -
+/.well-known/security.txt 2 http://www.snowboard-ai.com/.well-known/security.txt
+/app/config/getConfig 1 -
+/merchant/code 10 -
+/wap/reportExample.shtml 1 -
+/wp-content/plugins/loginizer/assets/js/loginizer-admin.js 1 https://snowboard-ai.com/wp-admin/admin.php
+/home/data/get_ip_info 1 -
+/static/home/2022/ppaayy.js 1 -
+/views/bank/bank.html 1 -
+/installer.php 1 -
+/static/api/js/conf/define.js 1 -
+/about 1 -
+/js/app.js 1 -
+/sitemap.xml 9 -
+/oldsite/wp-admin/install.php 1 -
+/newss/resources/js/pc28-betbox.js 1 -
+/welive.js 1 -
+/init.js 1 -
+/computer/articleContent 1 -
+//website/wp-includes/wlwmanifest.xml 6 -
+/wp-admin/setup-config.php 2 www.google.com
+/js/_coolchat-commons.js 1 -
+/ashx/getPlatParam.ashx 1 1
+/mobile-api/initConfig.js 1 -
+/OLD/wp-admin/install.php 1 www.google.com
+/qslyabgufhpicwx 1 -
+/Home/Jiekou/ajaxLatest1 1 -
+/api/mihdy/register 1 -
+/blog/wp-admin/install.php 2 www.google.com
+/Public/mobile/js/config.js 1 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 1 -
+/static/admin/js/cvphp.js 1 -
+/js/chunk-vendors.63ec85b1.js 1 -
+/index/load/rebotslist.html 1 -
+/js/app.style2.js 1 -
+/wp-admin/install.php 2 www.google.com
+/us 10 -
+/static/wap/bjscDetails.html 1 -
+/api/apps/config 1 -
+/Public/statics/js/iconfont.js 1 -
+/mobile/login/register.html 1 -
+/native/getStationInfo.do 1 -
+/km.asmx/getPlatParam 1 -
+/api/ipa/download_app_info 1 -
+/index/index/register1/type/1.html 1 -
+/wp/wp-admin/install.php 2 www.google.com
+/Home/Get/getIndexLunshu 1 -
+/auth/web/login/webLoginEwm 1 -
+/service 2 -
+/api/index/index 1 -
+/res/dou/login.css 1 -
+/t100/icon-service.svg 1 -
+/app/login 1 -
+/room/minilogin.php 1 -
+/js/subsidy/bk.min.js 1 -
+/debug/default/view 1 -
+/admin.php 1 snowboard-ai.com
+/html/wechat/getkey 1 -
+/wordpress/wp-admin/setup-config.php 2 www.google.com
+/web/wp-admin/install.php 1 -
+/telescope/requests 2 -
+/statics/css/user.css 1 -
+//cms/wp-includes/wlwmanifest.xml 6 -
+/humans.txt 3 http://www.snowboard-ai.com/humans.txt
+/assets/layui/resuser/room.js 1 -
+/v1/common/visitor/getAgentStatus.do 1 -
+/api/currency/quotation_new 1 -
+/t000/login-img-2.svg 1 -
+/ads.txt 4 http://www.snowboard-ai.com/ads.txt
+/cron/bet/lastKj 1 -
+/api/mdm/getAppInfo 1 -
+/libs/wsBase.js 1 -
+/js/noright.js 1 -
+/melody/api/v1/retgistercolumn/list 1 -
+//blog/wp-includes/wlwmanifest.xml 6 -
+//sito/wp-includes/wlwmanifest.xml 6 -
+/v1/user/overview/userinfo 1 -
+/resources/main/common.js 1 -
+/en/autonews.html 1 -
+/Home/SendSMSCodeToPhoneFromAdmin 1 -
+/api/mobileweb/error 1 -
+/index/index/vhash 1 -
+/test/wp-admin/install.php 1 -
+/api/safety/system-list 1 -
+/js/room.js 1 -
+/static_jt/css/style.css 1 -
+/api/f.php 1 -
+/Application/Basic/Static/css/customerselect.css 1 -
+/js/nsc_m/res.js 1 -
+/merchant/z/payment/ 10 -
+/a/web/goWeb/userTpl 1 -
+/3ds1633693954432212 9 -
+/static/home/js/regular.js 1 -
+/resource/images/404.jpg 1 -
+/setting/global 1 -
+/index/index/cx 1 -
+/api.php 1 -
+/index.html 1 -
+/security.txt 2 http://www.snowboard-ai.com/security.txt
+/-_files/bj.png 1 -
+/x_hf.asp 1 -
+/sapp-add-user.php 1 -
+/app/h5Api 1 -
+/check 1 -
+/static/index/Index.js 1 -
+/history_code.shtml 1 -
+/index/index/info 1 -
+/home 10 -
+/about.php 1 snowboard-ai.com
+/static/wap/css/trade-history.css 1 -
+/static/img/banben.png 1 -
+/api/config 1 -
+/app/member/getdata.php 1 -
+/Pay/index.php 1 -
+//wp/wp-includes/wlwmanifest.xml 6 -
+/static/theme/landrick/js/counter.init.js 1 -
+//wp1/wp-includes/wlwmanifest.xml 6 -
+//2020/wp-includes/wlwmanifest.xml 5 -
+/v2/_catalog 1 -
+/assets/js/video.js 1 -
+/scripts/LoadAjaxIco.js 1 -
+/__error_/static/_errorPageModule.js 1 -
+/admin/event/uploadfile 1 -
+/api/v1/product/category 1 -
+/Card/liu.html 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 351
+103.133.143.228 765 1602 31802642 20240131163224
+198.54.120.79 371 371 2432184 20240131222855
+98.237.168.57 201 361 7155070 20240124021530
+57.129.15.32 56 62 60453 20240124043316
+51.195.90.123 52 58 55321 20240124091258
+43.128.68.127 38 38 26041 20240126042733
+185.241.208.97 20 20 52348 20240131132725
+92.205.22.178 19 19 55335 20240131203054
+149.56.150.151 11 11 17747 20240125103307
+149.56.150.50 11 11 15786 20240124022739
+193.233.233.29 11 11 7494 20240131062811
+123.60.68.42 9 9 6219 20240130015753
+192.198.80.6 8 24 2011888 20240124022114
+104.164.173.75 7 9 5972 20240123002245
+75.98.84.163 6 6 4188 20240125090538
+37.111.196.201 6 19 1270780 20240130131154
+52.16.245.145 6 14 10936 20240123003746
+129.226.158.26 5 5 3499 20240129130242
+171.67.70.233 4 4 2528 20240123044440
+43.153.93.68 4 4 2676 20240130211555
+171.67.70.229 4 4 2528 20240123003650
+43.130.31.48 4 4 2676 20240131210704
+159.138.9.92 4 11 1001249 20240130152359
+51.75.141.254 4 4 2604 20240124094125
+95.177.180.82 3 15 13545 20240129034019
+68.235.50.230 1 1 1218 20240126095614
+178.254.38.45 1 1 668 20240124143850
+111.7.100.21 1 1 529 20240123212608
+203.30.15.152 2 2 1298 20240125114215
+34.81.16.175 1 5 4515 20240127071008
+15.160.213.250 2 2 1336 20240124082155
+111.7.100.23 1 1 668 20240123212603
+123.6.49.15 1 5 5529 20240124140715
+67.21.32.148 1 1 600 20240124044325
+101.91.148.219 1 1 606 20240131011520
+46.246.122.166 1 1 1218 20240126063548
+146.70.190.219 2 2 1336 20240123215103
+84.252.95.137 1 1 698 20240129013916
+8.41.221.54 2 2 2394 20240125211933
+195.211.77.142 1 1 630 20240123002300
+45.139.67.60 0 1 408 
+104.166.80.196 1 1 630 20240123043335
+121.5.231.252 2 2 1304 20240131141500
+34.228.227.178 1 5 5559 20240126131310
+216.19.200.71 1 5 4463 20240123004023
+103.20.141.5 2 7 265463 20240130232424
+43.130.47.136 1 1 701 20240126070130
+45.90.63.224 1 1 698 20240125182540
+92.10.125.31 1 1 1218 20240126095644
+128.90.114.254 2 2 1336 20240124043550
+176.53.219.100 1 1 698 20240125050020
+189.15.80.138 1 1 698 20240130033920
+119.13.90.176 1 5 4515 20240126092544
+45.92.229.90 1 1 668 20240124043808
+124.220.161.119 1 1 698 20240130114540
+45.41.179.132 1 1 553 20240126121233
+95.177.180.85 1 5 4491 20240125021336
+94.247.172.129 1 1 606 20240131195130
+66.63.167.148 1 1 501 20240123002601
+134.238.202.161 1 1 698 20240125085943
+104.244.210.243 2 2 1336 20240125014416
+190.103.179.220 2 2 1268 20240124094125
+138.68.163.195 1 1 698 20240126071948
+211.176.125.70 1 1 698 20240126014044
+66.115.182.142 1 1 668 20240124094004
+84.17.42.59 2 2 2914 20240126063546
+15.204.182.106 2 2 1339 20240124205951
+74.80.181.157 1 1 698 20240129013914
+87.236.176.243 1 1 671 20240124220525
+170.106.159.160 2 2 1369 20240130070543
+192.145.127.221 1 5 4491 20240124043355
+54.152.8.38 1 1 630 20240123005522
+168.151.199.27 1 5 4515 20240127074803
+15.204.137.228 1 4 5121 20240124043804
+124.223.193.173 1 1 698 20240127180638
+205.169.39.133 2 8 7423 20240123004316
+146.190.197.169 1 1 600 20240124043611
+43.155.152.154 2 2 1402 20240129210101
+102.129.152.107 2 2 3392 20240126094644
+154.30.116.135 1 5 4491 20240124200917
+184.72.244.125 1 1 668 20240124155902
+128.90.117.104 2 2 1336 20240124082155
+43.135.181.13 1 1 606 20240130191626
+45.15.157.177 1 1 600 20240124043613
+65.154.226.167 1 5 4515 20240125183249
+205.169.39.114 2 8 7527 20240127183738
+54.88.179.33 1 1 1696 20240126051055
+46.101.140.229 1 1 698 20240130084924
+39.108.177.115 3 3 2004 20240124152656
+205.169.39.73 2 8 7479 20240124115829
+49.98.155.59 1 1 668 20240124065745
+43.155.183.138 1 1 671 20240125013425
+124.223.193.19 2 2 1396 20240129155129
+104.129.56.143 1 1 1218 20240126063546
+80.120.129.210 1 1 698 20240129041429
+104.255.169.118 1 1 600 20240124044326
+184.94.240.88 1 1 1909 20240130135805
+168.151.246.168 1 5 4491 20240124004036
+149.40.50.72 1 1 1218 20240126095617
+45.185.55.138 1 1 668 20240125021705
+149.56.150.226 1 5 4494 20240124022758
+119.29.202.15 2 6 5068 20240125182821
+155.190.2.31 1 1 698 20240125083901
+54.189.132.13 1 1 698 20240126203311
+213.188.70.168 1 5 4515 20240127074802
+202.43.6.11 2 2 1336 20240124043550
+146.70.132.85 2 2 1399 20240126045219
+43.159.128.68 1 1 606 20240130202300
+54.198.79.19 1 1 1696 20240126163140
+178.62.219.65 1 1 553 20240126050408
+106.161.65.206 2 2 1268 20240124044326
+178.128.210.253 2 2 3392 20240130091825
+66.29.159.254 2 9 7753 20240124212627
+43.159.128.149 1 1 671 20240124100036
+144.217.135.179 1 5 4519 20240125103329
+43.130.32.224 2 2 1402 20240126210104
+35.171.144.152 1 1 1700 20240126051056
+111.207.155.211 2 2 3392 20240126202340
+124.221.186.82 1 1 698 20240125165522
+18.130.153.20 1 1 1218 20240126063546
+104.131.5.238 3 3 2004 20240124160122
+43.163.3.58 1 1 698 20240128111504
+66.35.20.253 1 1 698 20240125083901
+45.90.60.40 1 1 668 20240124132033
+135.148.195.7 1 1 698 20240128205420
+51.159.214.65 1 3 3668 20240123105555
+172.241.131.132 1 1 1218 20240126063547
+68.235.38.151 1 1 600 20240123215318
+51.159.103.13 1 3 3736 20240125131620
+173.255.175.48 2 2 1336 20240123215103
+43.159.128.172 1 1 701 20240125070451
+52.80.162.245 1 3 3739 20240128055834
+3.237.18.91 1 1 668 20240124113838
+192.158.226.18 1 1 1218 20240126063546
+138.199.27.3 2 2 1336 20240124045532
+131.202.14.152 1 1 698 20240125090640
+167.71.235.30 1 1 630 20240123010026
+91.92.245.204 2 2 2508 20240131064150
+94.176.60.67 1 5 4515 20240129003515
+42.83.147.42 1 1 1482 20240125021908
+43.135.149.154 3 3 2005 20240131070924
+51.254.199.11 1 1 698 20240126092252
+119.12.166.6 1 1 0 20240126063553
+168.151.246.10 1 5 4463 20240123004124
+128.90.105.96 1 1 668 20240124094004
+191.101.217.20 1 1 600 20240124094514
+108.181.218.157 1 1 606 20240130182022
+185.242.7.134 2 2 1336 20240125014416
+107.23.14.41 1 1 668 20240123201422
+68.235.50.251 2 2 1336 20240124082155
+156.146.41.90 2 2 1336 20240124043549
+116.206.228.181 1 1 668 20240124044252
+45.92.229.94 1 1 668 20240124043609
+192.3.20.61 2 2 3392 20240126094623
+54.90.215.162 1 5 5559 20240126131311
+43.250.82.230 1 5 4463 20240123004319
+104.166.80.230 1 1 668 20240124043500
+43.155.166.202 1 1 701 20240127175429
+181.215.183.8 1 1 529 20240124044056
+104.168.34.154 2 2 3392 20240126063418
+87.236.176.176 1 1 671 20240124093042
+87.236.176.225 1 1 668 20240124002440
+52.80.52.250 1 3 3736 20240127060338
+216.126.231.175 1 1 668 20240123221944
+91.92.241.173 1 3 3736 20240128220451
+89.149.17.2 2 2 1336 20240125014416
+74.80.181.158 2 2 1336 20240124082155
+111.7.100.26 1 1 671 20240123213459
+65.154.226.166 1 5 4515 20240127183614
+18.208.120.255 1 5 4491 20240125021725
+69.158.246.54 1 1 600 20240124094513
+34.217.11.85 1 1 698 20240127044906
+45.87.212.91 1 1 1218 20240126063548
+84.17.59.72 2 2 1336 20240124082155
+95.215.38.152 1 5 4515 20240126004205
+135.148.195.13 1 1 668 20240124053624
+185.203.187.22 1 1 606 20240130162916
+49.104.28.102 1 1 668 20240124054302
+37.120.149.61 2 2 3392 20240126063418
+46.246.122.121 1 1 1696 20240126094623
+179.61.240.97 1 1 600 20240124044327
+34.213.201.90 1 5 4491 20240124224535
+164.90.241.135 1 1 600 20240124082319
+51.89.24.36 1 5 4515 20240125095732
+205.169.39.123 2 8 7527 20240125183043
+52.12.116.106 1 1 698 20240130044128
+193.163.170.149 1 1 698 20240129221446
+139.144.150.8 1 1 1264 20240123002238
+159.203.118.28 3 3 2034 20240127124817
+45.142.98.106 1 5 4491 20240125003512
+147.182.220.66 1 1 698 20240128071757
+107.172.114.60 1 1 668 20240124190327
+49.97.100.176 1 1 668 20240124081259
+45.138.16.85 1 1 606 20240130212608
+49.51.179.103 1 1 701 20240126160047
+34.105.37.64 1 1 1696 20240125084902
+35.88.186.70 2 8 269491 20240130150708
+3.236.163.26 1 1 668 20240124155900
+43.159.63.75 1 1 701 20240129055527
+52.80.60.159 1 3 3706 20240125003141
+98.159.39.10 2 6 5020 20240124065835
+164.90.184.41 1 1 668 20240124185545
+43.143.60.88 1 1 698 20240127162306
+36.41.75.167 1 1 606 20240131222854
+104.166.80.128 1 1 701 20240129043336
+104.244.209.74 1 1 600 20240123215318
+43.206.208.110 1 1 668 20240124171714
+44.210.108.236 1 5 4491 20240125021723
+43.134.37.211 1 1 698 20240126190132
+52.73.56.26 1 1 668 20240124115758
+23.172.112.232 1 1 1218 20240126063547
+123.6.49.41 1 5 5529 20240124141330
+3.123.37.41 2 2 2914 20240126095614
+104.166.80.175 1 1 634 20240123043353
+18.118.142.151 1 5 4491 20240124043602
+35.91.5.85 1 1 698 20240127053349
+87.236.176.129 1 1 668 20240124220450
+43.130.37.62 2 2 18399 20240130130236
+3.126.120.32 1 1 600 20240123215318
+43.159.141.180 1 1 701 20240127070059
+208.80.194.41 1 1 1902 20240131035523
+87.89.48.69 1 1 698 20240129014041
+157.119.232.164 1 5 4463 20240123124456
+204.188.255.147 1 1 698 20240128230656
+164.52.36.218 2 2 3392 20240127110606
+13.82.54.38 2 2 1339 20240124215354
+185.253.96.20 1 1 698 20240129013915
+43.133.66.151 2 2 18441 20240130160209
+195.211.77.140 1 1 0 20240123002245
+154.47.21.154 2 2 3392 20240130034909
+138.68.45.178 1 1 668 20240123221943
+36.110.211.69 1 1 668 20240124140525
+23.111.114.116 2 2 1366 20240126010058
+216.131.114.7 2 2 1336 20240125014416
+176.53.218.34 1 1 698 20240126132358
+43.134.89.111 2 2 1402 20240128201441
+34.122.147.229 2 10 9006 20240125183737
+172.94.48.7 2 10 8982 20240124044405
+43.133.77.208 2 2 1402 20240130100404
+106.55.225.110 1 1 698 20240125042514
+20.114.22.115 1 5 4630 20240124044205
+111.7.100.22 1 1 668 20240124194828
+170.106.101.31 1 1 701 20240129070259
+154.28.229.119 1 1 501 20240123002243
+104.166.80.254 1 1 701 20240126033107
+161.129.171.1 1 5 4491 20240124004143
+162.221.207.98 2 2 3392 20240126063418
+43.130.39.101 1 1 698 20240125130057
+49.51.206.130 2 2 1304 20240131100614
+197.242.157.110 1 1 668 20240124094006
+43.130.7.211 2 2 1372 20240128070212
+43.157.66.187 1 1 701 20240128210133
+124.221.186.26 1 1 698 20240129175710
+58.49.233.126 1 1 606 20240131110556
+54.202.246.200 1 1 698 20240127045006
+89.149.24.189 1 1 1696 20240126094521
+52.204.129.51 1 1 668 20240123185405
+35.166.12.70 1 1 698 20240130050145
+45.87.69.95 1 1 529 20240124053934
+51.178.81.195 2 2 2296 20240126094623
+18.188.136.122 1 5 4515 20240129093645
+216.24.216.223 1 1 698 20240129014045
+186.210.42.88 1 1 698 20240125111232
+216.251.130.74 2 10 9030 20240126080832
+194.33.191.139 2 2 3392 20240127010252
+102.129.153.38 1 1 698 20240129014041
+52.81.67.84 1 3 3739 20240125053438
+190.103.179.212 1 1 698 20240129013914
+43.153.110.177 1 1 698 20240128190202
+128.90.117.219 1 1 668 20240124044250
+43.131.248.209 1 1 701 20240129160115
+3.126.251.215 1 1 698 20240129013914
+143.244.41.172 1 1 1218 20240126063547
+106.155.2.58 2 2 1336 20240124060427
+95.177.163.4 1 5 4515 20240127025930
+3.144.94.79 1 5 4463 20240123002728
+45.90.60.203 1 1 698 20240127195230
+34.121.253.172 1 1 698 20240126022744
+69.160.160.59 1 5 4515 20240126011005
+130.255.166.115 1 1 668 20240125022335
+183.192.230.153 1 1 1902 20240131035755
+77.81.136.78 1 1 600 20240124082319
+77.74.177.119 1 1 668 20240124081700
+65.154.226.169 2 7 265463 20240131183637
+43.128.100.206 1 1 701 20240126094241
+138.197.194.139 1 1 630 20240123010150
+72.13.46.6 3 3 2107 20240130033535
+221.229.106.25 1 1 701 20240130092012
+74.80.181.153 2 2 1336 20240123215103
+206.189.247.132 1 1 600 20240124082320
+104.166.80.111 1 1 701 20240125043247
+170.106.171.77 1 1 606 20240131191912
+47.242.224.70 2 6 7340 20240123082319
+152.39.139.221 1 5 4491 20240125003516
+178.128.112.200 2 2 3392 20240126015605
+146.70.108.169 2 2 1336 20240124043550
+104.166.80.53 1 1 698 20240130043209
+45.87.212.92 3 3 1936 20240124094513
+205.169.39.182 3 8 265999 20240131183749
+128.90.107.225 1 1 698 20240129014041
+194.104.146.27 2 6 5020 20240124135619
+43.133.77.230 1 1 668 20240124190015
+43.135.129.233 3 3 2097 20240129190623
+51.89.227.251 1 1 701 20240125153747
+138.199.18.69 2 2 3392 20240126063418
+195.201.41.238 1 1 1696 20240125185605
+89.248.171.23 1 5 4491 20240124043458
+209.127.97.142 0 1 408 
+129.226.146.179 2 2 1372 20240129201017
+2.236.112.207 2 2 2956 20240124044637
+198.12.64.41 1 1 600 20240124082319
+104.166.80.115 1 1 698 20240126033331
+176.53.216.106 1 1 668 20240124182415
+38.95.13.133 1 1 668 20240124044251
+35.165.215.140 3 13 273952 20240131072035
+102.165.41.46 3 3 4652 20240128051545
+94.176.60.85 1 5 4515 20240129003512
+54.149.246.127 1 5 4432 20240125034945
+104.166.80.8 1 1 698 20240129043239
+104.248.223.102 1 1 17737 20240124005305
+193.187.172.24 2 2 2394 20240126144351
+23.239.2.89 1 1 668 20240124190327
+182.44.2.148 1 1 698 20240125151710
+150.129.92.91 1 5 4515 20240126004053
+54.188.128.159 1 7 5181 20240126001437
+104.166.80.83 1 1 671 20240124043439
+103.108.94.168 1 1 668 20240124044251
+64.64.108.32 1 1 600 20240124043611
+181.214.218.215 3 4 2378 20240124045534
+35.85.218.2 0 1 2664 
+15.237.188.175 2 2 1336 20240125014416
+198.23.242.153 2 2 1268 20240124094513
+43.134.190.89 1 1 698 20240129212216
+156.146.59.173 1 4 5155 20240124045049
+223.15.245.170 1 1 698 20240127034756
+104.166.80.66 1 1 698 20240125043347
+193.36.118.250 1 1 698 20240129014041
+104.166.80.38 1 1 701 20240130043341
+192.81.216.12 1 1 701 20240128085221
+3.68.158.19 1 1 600 20240124043611
+170.106.82.193 1 1 606 20240131131329
+51.77.92.157 1 5 4515 20240125112802
+176.53.223.197 1 1 698 20240125151955
+144.126.238.69 1 1 671 20240124201640
+172.241.131.142 2 2 1336 20240124043550
+165.225.243.2 1 1 698 20240125084751
+124.221.247.200 1 1 698 20240130120355
+104.197.69.115 1 5 4515 20240125195805
+128.199.27.248 1 1 668 20240124082441
+34.218.238.148 0 1 374 
+34.97.112.152 1 5 4463 20240123004354
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 9
+20240123 63 115 92046 39
+20240124 553 825 9677581 134
+20240125 101 169 154227 78
+20240126 77 117 122657 67
+20240127 31 59 53905 29
+20240128 19 27 24177 19
+20240129 31 47 36927 31
+20240130 394 983 24730766 36
+20240131 778 1073 13120594 28
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+0s-30s 407
+5mn-15mn 4
+30s-2mn 24
+2mn-5mn 6
+30mn-1h 1
+15mn-30mn 8
+1h+ 11
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 93
+/wp-admin/admin-ajax.php 638 7517205 2 5
+/ 591 1136185 413 393
+/wp-cron.php 318 0 9 10
+/Talha/ 84 69588 24 32
+/wp-admin/admin.php 35 571955 0 0
+/wp-admin/load-styles.php 23 2365533 0 0
+/wp-admin/themes.php 22 709963 0 0
+/wp-admin/load-scripts.php 20 958542 0 0
+/wp-admin/plugins.php 19 342962 0 0
+//xmlrpc.php 14 6436 0 0
+//wp-login.php 14 82905 0 2
+/wp-admin/theme-install.php 13 271537 0 0
+/login/ 12 101556 1 0
+/wp-admin/ 10 229880 1 0
+/wp-json/wp/v2/settings 9 7302 0 0
+/wp-admin/edit.php 9 166349 0 0
+/wp-admin/update-core.php 9 136032 0 0
+/Tahla/ 9 10966 7 8
+/wp-admin/options-general.php 8 271204 0 0
+/wp-login.php 7 12304 2 1
+/wp-json/ 7 1648 0 0
+/wp-content/plugins/under-construction-page/themes/fonts/fontawesome-webfont.woff2 7 540120 0 6
+/wp-json/wp/v2/users/me 7 15720 0 0
+/wp-json/wp/v2/taxonomies 7 15317 0 0
+/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_normal_400.woff2 6 876360 0 0
+/wp-json/wp/v2/types/post 3 7176 0 0
+/wp-json/wp/v2/wp_pattern_category 4 8 0 0
+/wp-json/wp/v2/template-parts/twentytwentyfour/header 2 4562 0 0
+/wp-json/wp/v2/templates/twentytwentyfour/home 3 3642 0 0
+//wp-json/wp/v2/users/ 2 1224 0 0
+/wp-admin/tools.php 1 7156 0 0
+/wp-admin/plugin-install.php 3 44908 0 0
+/wp-json/wp/v2/categories/1 1 616 0 0
+/wp-json/wp/v2/ 1 169359 0 0
+/wp-admin/site-editor.php 3 186220 0 0
+// 5 9510 0 0
+/check_charset.php 2 154 0 0
+/wp-json/wp/v2/themes/twentytwentyfour 1 3472 0 0
+/wp-json/wp/v2/users/1 2 4380 0 0
+/wp-json/wp/v2/navigation 2 3018 0 0
+/wp-json/wp-block-editor/v1/navigation-fallback 2 2368 0 0
+/cpanel 1 13000 0 0
+/home/ 3 37237 0 0
+/wp-json/wp/v2/global-styles/themes/twentytwentyfour/variations 2 49378 0 0
+/wp-json/wp/v2/global-styles/6 3 1707 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 1 18824 0 0
+/wp-json/wp/v2/posts/1 2 23496 0 0
+/wp-json/wp/v2/categories 2 1236 0 0
+/wp-json/wp/v2/taxonomies/category 3 6117 0 0
+/wp-content/themes/cryptlight/assets/libs/ovaicon/font/ovaicon.ttf 1 39752 0 0
+/wp-json/elementor/v1/kit-elements-defaults 1 2 0 0
+/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff2 1 30064 0 0
+/wp-admin/edit-comments.php 1 13852 0 0
+/wp-admin/index.php 6 127540 0 0
+/wp-json/wp/v2/themes 4 30810 0 0
+/wp-admin/update.php 2 36283 0 0
+/wp-json/wp/v2/types 3 58374 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2 1 78196 0 0
+/wp-content/themes/cryptlight/customize/custom-control/api/google-fonts-alphabetical.json 2 2170312 0 0
+/wp-admin/upgrade.php 2 42 0 0
+/wp-json/wp/v2/templates 3 14178 0 0
+/wp-json/wp/v2/navigation/4 2 12798 0 0
+/wp-admin/upload.php 1 21530 0 0
+/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.woff2 1 24488 0 0
+/wp-json/wp/v2/template-parts/twentytwentyfour/footer 2 2034 0 0
+/installer.php 1 606 1 1
+/wp-json/astra/v1/admin/settings/ 1 113 0 0
+/wp-json/wp/v2/menus 3 6 0 0
+/wp-admin/post.php 3 420329 0 0
+/wp-json/wp/v2/block-patterns/categories 4 7321 0 0
+/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.woff2 1 109808 0 0
+/wp-json/wp/v2/pages/573/autosaves 1 480 0 0
+/wp-json/wp/v2/global-styles/6/revisions 1 2 0 0
+/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2 1 96108 0 0
+/wp-json/wp/v2/pages/573 2 11671 0 0
+/wp-content/plugins/litespeed-cache/assets/css/fonts/litespeedfont.ttf 1 1840 0 0
+/wp-json/wp/v2/blocks 4 8 0 0
+/wp-json/wp/v2/block-patterns/patterns 4 1118707 0 0
+/wp-json/wp/v2/pages 4 5760 0 0
+/softtest_fbqzm77x/soft 1 20 0 0
+/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2 1 150020 0 0
+/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_italic_400.woff2 6 631104 0 3
+/wp-admin/about.php 2 39135 0 0
+/wp-json/elementor/v1/globals 1 884 0 0
+/wp-json/wp/v2/posts 3 8547 0 0
+/wp-json/wp/v2/taxonomies/post_tag 1 1846 0 0
+/wp-admin/post-new.php 1 101087 0 0
+/membership-account/membership-levels/ 1 17363 0 0
+//wp-includes/wlwmanifest.xml 2 3804 1 0
+/wp-content/plugins/wpforms-lite/assets/images/integrations/elementor/font/icon-wpforms.woff2 1 2632 0 0
+/wp-content/themes/twentytwentyfour/assets/fonts/inter/Inter-VariableFont_slnt,wght.woff2 6 1959768 0 0
+/membership-account/membership-checkout/ 2 37492 0 0
+/wp-json/wp/v2/users 3 2863 0 0
+END_SIDER

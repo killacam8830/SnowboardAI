@@ -1,0 +1,155 @@
+/**
+ * CSS for shortcodes.
+ * 
+ * This code is only loaded if the theme or parent theme is NOT Memberlite.
+ */ 
+
+/* [memberlite_btn] Shortcode */
+.btn,
+.btn:link {
+	background-color: #95A5A6;
+	border: none;
+	border-radius: 6px;
+	box-shadow: 1px 2px 4px rgba(0,0,0,0.2);
+	color: #FFF;
+	cursor: pointer; /* Improves usability and consistency of cursor style between image-type 'input' and others */
+	-webkit-appearance: none;
+	font-size: 1em;
+	font-style: normal;
+	font-weight: normal;
+	display: inline-block;
+	line-height: 1.8;
+	padding: .5em 1em;
+	text-align: center;
+	text-decoration: none;
+	text-shadow: none;
+	-webkit-transform: translateZ(0);
+	transform: translateZ(0);
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+	-moz-osx-font-smoothing: grayscale;
+	overflow: hidden;
+	-webkit-transition-duration: 0.3s;
+	transition-duration: 0.3s;
+	-webkit-transition-property: transform, filter linear;
+	transition-property: transform, filter linear;
+}
+.btn:hover,
+.btn:active,
+.btn:focus {
+	box-shadow: 1px 2px 4px rgba(0,0,0,0.4);
+	color: #FFF;
+	filter: brightness(var(1.1));
+	transform: translateY(-1px);
+}
+.btn_info,
+.btn_info:link {
+	background-color: #5bc0de;
+}
+.btn_success,
+.btn_success:link {
+	background-color: #5cb85c;
+}
+.btn_error,
+.btn_error:link {
+	background-color: #d9534f;
+}
+.btn_alert,
+.btn_alert:link {
+	background-color: #f0ad4e;
+}
+.btn_info:hover {
+	background-color: #31b0d5;
+}
+.btn_success:hover {
+	background-color: #449d44;
+}
+.btn_error:hover {
+	background-color: #c9302c;
+}
+.btn_alert:hover {
+	background-color: #ec971f;
+}
+
+/* Link-style button */
+.btn_link {
+	background-color: none;
+	border: none;
+	box-shadow: none;
+	color: #2C3E50;
+	cursor: pointer; /* Improves usability and consistency of cursor style between image-type ‘input’ and others */
+	display: inline-block;
+	font-style: normal;
+	font-weight: 400;
+	overflow: hidden;
+	padding: .5em 1em;
+	text-decoration: underline;
+	text-shadow: none;
+}
+.btn_link:hover {
+	background-color: none;
+	box-shadow: none;
+	transform: none;
+	text-decoration: underline;
+}
+.btn_block,
+.btn_block:link {
+	display: block;
+}
+.btn .fa,
+.btn .fab,
+.btn .far,
+.btn .fas,
+.btn_link .fa,
+.btn_link .fab,
+.btn_link .far,
+.btn_link .fas {
+	padding: 0 .25em;
+}
+
+/* [memberlite_msg] Shortcode */
+.pmpro_message {
+	background-color: #d9edf7;
+	border-radius: 5px;
+	border: 1px solid #bce8f1;
+	color: #31708f;
+	font-size: 1em;
+	font-weight: 400;
+	line-height: 1.8;
+	margin: .5em 0;
+	padding: .5em;
+}
+.pmpro_message.pmpro_default {
+	background-color: #FAFAFA;
+	color: #777;
+	border-color: #CCCCCC;
+}
+.pmpro_success {
+	background-color: #dff0d8;
+	border-color: #d6e9c6;
+	color: #3c763d;
+}
+.pmpro_error {
+	background-color: #f2dede;
+	border-color: #ebccd1;
+	color: #a94442;
+}
+.pmpro_alert {
+	background-color: #fcf8e3;
+	border-color: #faebcc;
+	color: #8a6d3b;
+}
+.pmpro_message a {
+	color: #245269;
+	text-decoration: underline;
+}
+.pmpro_success a {
+	color: #2b542c;
+}
+.pmpro_error a {
+	color: #843534;
+}
+.pmpro_alert a {
+	color: #66512c;
+}
+
